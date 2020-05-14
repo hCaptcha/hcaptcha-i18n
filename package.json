@@ -1,0 +1,18 @@
+{
+  "name": "@hcaptcha/hcaptcha-i18n",
+  "version": "1.0.0",
+  "description": "Translation table for the hCaptcha API.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hCaptcha/hcaptcha-i18n.git"
+  },
+  "author": "Brad Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hCaptcha/hcaptcha-i18n/issues"
+  },
+  "homepage": "https://github.com/hCaptcha/hcaptcha-i18n#readme",
+  "dependencies": {
+    "require-directory": "^2.1.1"
+  }
+}
