@@ -176,5 +176,17 @@
                 }
             }
         }
+    },
+
+    "backcompat": {
+        "Back": "Back",
+        "Enter the two words in the image.": "Enter the two words in the image.",
+        "Error fetching captcha.": "Error fetching captcha.",
+        "Error submitting captcha.":"Error submitting captcha.",
+        "Info": "Info",
+        "Our accessibility option may help.":"Our accessibility option may help.",
+        "Send Us Feedback": "Send Us Feedback",
+        "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit":"hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit"
     }
+
 }
