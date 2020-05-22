@@ -1,0 +1,180 @@
+{
+    "checkbox": {
+        "prompt": {
+            "text": "I am human",
+            "aria_label": "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie."
+        },
+        "passed": {
+            "aria_label" : "hCaptcha checkbox. You are verified I am human."
+        },
+        "interface": {
+            "logo" : {
+                "aria_label" : "The hCaptcha user information page. Learn more about the service and accessibility options."
+            },
+            "links": {
+                "privacy": {
+                    "text": "Privacy",
+                    "aria_label": "hCaptcha Privacy Policy"
+                },
+                "terms": {
+                    "text": "Terms",
+                    "aria_label": "hCaptcha Terms of Service"
+                }
+            },
+            "message" : {
+                "error" : {
+                    "aria_label": "widget error message text"
+                },
+                "warning" : {
+                    "invalid_sitekey": "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.",
+                    "dummy_sitekey" : "This hCaptcha is for testing only. Please contact the site admin if you see this.",
+                    "aria_label": "widget warning message text"
+                }
+            }
+        }
+    },
+
+    "challenge": {
+        "interface": {
+            "button": {
+                "menu": {
+                    "aria_label" : "Get information about hCaptcha and accessibility options."
+                },
+                "refresh": {
+                    "aria_label" : "Refresh Challenge."
+                },
+                "check": {
+                    "text" : "Check",
+                    "aria_label" : "Submit Answers"
+                },
+                "next": {
+                    "text" : "Next",
+                    "aria_label" : "Next Challenge"
+                },
+                "skip": {
+                    "text" : "Skip",
+                    "aria_label" : "Skip Challenge"
+                },
+                "report": {
+                    "text" : "Report",
+                    "aria_label" : "Report Image"
+                }
+            },
+            "menu": {
+                "report_image": {
+                    "text": "Report Image",
+                    "aria_label": "Report an image to hCaptcha."
+                },
+                "report_bug": {
+                    "text": "Report Bug",
+                    "aria_label": "Report a software bug or issue to hCaptcha."
+                },
+                "information": {
+                    "text": "Information",
+                    "aria_label": "Get information about hCaptcha."
+                },
+            },
+            "try_again": {
+                "text": "Please try again."
+            }
+        },
+        "modal": {
+            "button": {
+                "cancel": {
+                    "text": "Cancel",
+                    "aria_label": "Cancel Response"
+                },
+                "close": {
+                    "text": "Close",
+                    "aria_label": "Close Modal"
+                },
+                "send": {
+                    "text": "Send",
+                    "aria_label": "Send Response",
+                    "lock_aria_label": "Please select an option to send response."
+                }
+            },
+            "options": {
+                "difficulty": {
+                    "text" : "Too Difficult"
+                },
+                "content": {
+                    "text": "Inappropriate"
+                },
+                "software": {
+                    "text": "Software Bug"
+                },
+                "Other": {
+                    "text": "Other"
+                },
+                "captcha_solve": {
+                    "text": "Can't Solve"
+                },
+                "captcha_usability": {
+                    "text": "Can't Click"
+                },
+                "captcha_position": {
+                    "text": "Off Screen"
+                }
+            },
+            "feedback": {
+                "aria_label": "Provide feedback for hCaptcha.",
+                "header": {
+                    "text": "Feedback",
+                },
+                "placeholder": {
+                    "text": "Please describe your issue."
+                }
+            },
+            "software_bug": {
+                "aria_label": "Provide feedback for hCaptcha.",
+                "header": {
+                    "text": "Software Bug",
+                },
+                "placeholder": {
+                    "text": "Please provide details and steps to reproduce."
+                }
+            },
+            "info": {
+                "aria_label": "Information about the hCaptcha service.",
+                "header": {
+                    "text": "Information",
+                },
+                "instructions": {
+                    "text": "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit",
+                    "aria_label": "Read more about the hCaptcha service."
+                },
+                "feedback": {
+                    "text_problem": "Having a problem?",
+                    "text_give": "Give feedback.",
+                    "aria_label": "Provide feedback regarding the hCaptcha service."
+                },
+                "accessibility": {
+                    "text": "Learn about accessibility options.",
+                    "aria_label": "Sign up for accessibility access to bypass the hCaptcha challenge."
+                }
+            },
+            "thanks": {
+                "text": "Thank you for your feedback.",
+                "aria_label": "Thank you for your feedback.",
+                "header": {
+                    "text": "Information",
+                },
+                "copy": {
+                    "resolve": "We'll resolve your issue as quickly as we can.",
+                    "look": "We will look into the issue immediately.",
+                    "bug": "Reporting a functionality issue?",
+                    "bug_link": "See how to report issues with detailed logs.",
+                    "adblock": "Please also try turning off your ad blocker.‍",
+                    "accessibility": "Our accessibility option may help",
+                    "avoid": "This lets you avoid future questions by registering and setting a cookie.",
+                    "sorry": "Sorry to hear that!"
+                },
+                "a11y": {
+                    "aria_label_bug": "Give a detailed report of a bug you've encountered.",
+                    "aria_label_accessibility": "View our accessibility option."
+                }
+            }
+        }
+    }
+}
