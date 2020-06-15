@@ -14,5 +14,10 @@
   "homepage": "https://github.com/hCaptcha/hcaptcha-i18n#readme",
   "dependencies": {
     "require-directory": "^2.1.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "languages/",
+    "src/"
+  ]
 }
