@@ -31,6 +31,11 @@
                     "aria_label": "widget warning message text"
                 }
             }
+        },
+        "status": {
+            "400" : "Rate limited or network error. Please retry.",
+            "429": "Your computer or network has sent too many requests.",
+            "500": "Cannot contact hCaptcha. Check your connection and try again."
         }
     },
 
@@ -76,6 +81,9 @@
             },
             "try_again": {
                 "text": "Please try again."
+            },
+            "report": {
+                "text": "Please select an image to report."
             }
         },
         "modal": {
