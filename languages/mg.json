@@ -12,8 +12,8 @@
     "Error fetching captcha.": "Hadisoana maka captcha.",
     "Error submitting captcha.": "Hadisoana ny mandefa captcha.",
     "Feedback": "Feedback",
-    "Get information about hCaptcha and accessibility options.": "Mak\u00e0 fampahalalana momba ny hCaptcha sy ny fidirana fidirana.",
-    "Get information about hCaptcha.": "Mak\u00e0 fampahalalana momba ny hCaptcha.",
+    "Get information about hCaptcha and accessibility options.": "Makà fampahalalana momba ny hCaptcha sy ny fidirana fidirana.",
+    "Get information about hCaptcha.": "Makà fampahalalana momba ny hCaptcha.",
     "Give a detailed report of a bug you've encountered.": "Omeo tatitra amin&#39;ny antsipirihany momba ny bug iray nifanena taminao.",
     "Give feedback.": "Omeo valiny.",
     "Having a problem?": "Manana olana?",
@@ -29,7 +29,7 @@
     "Other": "Hafa",
     "Our accessibility option may help": "Ny safidintsika fidirana dia mety manampy",
     "Our accessibility option may help.": "Ny safidintsika fidirana dia mety manampy.",
-    "Please also try turning off your ad blocker.\u200d": "Azafady atao ihany koa ny manandrana mamily ny dokam-barotra an-tsokosoko",
+    "Please also try turning off your ad blocker.‍": "Azafady atao ihany koa ny manandrana mamily ny dokam-barotra an-tsokosoko",
     "Please describe your issue.": "Azafady mba hamarino ny olanao.",
     "Please provide details and steps to reproduce.": "Azafady azafady azafady ny antsipiriany sy ny dingana hitondran-tena.",
     "Please select an image to report.": "Safidio azafady sary iray hotaterina.",
@@ -72,7 +72,7 @@
     "hCaptcha Terms of Service": "hCaptcha Terms of service",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "boaty hCaptcha. Safidio mba hisintona ny fanamby, na handalovana izany raha toa ianao manana mofomamy miditra.",
     "hCaptcha checkbox. You are verified I am human.": "boaty hCaptcha. Voamarina fa olombelona aho.",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha dia serivisy iray izay mampihena ny bots sy spam amin&#39;ny fametrahana fanontaniana tsotra. Azafady araho ny torol\u00e0lana eo amin&#39;ny tampon&#39;ny efijery isaky ny fanamby. Raha mila fanazavana fanampiny",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha dia serivisy iray izay mampihena ny bots sy spam amin&#39;ny fametrahana fanontaniana tsotra. Azafady araho ny torolàlana eo amin&#39;ny tampon&#39;ny efijery isaky ny fanamby. Raha mila fanazavana fanampiny",
     "widget error message text": "text message message error",
     "widget warning message text": "hafatra hafatra fampitandremana widget"
 }
