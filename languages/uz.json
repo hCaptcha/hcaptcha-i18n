@@ -1,7 +1,7 @@
 {
     "Back": "Orqaga",
-    "Can't Click": "Bosib bo\u2018lmaydi",
-    "Can't Solve": "Hal qilib bo\u2018lmadi",
+    "Can't Click": "Bosib bo‘lmaydi",
+    "Can't Solve": "Hal qilib bo‘lmadi",
     "Cancel": "Bekor qilish",
     "Cancel Response": "Javobni bekor qiling",
     "Cannot contact hCaptcha. Check your connection and try again.": "HCaptcha bilan aloqa o&#39;rnatib bo&#39;lmaydi. Ulanishingizni tekshiring va qaytadan urining.",
@@ -29,7 +29,7 @@
     "Other": "Boshqalar",
     "Our accessibility option may help": "Bizning kirish imkoniyatimiz yordam berishi mumkin",
     "Our accessibility option may help.": "Bizning kirish imkoniyatimiz yordam berishi mumkin.",
-    "Please also try turning off your ad blocker.\u200d": "Iltimos, reklama blokerini o&#39;chirib ko&#39;ring",
+    "Please also try turning off your ad blocker.‍": "Iltimos, reklama blokerini o&#39;chirib ko&#39;ring",
     "Please describe your issue.": "Iltimos, muammongizni aytib bering.",
     "Please provide details and steps to reproduce.": "Iltimos, tafsilotlarni va ko&#39;paytirish bosqichlarini bering.",
     "Please select an image to report.": "Xabar berish uchun rasmni tanlang.",
