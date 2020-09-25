@@ -183,6 +183,14 @@
                     "aria_label_accessibility": "View our accessibility option."
                 }
             }
+        },
+        "header": {
+            "report_image": {
+                "text" :"Please select an image to report."
+            },
+            "none_skip": {
+                "text": "If there are None, click Skip"
+            }
         }
     },
 
