@@ -162,20 +162,17 @@
                     "text": "Accessibility"
                 },
                 "copy": {
-                    "text": "hCaptcha is committed to being fully accessible. For those that need to bypass our visual challenge, we offer an accessibility cookie that can be retrieved once registered with hCaptcha.",
-                    "details": "Find more details on our site."
+                    "text": "hCaptcha is committed to being fully accessible. To bypass the visual challenge, please {{sign up}} for an accessibility account.",
+                    "more": "Learn more {{here}}."
                 },
                 "cookie_status": {
                     "header": "Status:",
-                    "support" : "For help, please email support@hcaptcha.com",
-                    "register" : "Click here to retrieve one.",
-                    "enable" : "Click here to enable.",
                     "types": {
                         "no_cookie": {
-                            "no_access" : "Accessibility cookie is not set.",
-                            "has_access": "Cookies are disabled or the accessibility cookie is not set."
+                            "no_access" : "Accessibility cookie is not set. Click {{here}} to retrieve one.",
+                            "has_access": "Cookies are disabled or the accessibility cookie is not set. Click {{here}} to enable."
                         },
-                        "has_cookie": "Accessibility cookie is set."
+                        "has_cookie": "Accessibility cookie is set. For help, please email {{support}}"
                     }
                 }
             },
@@ -185,8 +182,7 @@
                     "text": "Information"
                 },
                 "instructions": {
-                    "text": "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge.",
-                    "more_info": "For more info visit hcaptcha.com",
+                    "text": "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}",
                     "aria_label": "Read more about the hCaptcha service."
                 },
                 "feedback": {
