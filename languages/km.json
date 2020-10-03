@@ -1,7 +1,7 @@
 {
     "Accessibility": "ភាពងាយស្រួល",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ខូឃីភាពងាយស្រួលមិនត្រូវបានកំណត់។ {{ទៅយកខូឃីស៍}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "ឃុកឃីភាពងាយស្រួលត្រូវបានកំណត់។ សម្រាប់ជំនួយសូមផ្ញើអ៊ីមែល {{គាំទ្រ}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ខូឃីភាពងាយស្រួលមិនត្រូវបានកំណត់។ {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "ឃុកឃីភាពងាយស្រួលត្រូវបានកំណត់។ សម្រាប់ជំនួយសូមផ្ញើអ៊ីមែល {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ភាពងាយស្រួល។ ទស្សនាធាតុម៉ឺនុយនេះដើម្បីស្វែងយល់ពីវិធីបើកដំណើរការ hCaptcha ដែលអនុញ្ញាតឱ្យអ្នកជៀសផុតពីបញ្ហាប្រឈមតាមរយៈតំណភ្ជាប់តាមអ៊ីមែល។",
     "Back": "ថយក្រោយ",
     "Can't Click": "មិនអាចចុចបានទេ",
@@ -12,7 +12,7 @@
     "Check": "ពិនិត្យ",
     "Close": "បិទ",
     "Close Modal": "បិទម៉ូឌុល",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ខុកឃីត្រូវបានបិទឬខូឃីភាពងាយស្រួលមិនត្រូវបានកំណត់។ {{អនុញ្ញាតខុកឃី}} ។",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ខុកឃីត្រូវបានបិទឬខូឃីភាពងាយស្រួលមិនត្រូវបានកំណត់។ {{enable-cookies}} ។",
     "Describe why you are reporting an image.": "រៀបរាប់ពីមូលហេតុដែលអ្នករាយការណ៍អំពីរូបភាព។",
     "Enable cross-site cookies.": "បើកដំណើរការខូគីឆ្លងគេហទំព័រ។",
     "Enter the two words in the image.": "បញ្ចូលពាក្យពីរនៅក្នុងរូបភាព។",

@@ -1,6 +1,6 @@
 {
     "Accessibility": "Kebolehcapaian",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kuki kebolehaksesan tidak ditetapkan. {{ambil semula-kuki}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kuki kebolehaksesan tidak ditetapkan. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Kuki kebolehaksesan ditetapkan. Untuk bantuan, sila hantarkan e-mel {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Kebolehcapaian. Kunjungi entri menu ini untuk mengetahui cara mengaktifkan aksesibilitas hCaptcha, yang membolehkan anda melewati cabaran melalui pautan melalui e-mel.",
     "Back": "Belakang",
@@ -12,7 +12,7 @@
     "Check": "Periksa",
     "Close": "Tutup",
     "Close Modal": "Tutup Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kuki dilumpuhkan atau kuki kebolehaksesan tidak ditetapkan. {{aktifkan-kuki}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kuki dilumpuhkan atau kuki kebolehaksesan tidak ditetapkan. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Terangkan mengapa anda melaporkan gambar.",
     "Enable cross-site cookies.": "Dayakan kuki merentas laman web.",
     "Enter the two words in the image.": "Masukkan dua perkataan dalam gambar.",

@@ -1,7 +1,7 @@
 {
     "Accessibility": "Aksesibilitas",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie aksesibilitas durung disetel. {{nompo-cookie}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Cookie aksesibilitas disetel. Kanggo pitulung, mangga email menyang {{dhukungan}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie aksesibilitas durung disetel. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Cookie aksesibilitas disetel. Kanggo pitulung, mangga email menyang {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Aksesibilitas Kunjungi entri menu iki kanggo sinau babagan ngaktifake aksesibilitas hCaptcha, sing ngidini sampeyan ngliwati tantangan liwat link email.",
     "Back": "Mbalik",
     "Can't Click": "Ora bisa Klik",
@@ -12,7 +12,7 @@
     "Check": "Mrikso",
     "Close": "Nutup",
     "Close Modal": "Nutup Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookie dipateni utawa cookie aksesibilitas ora disetel. {{ngaktifake-cookie}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookie dipateni utawa cookie aksesibilitas ora disetel. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Nggambarake kenapa sampeyan nglaporake gambar.",
     "Enable cross-site cookies.": "Ngaktifake cookie salib situs.",
     "Enter the two words in the image.": "Lebokake rong tembung kasebut ing gambar.",

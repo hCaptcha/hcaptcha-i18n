@@ -1,7 +1,7 @@
 {
     "Accessibility": "Հասանելիություն",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Մատչելիության թխուկը սահմանված չէ: {{առբերել-cookie}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Սահմանված է մատչելիության քուքի: Օգնության համար խնդրում ենք ուղարկել էլ. Փոստով {{աջակցություն}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Մատչելիության թխուկը սահմանված չէ: {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Սահմանված է մատչելիության քուքի: Օգնության համար խնդրում ենք ուղարկել էլ. Փոստով {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Հասանելիություն Այցելեք այս ընտրացանկի մուտքը ՝ իմանալու, թե ինչպես միացնել hCaptcha- ի հասանելիությունը, ինչը թույլ է տալիս շրջանցել մարտահրավերը էլեկտրոնային հղման միջոցով:",
     "Back": "Ետ",
     "Can't Click": "Հնարավոր չէ սեղմել",
@@ -12,7 +12,7 @@
     "Check": "Ստուգեք",
     "Close": "փակել",
     "Close Modal": "Մոդալ փակեք",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Թխուկներն անջատված են կամ մատչելիության թխուկը կարգավորված չէ: {{միացրեք թխուկները}}:",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Թխուկներն անջատված են կամ մատչելիության թխուկը կարգավորված չէ: {{enable-cookies}}:",
     "Describe why you are reporting an image.": "Նկարագրեք, թե ինչու եք հաղորդում պատկերի մասին:",
     "Enable cross-site cookies.": "Միացնել միջքաղաքային բլիթները:",
     "Enter the two words in the image.": "Մուտքագրեք նկարի երկու բառերը:",

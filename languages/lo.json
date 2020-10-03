@@ -1,7 +1,7 @@
 {
     "Accessibility": "ຄວາມສາມາດເຂົ້າເຖິງໄດ້",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ຄຸກກີໃນການເຂົ້າເຖິງບໍ່ໄດ້ຖືກ ກຳ ນົດ. {{ດຶງຂໍ້ມູນເຂົ້າຄຸກກີ,}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "ຄຸກກີໃນການເຂົ້າເຖິງໄດ້ຖືກ ກຳ ນົດໄວ້. ສຳ ລັບການຊ່ວຍເຫຼືອ, ກະລຸນາອີເມວ {{ສະ ໜັບ ສະ ໜູນ}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ຄຸກກີໃນການເຂົ້າເຖິງບໍ່ໄດ້ຖືກ ກຳ ນົດ. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "ຄຸກກີໃນການເຂົ້າເຖິງໄດ້ຖືກ ກຳ ນົດໄວ້. ສຳ ລັບການຊ່ວຍເຫຼືອ, ກະລຸນາອີເມວ {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ຄວາມສາມາດເຂົ້າເຖິງໄດ້. ເຂົ້າເບິ່ງລາຍການເມນູນີ້ເພື່ອຮຽນຮູ້ວິທີທີ່ຈະເຮັດໃຫ້ hCaptcha ສາມາດເຂົ້າເຖິງໄດ້, ເຊິ່ງຊ່ວຍໃຫ້ທ່ານສາມາດຫລີກລ່ຽງສິ່ງທ້າທາຍໄດ້ຜ່ານທາງລິງອີເມວ.",
     "Back": "ກັບໄປ",
     "Can't Click": "ບໍ່ສາມາດກົດ",

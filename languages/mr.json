@@ -1,7 +1,7 @@
 {
     "Accessibility": "प्रवेशयोग्यता",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "प्रवेशयोग्यता कुकी सेट केलेली नाही. {{पुनर्प्राप्त-कुकी}",
-    "Accessibility cookie is set. For help, please email {{support}}": "प्रवेशयोग्यता कुकी सेट केली आहे. मदतीसाठी, कृपया ईमेल करा {{समर्थन email email",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "प्रवेशयोग्यता कुकी सेट केलेली नाही. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "प्रवेशयोग्यता कुकी सेट केली आहे. मदतीसाठी, कृपया ईमेल करा {{support}} email email",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "प्रवेशयोग्यता. एचकेप्चा प्रवेशयोग्यता कशी सक्षम करावी हे जाणून घेण्यासाठी या मेनू प्रविष्टीला भेट द्या, जे आपणास ईमेल केलेल्या दुव्याद्वारे आव्हान बायपास करण्यास परवानगी देते.",
     "Back": "मागे",
     "Can't Click": "क्लिक करू शकत नाही",
@@ -12,7 +12,7 @@
     "Check": "तपासा",
     "Close": "बंद",
     "Close Modal": "मॉडेल बंद करा",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "कुकीज अक्षम केल्या आहेत किंवा ibilityक्सेसीबीलिटी कुकी सेट केलेली नाही. cookies {सक्षम-कुकीज}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "कुकीज अक्षम केल्या आहेत किंवा ibilityक्सेसीबीलिटी कुकी सेट केलेली नाही. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "आपण प्रतिमेचा अहवाल का देत आहात त्याचे वर्णन करा.",
     "Enable cross-site cookies.": "क्रॉस-साइट कुकीज सक्षम करा.",
     "Enter the two words in the image.": "प्रतिमेमध्ये दोन शब्द प्रविष्ट करा.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha चेकबॉक्स. आव्हान ट्रिगर करण्यासाठी किंवा आपल्याकडे ibilityक्सेसीबीलिटी कुकी असल्यास त्यास बायपास करण्यासाठी निवडा.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha चेकबॉक्स. आपण सत्यापित आहात की मी मानव आहे.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "एच कॅप्चा ही एक सेवा आहे जी साधे प्रश्न विचारून बॉट्स आणि स्पॅम कमी करते. कृपया प्रत्येक आव्हानासाठी स्क्रीनच्या शीर्षस्थानी असलेल्या सूचनांचे अनुसरण करा. अधिक माहितीसाठी भेट द्या",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "एच कॅप्चा ही एक सेवा आहे जी साधे प्रश्न विचारून बॉट्स आणि स्पॅम कमी करते. कृपया प्रत्येक आव्हानासाठी स्क्रीनच्या शीर्षस्थानी असलेल्या सूचनांचे अनुसरण करा. अधिक माहितीसाठी {{साइट-url} visit वर भेट द्या.",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "एच कॅप्चा ही एक सेवा आहे जी साधे प्रश्न विचारून बॉट्स आणि स्पॅम कमी करते. कृपया प्रत्येक आव्हानासाठी स्क्रीनच्या शीर्षस्थानी असलेल्या सूचनांचे अनुसरण करा. अधिक माहितीसाठी {{site-url}} visit वर भेट द्या.",
     "widget error message text": "विजेट त्रुटी संदेश मजकूर",
     "widget warning message text": "विजेट चेतावणी संदेश मजकूर"
 }

@@ -1,7 +1,7 @@
 {
     "Accessibility": "Aksesibilitas",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie aksés henteu diatur. {{nimba-cookie}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Cookie aksés parantos diatur. Pikeun bantosan, punten email ka {{dukungan}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie aksés henteu diatur. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Cookie aksés parantos diatur. Pikeun bantosan, punten email ka {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Aksesibilitas. Didatangan Éntri ménu ieu pikeun diajar kumaha ngaktipkeun aksés hCaptcha, anu ngamungkinkeun anjeun pikeun ngahalangan tangtangan ngalangkungan tautan email.",
     "Back": "Balikkeun",
     "Can't Click": "Teu tiasa Klik",
@@ -12,7 +12,7 @@
     "Check": "Cék",
     "Close": "Tutupkeun",
     "Close Modal": "Tutup Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookie dinonaktipkeun atanapi cookie aksés henteu diatur. {{aktipkeun-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookie dinonaktipkeun atanapi cookie aksés henteu diatur. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Jelaskeun naha anjeun ngalaporkeun gambar.",
     "Enable cross-site cookies.": "Aktipkeun cookies cross-site.",
     "Enter the two words in the image.": "Lebetkeun dua kecap dina gambar éta.",

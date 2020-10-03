@@ -1,7 +1,7 @@
 {
     "Accessibility": "ଅଭିଗମ୍ୟତା",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ଅଭିଗମ୍ୟତା କୁକି ସେଟ୍ ହୋଇନାହିଁ | {{ପୁନରୁଦ୍ଧାର-କୁକି}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "ଅଭିଗମ୍ୟତା କୁକି ସେଟ୍ ହୋଇଛି | ସହାୟତା ପାଇଁ, ଦୟାକରି email {ସମର୍ଥନ} email ଇମେଲ କରନ୍ତୁ |",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ଅଭିଗମ୍ୟତା କୁକି ସେଟ୍ ହୋଇନାହିଁ | {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "ଅଭିଗମ୍ୟତା କୁକି ସେଟ୍ ହୋଇଛି | ସହାୟତା ପାଇଁ, ଦୟାକରି email {{support}} email ଇମେଲ କରନ୍ତୁ |",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ଅଭିଗମ୍ୟତା HCaptcha ଆକ୍ସେସିବିଲିଟି କିପରି ସକ୍ଷମ କରାଯିବ ତାହା ଜାଣିବା ପାଇଁ ଏହି ମେନୁ ଏଣ୍ଟ୍ରି ପରିଦର୍ଶନ କରନ୍ତୁ, ଯାହା ଆପଣଙ୍କୁ ଏକ ଇମେଲ ହୋଇଥିବା ଲିଙ୍କ ମାଧ୍ୟମରେ ଚ୍ୟାଲେଞ୍ଜକୁ ବାଇପାସ୍ କରିବାକୁ ଅନୁମତି ଦିଏ |",
     "Back": "ପଛକୁ",
     "Can't Click": "କ୍ଲିକ୍ କରିପାରିବେ ନାହିଁ |",
@@ -12,7 +12,7 @@
     "Check": "ଯାଞ୍ଚ କରନ୍ତୁ |",
     "Close": "ବନ୍ଦ",
     "Close Modal": "ମୋଡାଲ୍ ବନ୍ଦ କରନ୍ତୁ |",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "କୁକିଜ୍ ଅକ୍ଷମ ହୋଇଛି କିମ୍ବା ଆକ୍ସେସିବିଲିଟି କୁକି ସେଟ୍ ହୋଇନାହିଁ | {{ସକ୍ଷମ-କୁକିଜ୍}}।",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "କୁକିଜ୍ ଅକ୍ଷମ ହୋଇଛି କିମ୍ବା ଆକ୍ସେସିବିଲିଟି କୁକି ସେଟ୍ ହୋଇନାହିଁ | {{enable-cookies}}।",
     "Describe why you are reporting an image.": "ଆପଣ କାହିଁକି ଏକ ପ୍ରତିଛବି ରିପୋର୍ଟ କରୁଛନ୍ତି ବର୍ଣ୍ଣନା କରନ୍ତୁ |",
     "Enable cross-site cookies.": "କ୍ରସ୍ ସାଇଟ୍ କୁକିଜ୍ ସକ୍ଷମ କରନ୍ତୁ |",
     "Enter the two words in the image.": "ପ୍ରତିଛବିରେ ଦୁଇଟି ଶବ୍ଦ ପ୍ରବେଶ କରନ୍ତୁ |",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha ଚେକ୍ ବକ୍ସ | ଚ୍ୟାଲେଞ୍ଜକୁ ଟ୍ରିଗର କରିବାକୁ, କିମ୍ବା ଯଦି ଆପଣଙ୍କର ଏକ ଆକ୍ସେସିବିଲିଟି କୁକି ଅଛି ତେବେ ଏହାକୁ ବାଇପାସ୍ କରିବାକୁ ଚୟନ କରନ୍ତୁ |",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha ଚେକ୍ ବକ୍ସ | ତୁମେ ଯା ified ୍ଚ କର ଯେ ମୁଁ ମଣିଷ ଅଟେ |",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ହେଉଛି ଏକ ସେବା ଯାହା ସରଳ ପ୍ରଶ୍ନ ପଚାରି ବଟ୍ ଏବଂ ସ୍ପାମ୍ ହ୍ରାସ କରେ | ପ୍ରତ୍ୟେକ ଚ୍ୟାଲେଞ୍ଜ ପାଇଁ ଦୟାକରି ସ୍କ୍ରିନ୍ ଉପରେ ଥିବା ନିର୍ଦ୍ଦେଶାବଳୀ ଅନୁସରଣ କରନ୍ତୁ | ଅଧିକ ସୂଚନା ପରିଦର୍ଶନ ପାଇଁ |",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ହେଉଛି ଏକ ସେବା ଯାହା ସରଳ ପ୍ରଶ୍ନ ପଚାରି ବଟ୍ ଏବଂ ସ୍ପାମ୍ ହ୍ରାସ କରେ | ପ୍ରତ୍ୟେକ ଆହ୍ for ାନ ପାଇଁ ଦୟାକରି ସ୍କ୍ରିନ୍ ଉପରେ ଥିବା ନିର୍ଦ୍ଦେଶାବଳୀ ଅନୁସରଣ କରନ୍ତୁ | ଅଧିକ ସୂଚନା ପାଇଁ {{site-url visit visit ପରିଦର୍ଶନ କରନ୍ତୁ |",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ହେଉଛି ଏକ ସେବା ଯାହା ସରଳ ପ୍ରଶ୍ନ ପଚାରି ବଟ୍ ଏବଂ ସ୍ପାମ୍ ହ୍ରାସ କରେ | ପ୍ରତ୍ୟେକ ଆହ୍ for ାନ ପାଇଁ ଦୟାକରି ସ୍କ୍ରିନ୍ ଉପରେ ଥିବା ନିର୍ଦ୍ଦେଶାବଳୀ ଅନୁସରଣ କରନ୍ତୁ | ଅଧିକ ସୂଚନା ପାଇଁ {{site-url}} visit visit ପରିଦର୍ଶନ କରନ୍ତୁ |",
     "widget error message text": "ୱିଜେଟ୍ ତ୍ରୁଟି ବାର୍ତ୍ତା ପାଠ୍ୟ |",
     "widget warning message text": "ୱିଜେଟ୍ ଚେତାବନୀ ବାର୍ତ୍ତା ପାଠ୍ୟ |"
 }

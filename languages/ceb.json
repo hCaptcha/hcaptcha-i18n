@@ -1,7 +1,7 @@
 {
     "Accessibility": "Pag-access",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Dili matudlo ang cookie sa pag-access. {{pagkuha-cookie}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Naa na ang setting sa accessibility cookie. Alang sa tabang, palihug email sa {{suporta}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Dili matudlo ang cookie sa pag-access. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Naa na ang setting sa accessibility cookie. Alang sa tabang, palihug email sa {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Pag-access Bisitaha ang kini nga pagsulud sa menu aron mahibal-an kung giunsa nga makahimo ang access sa hCaptcha, nga nagtugot kanimo nga laktawan ang hagit pinaagi sa usa ka link sa email.",
     "Back": "Balik",
     "Can't Click": "Dili ma-klik",
@@ -12,7 +12,7 @@
     "Check": "Pagsusi",
     "Close": "Suod nga",
     "Close Modal": "Pag-undang sa Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Ang mga cookie wala’y kapansanan o ang accessibility cookie wala matakda. {{makahimo-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Ang mga cookie wala’y kapansanan o ang accessibility cookie wala matakda. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Ihulagway kung ngano nga nagreport ka usa ka imahe.",
     "Enable cross-site cookies.": "Pag-aktibo sa mga cross-site cookies.",
     "Enter the two words in the image.": "Pagsulud sa duha nga mga pulong sa imahe.",

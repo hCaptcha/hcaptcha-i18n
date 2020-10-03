@@ -1,6 +1,6 @@
 {
     "Accessibility": "Пристапност",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Колачето за пристапност не е поставено. {{поврати-колаче}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Колачето за пристапност не е поставено. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Поставено е колаче за пристапност. За помош, испратете е-пошта до {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Пристапност Посетете го овој запис за менито за да научите како да овозможите пристапност до hCaptcha, што ви овозможува да го заобиколите предизвикот преку е-пошта.",
     "Back": "Назад",
@@ -12,7 +12,7 @@
     "Check": "Проверете",
     "Close": "Затвори",
     "Close Modal": "Затвори го Модал",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Колачињата се оневозможени или колачето за пристапност не е поставено. {{овозможете-колачиња}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Колачињата се оневозможени или колачето за пристапност не е поставено. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Опишете зошто пријавувате слика.",
     "Enable cross-site cookies.": "Овозможете колачиња меѓу страниците.",
     "Enter the two words in the image.": "Внесете ги двата збора на сликата.",

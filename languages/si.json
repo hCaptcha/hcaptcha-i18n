@@ -1,7 +1,7 @@
 {
     "Accessibility": "ප්රවේශ",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ප්‍රවේශ්‍යතා කුකිය සකසා නැත. {{ලබා ගන්න-කුකී}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "ප්‍රවේශ්‍යතා කුකිය සකසා ඇත. උදව් සඳහා කරුණාකර email {support} email විද්‍යුත් තැපෑලෙන් එවන්න",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ප්‍රවේශ්‍යතා කුකිය සකසා නැත. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "ප්‍රවේශ්‍යතා කුකිය සකසා ඇත. උදව් සඳහා කරුණාකර email {{support}} email විද්‍යුත් තැපෑලෙන් එවන්න",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ප්රවේශ. ඊ-තැපැල් සබැඳියක් හරහා අභියෝගය මඟ හැරීමට ඔබට ඉඩ සලසන hCaptcha ප්‍රවේශ්‍යතාවය සක්‍රීය කරන්නේ කෙසේදැයි දැන ගැනීමට මෙම මෙනු ප්‍රවේශයට පිවිසෙන්න.",
     "Back": "ආපසු",
     "Can't Click": "ක්ලික් කළ නොහැක",
@@ -12,7 +12,7 @@
     "Check": "චෙක් පත",
     "Close": "වසන්න",
     "Close Modal": "මොඩලය වසන්න",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "කුකී අක්‍රීය කර හෝ ප්‍රවේශවීමේ කුකිය සකසා නොමැත. {{සක්‍රීය-කුකීස්}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "කුකී අක්‍රීය කර හෝ ප්‍රවේශවීමේ කුකිය සකසා නොමැත. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "ඔබ රූපයක් වාර්තා කරන්නේ මන්දැයි විස්තර කරන්න.",
     "Enable cross-site cookies.": "හරස් අඩවි කුකී සක්‍රීය කරන්න.",
     "Enter the two words in the image.": "රූපයේ වචන දෙක ඇතුළත් කරන්න.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha පිරික්සුම් කොටුව. අභියෝගය අවුලුවාලීම සඳහා තෝරන්න, නැතහොත් ඔබට ප්‍රවේශ විය හැකි කුකියක් තිබේ නම් එය මඟ හරින්න.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha පිරික්සුම් කොටුව. මම මනුෂ්‍යයෙක් බව ඔබ සනාථ කරයි.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha යනු සරල ප්‍රශ්න ඇසීමෙන් බොට්ස් සහ අයාචිත තැපැල් අඩු කරන සේවාවකි. එක් එක් අභියෝග සඳහා කරුණාකර තිරයේ ඉහළින් ඇති උපදෙස් අනුගමනය කරන්න. වැඩි විස්තර සඳහා පිවිසෙන්න",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha යනු සරල ප්‍රශ්න ඇසීමෙන් බොට්ස් සහ අයාචිත තැපැල් අඩු කරන සේවාවකි. එක් එක් අභියෝග සඳහා කරුණාකර තිරයේ ඉහළින් ඇති උපදෙස් අනුගමනය කරන්න. වැඩි විස්තර සඳහා {{site-url} visit වෙත පිවිසෙන්න",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha යනු සරල ප්‍රශ්න ඇසීමෙන් බොට්ස් සහ අයාචිත තැපැල් අඩු කරන සේවාවකි. එක් එක් අභියෝග සඳහා කරුණාකර තිරයේ ඉහළින් ඇති උපදෙස් අනුගමනය කරන්න. වැඩි විස්තර සඳහා {{site-url}} visit වෙත පිවිසෙන්න",
     "widget error message text": "විජට් දෝෂ පණිවිඩ පෙළ",
     "widget warning message text": "විජට් අනතුරු ඇඟවීමේ පණිවිඩ පෙළ"
 }

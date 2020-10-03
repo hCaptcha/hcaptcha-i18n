@@ -1,6 +1,6 @@
 {
     "Accessibility": "Атайын мүмкүнчүлүктөр",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Атайын мүмкүнчүлүктөр куки коюлган эмес. {{алуу-куки}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Атайын мүмкүнчүлүктөр куки коюлган эмес. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Атайын мүмкүнчүлүктөр куки коюлган. Жардам алуу үчүн, электрондук почта дарегине {{support}} өтүңүз",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Атайын мүмкүнчүлүктөр. HCaptcha жеткиликтүүлүгүн кантип электрондук почта аркылуу шилтеме аркылуу кыйгап өтүүгө мүмкүнчүлүк бергенин билүү үчүн, бул меню жазуусуна баш багыңыз.",
     "Back": "кайра",

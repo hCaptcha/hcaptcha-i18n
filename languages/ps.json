@@ -1,7 +1,7 @@
 {
     "Accessibility": "لاسرسی",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "د لاسرسي کوکی ټاکل شوی ندی. rie {ret-retie-ڪوڪي}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "د لاسرسي کوکی تنظیم شوی. د مرستې لپاره ، مهرباني وکړئ ایمیل {{ملاتړ} email",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "د لاسرسي کوکی ټاکل شوی ندی. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "د لاسرسي کوکی تنظیم شوی. د مرستې لپاره ، مهرباني وکړئ ایمیل {{support}} email",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "لاسرسی. د دې مینو ننوتنه وګورئ ترڅو د hCaptcha لاسرسي وړولو څرنګوالي زده کړئ ، کوم چې تاسو ته اجازه درکوي چیلین د بریښنالیک لینک له لارې تېر کړئ.",
     "Back": "شاته",
     "Can't Click": "کلیک نشی کولی",
@@ -12,7 +12,7 @@
     "Check": "چیک",
     "Close": "بندول",
     "Close Modal": "مودل بند کړئ",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "کوکیز ناتوان شوي یا د لاسرسي کوکي تنظیم شوې نده. cookies {فعال کوکیز}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "کوکیز ناتوان شوي یا د لاسرسي کوکي تنظیم شوې نده. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "تشریح کړئ چې تاسو ولې د عکس راپور کوئ.",
     "Enable cross-site cookies.": "د کراس سایټ کوکیز فعال کړئ.",
     "Enter the two words in the image.": "په عکس کې دوه ټکي دننه کړئ.",

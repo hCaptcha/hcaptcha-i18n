@@ -1,6 +1,6 @@
 {
     "Accessibility": "Ho fihlella",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie ea phihlello ha e sete. {{lata-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie ea phihlello ha e sete. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Cookie ea phihlello e setiloe. Bakeng sa thuso, ka kopo romella lengolo-tsoibila {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Ho fihlella. Etela lenane lena la menyetla ho ithuta ho nolofalletsa phihlello ea hCaptcha, e u lumellang ho feta phephetso ka sehokela sa lengolo-tsoibila.",
     "Back": "Morao",
@@ -12,7 +12,7 @@
     "Check": "Lekola",
     "Close": "Haufi",
     "Close Modal": "Koala Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies ha e na thuso kapa cookie ea ho kena ha e sete. {{nolofalletsa-li-cookie}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies ha e na thuso kapa cookie ea ho kena ha e sete. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Hlalosa hore na hobaneng u tlaleha setšoantšo.",
     "Enable cross-site cookies.": "Numella li-cookies tsa sefapano.",
     "Enter the two words in the image.": "Kenya mantsoe ana a mabeli setšoantšong.",

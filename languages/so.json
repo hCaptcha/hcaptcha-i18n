@@ -1,7 +1,7 @@
 {
     "Accessibility": "Helitaanka",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kukumaan helitaanka lama dejin. {{dib u soo cesho-cookie}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Kukii helitaanka ayaa la dejiyey. Caawinaad, fadlan emayl {{taageero}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kukumaan helitaanka lama dejin. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Kukii helitaanka ayaa la dejiyey. Caawinaad, fadlan emayl {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Helitaanka Booqo soo galkan liistada si aad u barato sida loo karti galiyo hCaptcha, taas oo kuu oggolaanaysa inaad ka gudubto caqabadda adoo adeegsanaya xiriiriye emayl ah.",
     "Back": "Soo noqo",
     "Can't Click": "Ma Taaban Karo",
@@ -12,7 +12,7 @@
     "Check": "Hubi",
     "Close": "Xidh",
     "Close Modal": "Xir Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kukiyada waa la damiyey ama buskudka marin u helka lama dajin. {{karti-kariye}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kukiyada waa la damiyey ama buskudka marin u helka lama dajin. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Sharax sababta aad sawir uga bixinayso sawir.",
     "Enable cross-site cookies.": "Daar cookies-ka iskutallaabta ah.",
     "Enter the two words in the image.": "Gali labada eray ee sawirka.",

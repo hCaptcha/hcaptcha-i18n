@@ -1,7 +1,7 @@
 {
     "Accessibility": "Kev nkag mus",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Yuav siv cov khaub noom faus fab no tsis tau teeb tsa. {{muab dua-tawm khoom ua si}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Yuav siv cov khaub noom yooj yim. Yog xav tau kev pab, thov email {{txhawb}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Yuav siv cov khaub noom faus fab no tsis tau teeb tsa. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Yuav siv cov khaub noom yooj yim. Yog xav tau kev pab, thov email {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Kev nkag mus. Mus saib cov ntawv qhia zaub mov no kom paub txog yuav ua li cas thiaj ua tau hCaptcha kev nkag mus, uas tso cai rau koj los dhau ntawm qhov kev sib tw dhau ntawm ib qho txuas emailed.",
     "Back": "Tom qab",
     "Can't Click": "Tsis Tuaj Nyem",
@@ -12,7 +12,7 @@
     "Check": "Tshawb xyuas",
     "Close": "Kaw",
     "Close Modal": "Kaw Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cov ncuav qab zib ua tsis taus lossis lub chaw nkag yooj yim tsis khoom. {{pab-ncuav qab zib}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cov ncuav qab zib ua tsis taus lossis lub chaw nkag yooj yim tsis khoom. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Piav qhia tias vim li cas koj thiaj li tshaj tawm tus duab.",
     "Enable cross-site cookies.": "Cia cov khaub noom hla-site.",
     "Enter the two words in the image.": "Ntaus ob lo lus nyob rau hauv daim duab.",

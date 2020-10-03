@@ -1,6 +1,6 @@
 {
     "Accessibility": "การเข้าถึง",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ไม่ได้ตั้งค่าคุกกี้การเข้าถึง {{เรียกคุกกี้}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ไม่ได้ตั้งค่าคุกกี้การเข้าถึง {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "ตั้งค่าคุกกี้การเข้าถึงแล้ว หากต้องการความช่วยเหลือโปรดส่งอีเมลไปที่ {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "การเข้าถึง ไปที่รายการเมนูนี้เพื่อเรียนรู้วิธีเปิดใช้งานการเข้าถึง hCaptcha ซึ่งช่วยให้คุณข้ามผ่านความท้าทายผ่านลิงก์อีเมล",
     "Back": "กลับ",

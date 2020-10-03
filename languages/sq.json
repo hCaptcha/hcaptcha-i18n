@@ -1,6 +1,6 @@
 {
     "Accessibility": "Mundësia e hyrjes",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie-ja e hyrjes nuk është vendosur. {{rikthe-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie-ja e hyrjes nuk është vendosur. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Cookie-ja e hyrjes është vendosur. Për ndihmë, ju lutemi dërgoni me email {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Mundësia e hyrjes Vizitoni këtë hyrje të menusë për të mësuar se si të mundësoni hyrjen në hCaptcha, e cila ju lejon të anashkaloni sfidën përmes një lidhjeje me email.",
     "Back": "prapa",
@@ -12,7 +12,7 @@
     "Check": "kontrolloni",
     "Close": "afër",
     "Close Modal": "Mbyll Modalin",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies janë me aftësi të kufizuara ose cookie për qasje nuk është vendosur. {{aktivizo-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies janë me aftësi të kufizuara ose cookie për qasje nuk është vendosur. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Përshkruani pse po raportoni një imazh.",
     "Enable cross-site cookies.": "Aktivizo cookie-t e ndër-faqeve.",
     "Enter the two words in the image.": "Vendosni të dy fjalët në figurë.",

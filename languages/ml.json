@@ -1,7 +1,7 @@
 {
     "Accessibility": "പ്രവേശനക്ഷമത",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "പ്രവേശനക്ഷമത കുക്കി സജ്ജമാക്കിയിട്ടില്ല. {{വീണ്ടെടുക്കുക-കുക്കി}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "പ്രവേശനക്ഷമത കുക്കി സജ്ജമാക്കി. സഹായത്തിന്, ദയവായി email {പിന്തുണ} email ഇമെയിൽ ചെയ്യുക",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "പ്രവേശനക്ഷമത കുക്കി സജ്ജമാക്കിയിട്ടില്ല. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "പ്രവേശനക്ഷമത കുക്കി സജ്ജമാക്കി. സഹായത്തിന്, ദയവായി email {{support}} email ഇമെയിൽ ചെയ്യുക",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "പ്രവേശനക്ഷമത. ഒരു ഇമെയിൽ ലിങ്ക് വഴി വെല്ലുവിളി മറികടക്കാൻ നിങ്ങളെ അനുവദിക്കുന്ന hCaptcha പ്രവേശനക്ഷമത എങ്ങനെ പ്രാപ്തമാക്കാം എന്ന് മനസിലാക്കാൻ ഈ മെനു എൻട്രി സന്ദർശിക്കുക.",
     "Back": "തിരികെ",
     "Can't Click": "ക്ലിക്കുചെയ്യാൻ കഴിയില്ല",
@@ -12,7 +12,7 @@
     "Check": "ചെക്ക്",
     "Close": "അടയ്ക്കുക",
     "Close Modal": "മോഡൽ അടയ്‌ക്കുക",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "കുക്കികൾ അപ്രാപ്‌തമാക്കി അല്ലെങ്കിൽ പ്രവേശനക്ഷമത കുക്കി സജ്ജമാക്കിയിട്ടില്ല. {{പ്രാപ്‌തമാക്കുക-കുക്കികൾ}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "കുക്കികൾ അപ്രാപ്‌തമാക്കി അല്ലെങ്കിൽ പ്രവേശനക്ഷമത കുക്കി സജ്ജമാക്കിയിട്ടില്ല. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "എന്തുകൊണ്ടാണ് നിങ്ങൾ ഒരു ചിത്രം റിപ്പോർട്ടുചെയ്യുന്നതെന്ന് വിവരിക്കുക.",
     "Enable cross-site cookies.": "ക്രോസ്-സൈറ്റ് കുക്കികൾ പ്രാപ്തമാക്കുക.",
     "Enter the two words in the image.": "ചിത്രത്തിലെ രണ്ട് പദങ്ങൾ നൽകുക.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha ചെക്ക്ബോക്സ്. വെല്ലുവിളി പ്രവർത്തനക്ഷമമാക്കുന്നതിന് തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ നിങ്ങൾക്ക് പ്രവേശനക്ഷമത കുക്കി ഉണ്ടെങ്കിൽ അത് മറികടക്കുക.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha ചെക്ക്ബോക്സ്. ഞാൻ മനുഷ്യനാണെന്ന് നിങ്ങൾ സ്ഥിരീകരിച്ചു.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും ദയവായി സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് സന്ദർശിക്കുക",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് {{site-url visit visit സന്ദർശിക്കുക",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് {{site-url}} visit visit സന്ദർശിക്കുക",
     "widget error message text": "വിജറ്റ് പിശക് സന്ദേശ വാചകം",
     "widget warning message text": "വിജറ്റ് മുന്നറിയിപ്പ് സന്ദേശ വാചകം"
 }

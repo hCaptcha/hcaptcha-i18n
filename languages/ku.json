@@ -1,7 +1,7 @@
 {
     "Accessibility": "Gihîştin",
     "Accessibility cookie is not set. {{retrieve-cookie}}": "Kukiya gihîştinê nehatiye saz kirin. {{retrieve-cookie}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Kukiya gihîştinê hatî danîn. Ji bo alîkariyê, ji kerema xwe e-nameyê bi {{piştgirî}} re bişînin",
+    "Accessibility cookie is set. For help, please email {{support}}": "Kukiya gihîştinê hatî danîn. Ji bo alîkariyê, ji kerema xwe e-nameyê bi {{support}} re bişînin",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Gihîştin. Serdana vê navnîşa menuê biçin da ku fêr bibin ka meriv çawa dikare gihîştina hCaptcha-yê çalak bike, ku dihêle hûn bi riya girêdanek e-nameyê zehmetiyê bavêjin.",
     "Back": "Paş",
     "Can't Click": "Nikare bitikîne",
@@ -12,7 +12,7 @@
     "Check": "Berçavkirin",
     "Close": "Nêzîkî",
     "Close Modal": "Modal bigire",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies neçalak in an cookie-ya gihîştinê nayê saz kirin. {{çalak-çerezan}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies neçalak in an cookie-ya gihîştinê nayê saz kirin. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Vebêjin ka çima hûn wêneyek rapor dikin.",
     "Enable cross-site cookies.": "Çerezên nav-malperê çalak bikin.",
     "Enter the two words in the image.": "Du wêneyên li wêneyê binivîse.",

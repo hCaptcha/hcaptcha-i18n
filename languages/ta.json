@@ -1,7 +1,7 @@
 {
     "Accessibility": "அணுகல்",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "அணுகல் குக்கீ அமைக்கப்படவில்லை. {{மீட்டெடு-குக்கீ}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "அணுகல் குக்கீ அமைக்கப்பட்டுள்ளது. உதவிக்கு, மின்னஞ்சல் {{support email email க்கு மின்னஞ்சல் செய்யவும்",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "அணுகல் குக்கீ அமைக்கப்படவில்லை. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "அணுகல் குக்கீ அமைக்கப்பட்டுள்ளது. உதவிக்கு, மின்னஞ்சல் {{{support}} email க்கு மின்னஞ்சல் செய்யவும்",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "அணுகல். HCaptcha அணுகலை எவ்வாறு இயக்குவது என்பதை அறிய இந்த மெனு உள்ளீட்டைப் பார்வையிடவும், இது மின்னஞ்சல் இணைப்பு வழியாக சவாலைத் தவிர்க்க உங்களை அனுமதிக்கிறது.",
     "Back": "மீண்டும்",
     "Can't Click": "கிளிக் செய்ய முடியாது",
@@ -12,7 +12,7 @@
     "Check": "காசோலை",
     "Close": "நெருக்கமான",
     "Close Modal": "மோடலை மூடு",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "குக்கீகள் முடக்கப்பட்டுள்ளன அல்லது அணுகல் குக்கீ அமைக்கப்படவில்லை. {{இயக்கு-குக்கீகள்}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "குக்கீகள் முடக்கப்பட்டுள்ளன அல்லது அணுகல் குக்கீ அமைக்கப்படவில்லை. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "நீங்கள் ஏன் ஒரு படத்தைப் புகாரளிக்கிறீர்கள் என்பதை விவரிக்கவும்.",
     "Enable cross-site cookies.": "குறுக்கு தள குக்கீகளை இயக்கவும்.",
     "Enter the two words in the image.": "படத்தில் இரண்டு சொற்களை உள்ளிடவும்.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha தேர்வுப்பெட்டி. சவாலைத் தூண்டுவதற்குத் தேர்ந்தெடுக்கவும் அல்லது அணுகக்கூடிய குக்கீ இருந்தால் அதைத் தவிர்க்கவும்.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha தேர்வுப்பெட்டி. நீங்கள் மனிதர் என்பதை நீங்கள் சரிபார்க்கிறீர்கள்.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு வருகை",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு {{site-url} visit ஐப் பார்வையிடவும்",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு {{site-url}} visit ஐப் பார்வையிடவும்",
     "widget error message text": "விட்ஜெட் பிழை செய்தி உரை",
     "widget warning message text": "விட்ஜெட் எச்சரிக்கை செய்தி உரை"
 }

@@ -1,7 +1,7 @@
 {
     "Accessibility": "Urutanga",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kaore i te tautuhia te pihikete urutanga. {{tiki-pihikete}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Kua whakaritea te pihikete urutanga. Mo te awhina, tena koa imeera {{tautoko}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kaore i te tautuhia te pihikete urutanga. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Kua whakaritea te pihikete urutanga. Mo te awhina, tena koa imeera {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Urutanga Tirohia tenei urunga rarangi kia mohio koe me pehea te ahei o te urunga hCaptcha, e ahei ai koe ki te karo i te wero ma te hononga imeera.",
     "Back": "Kei te hoki",
     "Can't Click": "Kaore e taea te Paapaa",
@@ -12,7 +12,7 @@
     "Check": "Tirohia",
     "Close": "Katia",
     "Close Modal": "Katia te Mahinga",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kua monokia nga pihikete, kaore ranei i whakatauhia te pihikete whakauru. {{whakahohe-pihikete}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kua monokia nga pihikete, kaore ranei i whakatauhia te pihikete whakauru. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Whakaahuahia he aha koe i tuku ai i tetahi whakaahua.",
     "Enable cross-site cookies.": "Whakahohea nga pihikete-whakawhiti.",
     "Enter the two words in the image.": "Whakauruhia nga kupu e rua ki te whakapakoko.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "pouaka hCaptcha. Tīpakohia kia pai ake ai te wero, ki te paanui ranei mena kei a koe he pihikete whakauru.",
     "hCaptcha checkbox. You are verified I am human.": "pouaka hCaptcha. Kua whakatauhia koe he tangata ahau.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Ko te hCaptcha he ratonga e whakaiti ana i nga pota me te mokomoko ma te paatai i nga paatai ngawari. Me whai i nga tohutohu i te pito o runga o te mata mo ia wero. Mo te roanga atu o nga korero",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha he ratonga e whakaheke ana i nga potae me nga mokowhiti ma te paatai i nga paatai ngawari. Whai koa nga tohutohu kei runga ake o te mata mo ia wero. Mo etahi atu korero tirohia te {{pae-url}}",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha he ratonga e whakaheke ana i nga potae me nga mokowhiti ma te paatai i nga paatai ngawari. Whai koa nga tohutohu kei runga ake o te mata mo ia wero. Mo etahi atu korero tirohia te {{site-url}}",
     "widget error message text": "kuputuhi karere hapa hapa",
     "widget warning message text": "kuputuhi karere whakatupato whakatupato"
 }

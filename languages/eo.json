@@ -1,6 +1,6 @@
 {
     "Accessibility": "Alirebleco",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Alirebla kuketo ne estas difinita. {{retrovi-kuketon}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Alirebla kuketo ne estas difinita. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Alirebla kuketo estas agordita. Por helpo, bonvolu retpoŝti {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Alirebleco. Vizitu ĉi tiun menueniron por lerni kiel ebligi hCaptcha-alireblon, kiu permesas preterpasi la defion per retpoŝta ligilo.",
     "Back": "Reen",
@@ -12,7 +12,7 @@
     "Check": "Kontrolu",
     "Close": "Proksime",
     "Close Modal": "Ferma Modalo",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kuketoj estas malebligitaj aŭ la alirebla kuketo ne estas difinita. {{ebligi-kuketojn}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kuketoj estas malebligitaj aŭ la alirebla kuketo ne estas difinita. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Priskribu kial vi raportas bildon.",
     "Enable cross-site cookies.": "Ebligu interretajn kuketojn.",
     "Enter the two words in the image.": "Enigu la du vortojn en la bildon.",

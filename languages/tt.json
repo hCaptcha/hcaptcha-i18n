@@ -1,7 +1,7 @@
 {
     "Accessibility": "Уңайлык",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie мөмкинлеге юк. {{cookie-алу}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Cookie мөмкинлеге урнаштырылган. Ярдәм өчен зинһар {{ярдәм} email электрон почтасына җибәрегез",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Cookie мөмкинлеге юк. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Cookie мөмкинлеге урнаштырылган. Ярдәм өчен зинһар {{support}} email электрон почтасына җибәрегез",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Уңайлык. HCaptcha мөмкинлеген ничек эшләргә икәнен белү өчен, бу меню язмасына керегез, бу сезгә электрон почта сылтамасы аша проблеманы узып китәргә мөмкинлек бирә.",
     "Back": "Кире",
     "Can't Click": "Басып булмый",
@@ -12,7 +12,7 @@
     "Check": "Тикшерегез",
     "Close": "Ябу",
     "Close Modal": "Ябык модаль",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies инвалид яки cookie мөмкинлеге юк. {{куки-ларны эшләтеп җибәрү}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies инвалид яки cookie мөмкинлеге юк. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Ни өчен рәсем турында хәбәр итүегезне сурәтләгез.",
     "Enable cross-site cookies.": "Сайттагы кукиларны рөхсәт итегез.",
     "Enter the two words in the image.": "Рәсемгә ике сүз кертегез.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha пункты. Авырлыкны башлап җибәрү өчен, яисә сезнең кукигыз булса, аны читләтеп узу өчен сайлагыз.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha пункты. Сез минем кеше икәнегезне расладыгыз.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен керегез",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен {{сайт-url}} сайтына керегез",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен {{site-url}} сайтына керегез",
     "widget error message text": "виджет хатасы тексты",
     "widget warning message text": "виджет кисәтүче хәбәр тексты"
 }

@@ -1,6 +1,6 @@
 {
     "Accessibility": "Barrierefreiheit",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Das Barrierefreiheits-Cookie ist nicht gesetzt. {{Retrieve-Cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Das Barrierefreiheits-Cookie ist nicht gesetzt. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Barrierefreiheits-Cookie wird gesetzt. Für Hilfe senden Sie bitte eine E-Mail an {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Barrierefreiheit. Besuchen Sie diesen Menüeintrag, um zu erfahren, wie Sie die Barrierefreiheit von hCaptcha aktivieren, um die Herausforderung über einen per E-Mail gesendeten Link zu umgehen.",
     "Back": "zurück",
@@ -12,7 +12,7 @@
     "Check": "Prüfen",
     "Close": "Schließen",
     "Close Modal": "Modal schließen",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies sind deaktiviert oder das Barrierefreiheits-Cookie ist nicht gesetzt. {{Cookies aktivieren}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies sind deaktiviert oder das Barrierefreiheits-Cookie ist nicht gesetzt. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Beschreiben Sie, warum Sie ein Bild melden.",
     "Enable cross-site cookies.": "Aktivieren Sie Cross-Site-Cookies.",
     "Enter the two words in the image.": "Geben Sie die beiden Wörter im Bild ein.",

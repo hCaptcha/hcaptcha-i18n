@@ -1,7 +1,7 @@
 {
     "Accessibility": "ಪ್ರವೇಶಿಸುವಿಕೆ",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ಪ್ರವೇಶಿಸುವಿಕೆ ಕುಕಿಯನ್ನು ಹೊಂದಿಸಲಾಗಿಲ್ಲ. {{ಹಿಂಪಡೆಯಿರಿ-ಕುಕೀ}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "ಪ್ರವೇಶಿಸುವಿಕೆ ಕುಕಿಯನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ. ಸಹಾಯಕ್ಕಾಗಿ, ದಯವಿಟ್ಟು email {ಬೆಂಬಲ} email ಗೆ ಇಮೇಲ್ ಮಾಡಿ",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ಪ್ರವೇಶಿಸುವಿಕೆ ಕುಕಿಯನ್ನು ಹೊಂದಿಸಲಾಗಿಲ್ಲ. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "ಪ್ರವೇಶಿಸುವಿಕೆ ಕುಕಿಯನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ. ಸಹಾಯಕ್ಕಾಗಿ, ದಯವಿಟ್ಟು email {{support}} email ಗೆ ಇಮೇಲ್ ಮಾಡಿ",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ಪ್ರವೇಶಿಸುವಿಕೆ. HCaptcha ಪ್ರವೇಶವನ್ನು ಹೇಗೆ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು ಎಂಬುದನ್ನು ತಿಳಿಯಲು ಈ ಮೆನು ನಮೂದನ್ನು ಭೇಟಿ ಮಾಡಿ, ಇದು ಇಮೇಲ್ ಲಿಂಕ್ ಮೂಲಕ ಸವಾಲನ್ನು ಬೈಪಾಸ್ ಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.",
     "Back": "ಹಿಂದೆ",
     "Can't Click": "ಕ್ಲಿಕ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ",
@@ -12,7 +12,7 @@
     "Check": "ಪರಿಶೀಲಿಸಿ",
     "Close": "ಮುಚ್ಚಿ",
     "Close Modal": "ಮೋಡಲ್ ಅನ್ನು ಮುಚ್ಚಿ",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ಕುಕೀಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ಅಥವಾ ಪ್ರವೇಶಿಸುವಿಕೆ ಕುಕಿಯನ್ನು ಹೊಂದಿಸಲಾಗಿಲ್ಲ. {{ಸಕ್ರಿಯಗೊಳಿಸು-ಕುಕೀಗಳು}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ಕುಕೀಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ಅಥವಾ ಪ್ರವೇಶಿಸುವಿಕೆ ಕುಕಿಯನ್ನು ಹೊಂದಿಸಲಾಗಿಲ್ಲ. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "ನೀವು ಚಿತ್ರವನ್ನು ಏಕೆ ವರದಿ ಮಾಡುತ್ತಿದ್ದೀರಿ ಎಂಬುದನ್ನು ವಿವರಿಸಿ.",
     "Enable cross-site cookies.": "ಅಡ್ಡ-ಸೈಟ್ ಕುಕೀಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.",
     "Enter the two words in the image.": "ಚಿತ್ರದಲ್ಲಿ ಎರಡು ಪದಗಳನ್ನು ನಮೂದಿಸಿ.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha ಚೆಕ್‌ಬಾಕ್ಸ್. ಸವಾಲನ್ನು ಪ್ರಚೋದಿಸಲು ಅಥವಾ ನೀವು ಪ್ರವೇಶಿಸುವ ಕುಕಿಯನ್ನು ಹೊಂದಿದ್ದರೆ ಅದನ್ನು ಬೈಪಾಸ್ ಮಾಡಲು ಆಯ್ಕೆಮಾಡಿ.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha ಚೆಕ್‌ಬಾಕ್ಸ್. ನಾನು ಮನುಷ್ಯ ಎಂದು ನೀವು ಪರಿಶೀಲಿಸಿದ್ದೀರಿ.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ಎನ್ನುವುದು ಸರಳವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಮೂಲಕ ಬಾಟ್‌ಗಳು ಮತ್ತು ಸ್ಪ್ಯಾಮ್‌ಗಳನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಸೇವೆಯಾಗಿದೆ. ಪ್ರತಿ ಸವಾಲಿಗೆ ದಯವಿಟ್ಟು ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಭೇಟಿ ನೀಡಿ",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ಎನ್ನುವುದು ಸರಳವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಮೂಲಕ ಬಾಟ್‌ಗಳು ಮತ್ತು ಸ್ಪ್ಯಾಮ್‌ಗಳನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಸೇವೆಯಾಗಿದೆ. ಪ್ರತಿ ಸವಾಲಿಗೆ ದಯವಿಟ್ಟು ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ {{site-url} visit ಗೆ ಭೇಟಿ ನೀಡಿ",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ಎನ್ನುವುದು ಸರಳವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಮೂಲಕ ಬಾಟ್‌ಗಳು ಮತ್ತು ಸ್ಪ್ಯಾಮ್‌ಗಳನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಸೇವೆಯಾಗಿದೆ. ಪ್ರತಿ ಸವಾಲಿಗೆ ದಯವಿಟ್ಟು ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ {{site-url}} visit ಗೆ ಭೇಟಿ ನೀಡಿ",
     "widget error message text": "ವಿಜೆಟ್ ದೋಷ ಸಂದೇಶ ಪಠ್ಯ",
     "widget warning message text": "ವಿಜೆಟ್ ಎಚ್ಚರಿಕೆ ಸಂದೇಶ ಪಠ್ಯ"
 }

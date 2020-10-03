@@ -1,6 +1,6 @@
 {
     "Accessibility": "Toeganklikheid",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Toeganklikheidskoekie is nie ingestel nie. {{haal-koekie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Toeganklikheidskoekie is nie ingestel nie. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Toeganklikheidskoekie is ingestel. Stuur &#39;n e-pos na {{support}} vir hulp",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Toeganklikheid. Besoek hierdie menu-inskrywing om te leer hoe u hCaptcha toeganklik kan maak, waarmee u die uitdaging kan omseil via &#39;n e-pos skakel.",
     "Back": "terug",
@@ -12,7 +12,7 @@
     "Check": "Tjek",
     "Close": "Naby",
     "Close Modal": "Sluit Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Koekies is uitgeskakel of die toeganklikheidskoekie is nie ingestel nie. {{aktiveer-koekies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Koekies is uitgeskakel of die toeganklikheidskoekie is nie ingestel nie. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Beskryf waarom u &#39;n beeld rapporteer.",
     "Enable cross-site cookies.": "Aktiveer webwerwekoekies.",
     "Enter the two words in the image.": "Voer die twee woorde in die prent in.",

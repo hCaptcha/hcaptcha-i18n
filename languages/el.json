@@ -1,6 +1,6 @@
 {
     "Accessibility": "Προσιτότητα",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Το cookie προσβασιμότητας δεν έχει οριστεί. {{ανάκτηση-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Το cookie προσβασιμότητας δεν έχει οριστεί. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Το cookie προσβασιμότητας έχει οριστεί. Για βοήθεια, στείλτε μήνυμα ηλεκτρονικού ταχυδρομείου στη διεύθυνση {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Προσιτότητα. Επισκεφθείτε αυτήν την καταχώριση μενού για να μάθετε πώς να ενεργοποιήσετε την προσβασιμότητα hCaptcha, η οποία σας επιτρέπει να παρακάμψετε την πρόκληση μέσω ενός συνδέσμου μέσω email.",
     "Back": "Πίσω",
@@ -12,7 +12,7 @@
     "Check": "Ελεγχος",
     "Close": "Κλείσε",
     "Close Modal": "Κλείσιμο Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Τα cookie είναι απενεργοποιημένα ή το cookie προσβασιμότητας δεν έχει οριστεί. {{ενεργοποίηση-cookie}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Τα cookie είναι απενεργοποιημένα ή το cookie προσβασιμότητας δεν έχει οριστεί. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Περιγράψτε γιατί αναφέρετε μια εικόνα.",
     "Enable cross-site cookies.": "Ενεργοποίηση cookie μεταξύ ιστότοπων.",
     "Enter the two words in the image.": "Καταχωρίστε τις δύο λέξεις στην εικόνα.",

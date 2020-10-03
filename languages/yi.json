@@ -1,6 +1,6 @@
 {
     "Accessibility": "אַקסעסאַביליטי",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "אַקסעסאַביליטי קיכל איז נישט באַשטימט. {{צוריקקריגן-קיכל}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "אַקסעסאַביליטי קיכל איז נישט באַשטימט. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "אַקסעססיביליטי קיכל איז באַשטימט. ביטע הילף ביטע שיקן E- בריוו צו {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "אַקסעסאַביליטי. באַזוכן דעם מעניו פּאָזיציע צו לערנען ווי צו געבן צוטריט צו הקפּטטטשאַ, וואָס אַלאַוז איר צו בייפּאַס די אַרויסרופן דורך אַ ימיילד לינק.",
     "Back": "צוריק",
@@ -12,7 +12,7 @@
     "Check": "טשעק",
     "Close": "נאָענט",
     "Close Modal": "נאָענט מאָדאַל",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "קיכלעך זענען פאַרקריפּלט אָדער די אַקסעסאַביליטי קיכל איז נישט באַשטימט. {{געבן-קיכלעך}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "קיכלעך זענען פאַרקריפּלט אָדער די אַקסעסאַביליטי קיכל איז נישט באַשטימט. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "באַשרייַבן וואָס איר האָט ריפּאָרטינג אַ בילד.",
     "Enable cross-site cookies.": "געבן קיכלעך פֿאַר קרייז פּלאַץ.",
     "Enter the two words in the image.": "אַרייַן די צוויי ווערטער אין די בילד.",

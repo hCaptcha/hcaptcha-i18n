@@ -1,6 +1,6 @@
 {
     "Accessibility": "Wiwọle",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kuki iraye ko ṣeto. {{gba-kuki}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kuki iraye ko ṣeto. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Ti ṣeto kuki iwọle. Fun iranlọwọ, jọwọ fi imeeli ranṣẹ {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Wiwọle. Ṣabẹwo si titẹsi akojọ aṣayan yii lati kọ ẹkọ bi o ṣe le mu ki iraye si hCaptcha ṣiṣẹ, eyiti o fun ọ laaye lati kọja ipenija nipasẹ ọna asopọ imeeli.",
     "Back": "Pada",
@@ -12,7 +12,7 @@
     "Check": "Ṣayẹwo",
     "Close": "Pade",
     "Close Modal": "Sunmọ Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Awọn kuki ti wa ni alaabo tabi kuki ti ainidena ko ṣeto. {{jeki-kukisi}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Awọn kuki ti wa ni alaabo tabi kuki ti ainidena ko ṣeto. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Ṣe apejuwe idi ti o fi n ṣe iroyin aworan kan.",
     "Enable cross-site cookies.": "Jeki awọn kuki agbelebu.",
     "Enter the two words in the image.": "Tẹ awọn ọrọ meji si aworan naa.",

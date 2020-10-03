@@ -1,6 +1,6 @@
 {
     "Accessibility": "إمكانية الوصول",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "لم يتم تعيين ملف تعريف ارتباط الوصول. {{استرداد ملف تعريف الارتباط}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "لم يتم تعيين ملف تعريف ارتباط الوصول. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "تم تعيين ملف تعريف ارتباط الوصول. للمساعدة ، يرجى إرسال بريد إلكتروني إلى {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "إمكانية الوصول. قم بزيارة إدخال القائمة هذا للتعرف على كيفية تمكين إمكانية الوصول إلى hCaptcha ، والتي تتيح لك تجاوز التحدي عبر رابط عبر البريد الإلكتروني.",
     "Back": "الى الخلف",
@@ -12,7 +12,7 @@
     "Check": "التحقق من",
     "Close": "قريب",
     "Close Modal": "إغلاق Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "يتم تعطيل ملفات تعريف الارتباط أو لم يتم تعيين ملف تعريف ارتباط الوصول. {{تمكين ملفات تعريف الارتباط}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "يتم تعطيل ملفات تعريف الارتباط أو لم يتم تعيين ملف تعريف ارتباط الوصول. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "صف لماذا تقوم بالتبليغ عن صورة.",
     "Enable cross-site cookies.": "تمكين ملفات تعريف الارتباط عبر المواقع.",
     "Enter the two words in the image.": "أدخل الكلمتين في الصورة.",

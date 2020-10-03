@@ -1,6 +1,6 @@
 {
     "Accessibility": "Nnweta",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Etinye kuki nnweta. {{weghachite-kuki}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Etinye kuki nnweta. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Etinye kuki esi abanye. Maka enyemaka, biko ziga ozi {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Nnweta. Gaa na ntinye menu iji mụta otu esi enyere hCaptcha aka, nke na-enye gị ohere ịgafe ihe ịma aka ahụ site na njikọ email.",
     "Back": "Azu",
@@ -12,7 +12,7 @@
     "Check": "Lelee",
     "Close": "Mechie",
     "Close Modal": "Mechie Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kuki nwere nkwarụ ma ọ bụ kuki na-enweghị ike ịtọ. {{enable-kuki}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Kuki nwere nkwarụ ma ọ bụ kuki na-enweghị ike ịtọ. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Kọwaa ihe kpatara ị ji akọ akụkọ.",
     "Enable cross-site cookies.": "Kwado kuki-saịtị.",
     "Enter the two words in the image.": "Tinye okwu abụọ n’onyinyo a.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "igbe hCaptcha. Họrọ iji kpalite ihe ịma aka, ma ọ bụ bufee ya ma ọ bụrụ na ị nwere kuki nnweta.",
     "hCaptcha checkbox. You are verified I am human.": "igbe hCaptcha. Kwuputara na abum mmadu.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha bụ ọrụ na-ebelata bots na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka dị n’elu ihuenyo maka aka mgba ọ bụla. Maka ozi ndị ọzọ nleta",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha bụ ọrụ na-ebelata bọọlụ na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka ndị ahụ n’elu ihuenyo maka nsogbu ọ bụla. Maka ozi ndị ọzọ gaa na {{saịtị-url}}",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha bụ ọrụ na-ebelata bọọlụ na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka ndị ahụ n’elu ihuenyo maka nsogbu ọ bụla. Maka ozi ndị ọzọ gaa na {{site-url}}",
     "widget error message text": "ederede njehie ihe ederede",
     "widget warning message text": "ederede ozi ịdọ aka ná ntị wijetị"
 }

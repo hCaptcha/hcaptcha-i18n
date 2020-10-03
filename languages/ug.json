@@ -1,6 +1,6 @@
 {
     "Accessibility": "قولايلىق",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "قولايلىق ساقلانمىلار تەڭشەلمىگەن. {{retre-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "قولايلىق ساقلانمىلار تەڭشەلمىگەن. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "قۇلايلىق ساقلانمىلار تەڭشەلدى. ياردەم ئۈچۈن {{support} email غا ئېلخەت يوللاڭ",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "قولايلىق. بۇ تىزىملىك تۈرىنى زىيارەت قىلىپ ، ئېلېكترونلۇق خەت ئۇلىنىشى ئارقىلىق رىقابەتتىن ھالقىپ كېتەلەيدىغان hCaptcha نى قانداق قوزغىتىشنى ئۆگىنىۋېلىڭ.",
     "Back": "قايتىش",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha تەكشۈرۈش رامكىسى. خىرىسنى قوزغاش ياكى ئەگەر سىزدە ساقلانما ساقلانمىلار بولسا ئۇنى ئايلىنىپ ئۆتۈش ئۈچۈن تاللاڭ.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha تەكشۈرۈش رامكىسى. مېنىڭ ئادەم ئىكەنلىكىم ئىسپاتلاندى.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن {{site-url} visit نى زىيارەت قىلىڭ",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن {{site-url}} visit نى زىيارەت قىلىڭ",
     "widget error message text": "كىچىك قورال خاتالىق ئۇچۇرى",
     "widget warning message text": "كىچىك قورال ئاگاھلاندۇرۇش ئۇچۇرى"
 }

@@ -1,7 +1,7 @@
 {
     "Accessibility": "Avanoa",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "E leʻi seti le setiina o kuki. {{toe aumai-kuki}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Avanoa kuki ua setiina Mo se fesoasoani, faʻamolemole imeli {{lagolago}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "E leʻi seti le setiina o kuki. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Avanoa kuki ua setiina Mo se fesoasoani, faʻamolemole imeli {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Avanoa Asiasi i lenei lisi ulufale e aʻoaʻo pe faʻafefea ona mafai hCaptcha ulufale, e faʻatagaina ai oe e alo le luʻi e ala i se imeli soʻotaga.",
     "Back": "Tua",
     "Can't Click": "E le mafai kiliki",
@@ -12,7 +12,7 @@
     "Check": "Siaki",
     "Close": "Tapunia",
     "Close Modal": "Tapuni Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "E le atoatoa kuki pe o le faʻaaogaina le kuki e le setiina. {{faʻaavanoa-kuki}}",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "E le atoatoa kuki pe o le faʻaaogaina le kuki e le setiina. {{enable-cookies}}",
     "Describe why you are reporting an image.": "Faʻamatala pe aisea ua e lipotia ai se ata.",
     "Enable cross-site cookies.": "Faʻafesoʻotaʻi kuki i luga ole laiga.",
     "Enter the two words in the image.": "Ulu atu upu e lua i le ata.",

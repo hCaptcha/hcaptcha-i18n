@@ -1,6 +1,6 @@
 {
     "Accessibility": "ተደራሽነት",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "የተደራሽነት ኩኪ አልተዘጋጀም። {{ሰርስሮ-ኩኪ}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "የተደራሽነት ኩኪ አልተዘጋጀም። {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "የተደራሽነት ኩኪ ተዘጋጅቷል። ለእገዛ እባክዎን ለ {{support}} ኢሜይል ያድርጉ",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ተደራሽነት ፈተናውን በኢሜል አገናኝ በኩል ለማለፍ የሚያስችለውን የ hCaptcha ተደራሽነት እንዴት ማንቃት እንደሚቻል ለማወቅ ይህንን ምናሌ ግቤት ይጎብኙ።",
     "Back": "ተመለስ",
@@ -12,7 +12,7 @@
     "Check": "ፈትሽ",
     "Close": "ገጠመ",
     "Close Modal": "ሞድ ዝጋ",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ኩኪዎች ተሰናክለዋል ወይም የተደራሽነት ኩኪ አልተዘጋጀም ፡፡ {{አንቃ-ኩኪዎችን}}።",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ኩኪዎች ተሰናክለዋል ወይም የተደራሽነት ኩኪ አልተዘጋጀም ፡፡ {{enable-cookies}}።",
     "Describe why you are reporting an image.": "ለምን ምስል ሪፖርት እንደሚያደርጉ ይግለጹ።",
     "Enable cross-site cookies.": "የተሻገረ ጣቢያ ኩኪዎችን ያንቁ።",
     "Enter the two words in the image.": "በምስሉ ውስጥ ያሉትን ሁለት ቃላት ያስገቡ ፡፡",

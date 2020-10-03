@@ -1,6 +1,6 @@
 {
     "Accessibility": "Tilgængelighed",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Tilgængelighed cookie er ikke indstillet. {{hent-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Tilgængelighed cookie er ikke indstillet. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Tilgængelighed cookie er indstillet. For hjælp, bedes du sende en e-mail til {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Tilgængelighed. Besøg denne menuindgang for at lære, hvordan du aktiverer hCaptcha-tilgængelighed, som giver dig mulighed for at omgå udfordringen via et mailet link.",
     "Back": "Tilbage",
@@ -12,7 +12,7 @@
     "Check": "Kontrollere",
     "Close": "Tæt",
     "Close Modal": "Luk Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies er deaktiveret, eller tilgængelighedscookien er ikke indstillet. {{aktivér-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies er deaktiveret, eller tilgængelighedscookien er ikke indstillet. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Beskriv hvorfor du rapporterer et billede.",
     "Enable cross-site cookies.": "Aktivér cookies på tværs af websteder.",
     "Enter the two words in the image.": "Indtast de to ord på billedet.",

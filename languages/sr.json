@@ -1,7 +1,7 @@
 {
     "Accessibility": "Приступачност",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Колачић за приступачност није постављен. {{ретриеве-цоокие}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Постављен је колачић за приступачност. За помоћ пошаљите е-пошту на {{суппорт}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Колачић за приступачност није постављен. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Постављен је колачић за приступачност. За помоћ пошаљите е-пошту на {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Приступачност. Посетите овај унос у менију да бисте сазнали како да омогућите хЦаптцха доступност која вам омогућава да заобиђете изазов путем везе послане е-поштом.",
     "Back": "Назад",
     "Can't Click": "Не могу да кликнете",
@@ -12,7 +12,7 @@
     "Check": "Провери",
     "Close": "Близу",
     "Close Modal": "Затвори модал",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Колачићи су онемогућени или колачић за приступачност није постављен. {{енабле-цоокиес}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Колачићи су онемогућени или колачић за приступачност није постављен. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Опишите зашто пријављујете слику.",
     "Enable cross-site cookies.": "Омогућите колачиће на више веб локација.",
     "Enter the two words in the image.": "Унесите две речи у слику.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "хЦаптцха потврдни оквир. Изаберите да бисте покренули изазов или га заобишли ако имате колачић за приступачност.",
     "hCaptcha checkbox. You are verified I am human.": "хЦаптцха потврдни оквир. Проверени сте да сам човек.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "хЦаптцха је услуга која смањује ботове и нежељену пошту постављајући једноставна питања. Молимо вас да следите упутства на врху екрана за сваки изазов. За више информација посетите",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "хЦаптцха је услуга која смањује ботове и нежељену пошту постављањем једноставних питања. Слиједите упутства на врху екрана за сваки изазов. За више информација посетите {{сите-урл}}",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "хЦаптцха је услуга која смањује ботове и нежељену пошту постављањем једноставних питања. Слиједите упутства на врху екрана за сваки изазов. За више информација посетите {{site-url}}",
     "widget error message text": "текст поруке о грешци додатака",
     "widget warning message text": "текст поруке упозорења за виџет"
 }

@@ -1,6 +1,6 @@
 {
     "Accessibility": "Accessibility",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Tsy napetraka ny cookie azo idirana. {{Retrieve-mofomamy}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Tsy napetraka ny cookie azo idirana. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Napetraka ny cookie azo idirana. Raha mila fanampiana, dia andefaso mailaka {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Accessibility. Tsidiho ity fidirana menio ity raha hianaranao ny fomba ahafahan&#39;ny fidirana hCaptcha, izay ahafahanao mandingana ny fanamby amin&#39;ny alàlan&#39;ny rohy mailaka.",
     "Back": "miverina",
@@ -12,7 +12,7 @@
     "Check": "Taratasim-bola",
     "Close": "Close",
     "Close Modal": "Manidy Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Tsy mandeha ny cookies na tsy napetraka ny cookie azo idirana. {{Tadiavo-mofomamy}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Tsy mandeha ny cookies na tsy napetraka ny cookie azo idirana. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Farito ny antony itateranao sary.",
     "Enable cross-site cookies.": "Alefaso ny cookies mivelatra.",
     "Enter the two words in the image.": "Ampidiro ao anaty sary ilay teny roa.",

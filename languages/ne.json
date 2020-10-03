@@ -1,7 +1,7 @@
 {
     "Accessibility": "पहुँच",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "पहुँच कुकि सेट गरिएको छैन। {{पुनःप्राप्ति-कुकी}",
-    "Accessibility cookie is set. For help, please email {{support}}": "पहुँच कुकी सेट गरिएको छ। मद्दतको लागि, कृपया email {समर्थन email email ईमेल गर्नुहोस्",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "पहुँच कुकि सेट गरिएको छैन। {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "पहुँच कुकी सेट गरिएको छ। मद्दतको लागि, कृपया email {{support}} email email ईमेल गर्नुहोस्",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "पहुँच। यस मेनु प्रविष्टि हेर्नुहोस् hCaptcha पहुँचता सक्षम गर्न कसरी जान्न को लागी, जुन तपाईंलाई ईमेल लिंक मार्फत चुनौती बाईपास गर्न अनुमति दिन्छ।",
     "Back": "पछाडि",
     "Can't Click": "क्लिक गर्न सक्दैन",
@@ -12,7 +12,7 @@
     "Check": "जाँच गर्नुहोस्",
     "Close": "बन्द",
     "Close Modal": "मोडल बन्द गर्नुहोस्",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "कुकीहरू असक्षम पारिएका छन् वा पहुँच कुकि सेट गरिएको छैन। cookies {सक्षम कुकीहरू}}।",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "कुकीहरू असक्षम पारिएका छन् वा पहुँच कुकि सेट गरिएको छैन। {{enable-cookies}}।",
     "Describe why you are reporting an image.": "वर्णन गर्नुहोस् किन तपाईं छवि रिपोर्ट गर्दै हुनुहुन्छ।",
     "Enable cross-site cookies.": "क्रस-साइट कुकिज सक्षम गर्नुहोस्।",
     "Enter the two words in the image.": "छविमा दुई शब्दहरू प्रविष्ट गर्नुहोस्।",

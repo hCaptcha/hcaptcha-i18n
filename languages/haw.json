@@ -1,7 +1,7 @@
 {
     "Accessibility": "Hiki ke kiʻi ʻia",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ʻAʻole hoʻonohonoho ʻia ke kuki komo. {{kiʻi hou-kuki}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Hoʻonoho ʻia ka kuki komo. No ke kōkua, e ʻoluʻolu e leka uila iā {{kākoʻo}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ʻAʻole hoʻonohonoho ʻia ke kuki komo. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Hoʻonoho ʻia ka kuki komo. No ke kōkua, e ʻoluʻolu e leka uila iā {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Hiki ke kiʻi ʻia E kipa i kēia papa kuhikuhi komo e aʻo pehea e hiki ai i ke komo hCaptcha, i ʻae iā ʻoe e kāpae i ka pilikia ma o ka loulou leka uila.",
     "Back": "Kua hope",
     "Can't Click": "ʻAʻole hiki ke Kāomi",
@@ -12,7 +12,7 @@
     "Check": "Haki aku",
     "Close": "Hoʻopili",
     "Close Modal": "Hoʻopili iā Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Ua kīnā nā kuki a ʻaʻole hoʻonohonoho ʻia ke kuki komo. {{hiki-i nā kuki}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Ua kīnā nā kuki a ʻaʻole hoʻonohonoho ʻia ke kuki komo. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "E wehewehe no ke aha ʻoe e hōʻike nei i kahi kiʻi.",
     "Enable cross-site cookies.": "Hiki i nā kuki pūnaewele keʻa.",
     "Enter the two words in the image.": "Hoʻokomo i nā huaʻōlelo ʻelua i ke kiʻi.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hōʻike hCaptcha. Koho i mea e hoʻowalewale ai i ka luʻu, a i ʻole e pale iā ia inā ʻoe i kahi kuke hiki.",
     "hCaptcha checkbox. You are verified I am human.": "hōʻike hCaptcha. ʻIke ʻia ʻoe he kanaka nō wau.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "He lawelawe ʻo HCaptcha e hōʻemi i nā bots a me nā spam ma o ka nīnau ʻana i nā nīnau maʻalahi. E ʻoluʻolu e hāhai i nā kuhikuhi i ka piko o ka papa o kēlā me kēia paʻakikī. No ka ʻike hou aku",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "He lawelawe ʻo hCaptcha e hōʻemi ana i nā bot a me ka spam ma ke noi ʻana i nā nīnau maʻalahi. E ʻoluʻolu e hāhai i nā ʻōkuhi ma ka piko o ka pale no kēlā me kēia pilikia. No ka ʻike hou aku e kipa aku iā {{pūnaewele-url}}",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "He lawelawe ʻo hCaptcha e hōʻemi ana i nā bot a me ka spam ma ke noi ʻana i nā nīnau maʻalahi. E ʻoluʻolu e hāhai i nā ʻōkuhi ma ka piko o ka pale no kēlā me kēia pilikia. No ka ʻike hou aku e kipa aku iā {{site-url}}",
     "widget error message text": "memo maʻa leka uila kope",
     "widget warning message text": "olelo kūkā leka uila leka uila"
 }

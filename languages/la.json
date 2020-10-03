@@ -1,7 +1,7 @@
 {
     "Accessibility": "accessibility",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Accessibility crustulum is non. {{Recuperare-crustulum}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Accessibility crustulum est profectus. Auxilium, placere firmamentum {{email}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Accessibility crustulum is non. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Accessibility crustulum est profectus. Auxilium, placere firmamentum {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Accessibility. Visita hoc menu viscus discere quam ut enable hCaptcha accessibility, quod sino vos ad bypass quod emailed per provocationem link.",
     "Back": "Back",
     "Can't Click": "Click non",
@@ -12,7 +12,7 @@
     "Check": "represserat",
     "Close": "prope",
     "Close Modal": "prope modales",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Crustulum crustulum accessibility aut debilitata sunt non est. {{-Enable crustula}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Crustulum crustulum accessibility aut debilitata sunt non est. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Cur refert imaginem describere.",
     "Enable cross-site cookies.": "Admitte crustula crucis-site.",
     "Enter the two words in the image.": "Intra duo verba in imagine.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha checkbox. Select ut trigger de provocatione, seu ad bypass crustulum is si vos habere accessibility.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox. Ego verificatur es homo.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha est ministerium, et reduces recensiones minores spam postulantes a simplex quaestiones. Sequi velit elit praecepta singulis summo possit. Visit for more info",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha est ministerium, et reduces recensiones minores spam postulantes a simplex quaestiones. Sequi velit elit praecepta singulis summo possit. {Url-site pro magis notitia {visit}}",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha est ministerium, et reduces recensiones minores spam postulantes a simplex quaestiones. Sequi velit elit praecepta singulis summo possit. {{site-url}} visit",
     "widget error message text": "image errorem text nuntius",
     "widget warning message text": "image observavit: text nuntius"
 }

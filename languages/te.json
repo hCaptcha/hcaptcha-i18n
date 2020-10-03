@@ -1,7 +1,7 @@
 {
     "Accessibility": "సౌలభ్యాన్ని",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "ప్రాప్యత కుకీ సెట్ చేయబడలేదు. {{తిరిగి-కుకీ}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "ప్రాప్యత కుకీ సెట్ చేయబడింది. సహాయం కోసం, దయచేసి email {support} email ఇమెయిల్ చేయండి",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "ప్రాప్యత కుకీ సెట్ చేయబడలేదు. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "ప్రాప్యత కుకీ సెట్ చేయబడింది. సహాయం కోసం, దయచేసి email {{support}} email ఇమెయిల్ చేయండి",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "సౌలభ్యాన్ని. HCaptcha ప్రాప్యతను ఎలా ప్రారంభించాలో తెలుసుకోవడానికి ఈ మెను ఎంట్రీని సందర్శించండి, ఇది ఇమెయిల్ లింక్ ద్వారా సవాలును దాటవేయడానికి మిమ్మల్ని అనుమతిస్తుంది.",
     "Back": "తిరిగి",
     "Can't Click": "క్లిక్ చేయలేరు",
@@ -12,7 +12,7 @@
     "Check": "తనిఖీ",
     "Close": "దగ్గరగా",
     "Close Modal": "మోడల్‌ను మూసివేయండి",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "కుకీలు నిలిపివేయబడ్డాయి లేదా ప్రాప్యత కుకీ సెట్ చేయబడలేదు. {{ఎనేబుల్-కుకీలు}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "కుకీలు నిలిపివేయబడ్డాయి లేదా ప్రాప్యత కుకీ సెట్ చేయబడలేదు. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "మీరు చిత్రాన్ని ఎందుకు నివేదిస్తున్నారో వివరించండి.",
     "Enable cross-site cookies.": "క్రాస్-సైట్ కుకీలను ప్రారంభించండి.",
     "Enter the two words in the image.": "చిత్రంలోని రెండు పదాలను నమోదు చేయండి.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha చెక్‌బాక్స్. సవాలును ప్రేరేపించడానికి ఎంచుకోండి లేదా మీకు ప్రాప్యత కుకీ ఉంటే దాన్ని దాటవేయండి.",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha చెక్‌బాక్స్. నేను ధృవీకరించాను.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha అనేది సాధారణ ప్రశ్నలను అడగడం ద్వారా బాట్లను మరియు స్పామ్‌ను తగ్గించే సేవ. ప్రతి సవాలుకు దయచేసి స్క్రీన్ పైభాగంలో ఉన్న సూచనలను అనుసరించండి. మరింత సమాచారం కోసం సందర్శించండి",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha అనేది సాధారణ ప్రశ్నలను అడగడం ద్వారా బాట్లను మరియు స్పామ్‌ను తగ్గించే సేవ. దయచేసి ప్రతి సవాలుకు స్క్రీన్ పైభాగంలో ఉన్న సూచనలను అనుసరించండి. మరింత సమాచారం కోసం {{site-url visit visit ని సందర్శించండి",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha అనేది సాధారణ ప్రశ్నలను అడగడం ద్వారా బాట్లను మరియు స్పామ్‌ను తగ్గించే సేవ. దయచేసి ప్రతి సవాలుకు స్క్రీన్ పైభాగంలో ఉన్న సూచనలను అనుసరించండి. మరింత సమాచారం కోసం {{{site-url}} visit ని సందర్శించండి",
     "widget error message text": "విడ్జెట్ లోపం సందేశ వచనం",
     "widget warning message text": "విడ్జెట్ హెచ్చరిక సందేశ వచనం"
 }

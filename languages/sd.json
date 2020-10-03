@@ -1,7 +1,7 @@
 {
     "Accessibility": "پهچ",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "رسائي وارو ڪوڪي مقرر ناهي. {{ٻيهر کوليو}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "رسائي وارو ڪوڪي سيٽ آهي. مدد لاءِ ، مهرباني ڪري اي ميل ڪريو {{حمايت}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "رسائي وارو ڪوڪي مقرر ناهي. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "رسائي وارو ڪوڪي سيٽ آهي. مدد لاءِ ، مهرباني ڪري اي ميل ڪريو {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "پهچ. سکڻ لاءِ هي مينيو داخل ٿيڻ گهومو hCaptcha رسائي ڪئين ، جيڪا توهان اي ميل ٿيل لنڪ ذريعي چيلنج کي نظرانداز ڪرڻ جي اجازت ڏئي ٿي.",
     "Back": "پوئتي",
     "Can't Click": "ڪلڪ نٿا ڪري سگھو",
@@ -12,7 +12,7 @@
     "Check": "چيڪ",
     "Close": "بند ڪريو",
     "Close Modal": "موڊيال بند ڪيو",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ڪوڪيز بند ٿيل آهن يا رسائي واري ڪوڪي مقرر ناهي. {{فعال-ڪوڪيز}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ڪوڪيز بند ٿيل آهن يا رسائي واري ڪوڪي مقرر ناهي. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "وضاحت ڪريو ته توهان هڪ تصوير جي رپورٽ ڇو ڪري رهيا آهيو.",
     "Enable cross-site cookies.": "ڪراس سائيٽ جي ڪوڪيز کي فعال ڪريو.",
     "Enter the two words in the image.": "تصوير ۾ ٻه لفظ داخل ڪريو.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "ايڇ سيپچا چيڪ باڪس. چونڊيو ، چيلينج کي ٽوڙڻ لاءِ ، يا انهي کي بائي پاس ڪرڻ لاءِ جيڪڏهن توهان وٽ رسائي واري ڪوڪي آهي.",
     "hCaptcha checkbox. You are verified I am human.": "ايڇ سيپچا چيڪ باڪس. توهان تصديق ڪيو ته آئون انسان آهيان.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ visitاڻ لاءِ دورو ڪريو",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ معلومات لاءِ {{سائيٽ-url}} جو دورو ڪريو",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ معلومات لاءِ {{site-url}} جو دورو ڪريو",
     "widget error message text": "ويجيٽ جي غلطي پيغام جو متن",
     "widget warning message text": "ويجهڙائي واري پيغام جي متن جو متن"
 }

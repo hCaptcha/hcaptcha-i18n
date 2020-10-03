@@ -1,6 +1,6 @@
 {
     "Accessibility": "Хандалт",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Хандалтын күүкийг тохируулаагүй байна. {{авах-күүки}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Хандалтын күүкийг тохируулаагүй байна. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Хандалтын күүкийг тохируулсан болно. Тусламж хүсч байвал {{support}} руу имэйлээр илгээнэ үү.",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Хандалт. Энэ имэйлийн хаягаар орж hCaptcha хандалтыг хэрхэн идэвхжүүлэхийг сурах боломжтой бөгөөд энэ нь имэйлийн холбоосоор дамжуулж бэрхшээлийг тойрч гарах боломжийг олгодог.",
     "Back": "Буцах",
@@ -12,7 +12,7 @@
     "Check": "Шалгах",
     "Close": "Хаах",
     "Close Modal": "Modal-г хаах",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Күүкийг идэвхгүй болгосон эсвэл хандалтын күүкийг тохируулаагүй байна. {{activ-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Күүкийг идэвхгүй болгосон эсвэл хандалтын күүкийг тохируулаагүй байна. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Зургийг яагаад мэдээлж байгаагаа тайлбарлана уу.",
     "Enable cross-site cookies.": "Сайт хоорондын күүкийг идэвхжүүлэх.",
     "Enter the two words in the image.": "Зурган дээрх хоёр үгийг оруулна уу.",

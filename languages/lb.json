@@ -1,6 +1,6 @@
 {
     "Accessibility": "Accessibilitéit",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Accessibilitéit Cookie ass net gesat. {{recuperéieren-Cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Accessibilitéit Cookie ass net gesat. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Accessibilitéit Cookie ass gesat. Fir Hëllef, w.e.g. mailt {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Accessibilitéit. Besicht dëse Menü-Entrée fir ze léieren wéi Dir hCaptcha Zougänglechkeet aktivéiert, wat Iech erméiglecht d&#39;Erausfuerderung ze iwwerwannen iwwer e Mailen.",
     "Back": "Zréck",
@@ -12,7 +12,7 @@
     "Check": "Iwwerpréiwen",
     "Close": "Zoumaachen",
     "Close Modal": "Zoumaachen Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies sinn ausgeschalt oder d&#39;Accessibilitéit Cookie ass net gesat. {{aktivéiert-Cookien}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies sinn ausgeschalt oder d&#39;Accessibilitéit Cookie ass net gesat. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Beschreift firwat Dir e Bild mellt.",
     "Enable cross-site cookies.": "Aktivéiert Cross-Site Cookien.",
     "Enter the two words in the image.": "Gitt déi zwee Wierder an d&#39;Bild.",

@@ -1,6 +1,6 @@
 {
     "Accessibility": "Aðgengi",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Aðgengiskaka er ekki stillt. {{sækja-kex}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Aðgengiskaka er ekki stillt. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Aðgengis kex er stillt. Fyrir hjálp, vinsamlegast sendu tölvupóst á {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Aðgengi. Farðu í þessa matseðill til að læra hvernig hægt er að virkja hCaptcha aðgengi, sem gerir þér kleift að komast framhjá áskoruninni með tölvupósti.",
     "Back": "Til baka",
@@ -12,7 +12,7 @@
     "Check": "Athugaðu",
     "Close": "Loka",
     "Close Modal": "Loka Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Fótspor eru óvirk eða aðgengis vafrakaka er ekki stillt. {{gera kleift-smákökur}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Fótspor eru óvirk eða aðgengis vafrakaka er ekki stillt. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Lýstu af hverju þú ert að tilkynna mynd.",
     "Enable cross-site cookies.": "Virkja fótspor á milli staða.",
     "Enter the two words in the image.": "Sláðu inn orðin tvö á myndinni.",

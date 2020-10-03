@@ -1,6 +1,6 @@
 {
     "Accessibility": "Pieejamība",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Pieejamības sīkfails nav iestatīts. {{ielādēt-sīkfails}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Pieejamības sīkfails nav iestatīts. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Pieejamības sīkfails ir iestatīts. Lai saņemtu palīdzību, lūdzu, nosūtiet e-pastu uz {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Pieejamība. Apmeklējiet šo izvēlnes ierakstu, lai uzzinātu, kā iespējot hCaptcha pieejamību, kas ļauj apiet izaicinājumu, izmantojot saiti pa e-pastu.",
     "Back": "Atpakaļ",

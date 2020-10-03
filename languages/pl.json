@@ -1,6 +1,6 @@
 {
     "Accessibility": "Dostępność",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Plik cookie ułatwień dostępu nie jest ustawiony. {{pobierz plik cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Plik cookie ułatwień dostępu nie jest ustawiony. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Plik cookie dostępności jest ustawiony. Aby uzyskać pomoc, wyślij e-mail na adres {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Dostępność. Odwiedź tę pozycję menu, aby dowiedzieć się, jak włączyć dostępność hCaptcha, która pozwala ominąć wyzwanie za pośrednictwem łącza przesłanego e-mailem.",
     "Back": "Plecy",
@@ -12,7 +12,7 @@
     "Check": "Sprawdź",
     "Close": "Blisko",
     "Close Modal": "Zamknij Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Pliki cookie są wyłączone lub plik cookie dostępności nie jest ustawiony. {{włącz ciasteczka}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Pliki cookie są wyłączone lub plik cookie dostępności nie jest ustawiony. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Opisz, dlaczego zgłaszasz zdjęcie.",
     "Enable cross-site cookies.": "Włącz pliki cookie między witrynami.",
     "Enter the two words in the image.": "Wpisz dwa słowa z obrazka.",

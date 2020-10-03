@@ -1,6 +1,6 @@
 {
     "Accessibility": "Aksè",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Bonbon aksè pa mete. {{rekipere-bonbon}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Bonbon aksè pa mete. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Se bonbon aksè mete. Pou èd, tanpri imèl {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Aksè. Vizite antre meni sa a pou aprann kijan pou pèmèt aksè hCaptcha, ki pèmèt ou kontoune defi a atravè yon lyen imèl.",
     "Back": "Retounen",
@@ -12,7 +12,7 @@
     "Check": "Tcheke",
     "Close": "Fèmen",
     "Close Modal": "Fèmen Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Bonbon yo enfim oswa bonbon aksè a pa mete. {{pèmèt-bonbon}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Bonbon yo enfim oswa bonbon aksè a pa mete. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Dekri poukisa ou rapòte yon imaj.",
     "Enable cross-site cookies.": "Pèmèt bonbon kwa-sit.",
     "Enter the two words in the image.": "Antre de mo sa yo nan imaj la.",

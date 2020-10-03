@@ -1,7 +1,7 @@
 {
     "Accessibility": "ხელმისაწვდომობა",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "წვდომის ქუქი არ არის დაყენებული. {{ვიღებ-ქუქი-ფაილს}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "დაყენებულია წვდომის ქუქი. დახმარებისთვის გთხოვთ, გამოაგზავნოთ ელ.წერილი {{მხარდაჭერა}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "წვდომის ქუქი არ არის დაყენებული. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "დაყენებულია წვდომის ქუქი. დახმარებისთვის გთხოვთ, გამოაგზავნოთ ელ.წერილი {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "ხელმისაწვდომობა. ეწვიეთ მენიუს ამ ჩანაწერს, რომ შეიტყოთ hCaptcha- ს ხელმისაწვდომობის ჩართვა, რაც საშუალებას გაძლევთ გვერდის ავლით გამოწვევას ელექტრონული ფოსტით.",
     "Back": "უკან",
     "Can't Click": "ვერ დააჭირეთ",
@@ -12,7 +12,7 @@
     "Check": "Ჩეკი",
     "Close": "დახურვა",
     "Close Modal": "მოდელის დახურვა",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ქუქი ფაილები გამორთულია ან წვდომის ქუქი არ არის დაყენებული. {{ჩართე-ქუქი-ფაილები}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "ქუქი ფაილები გამორთულია ან წვდომის ქუქი არ არის დაყენებული. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "აღწერეთ რატომ აცნობებთ სურათს.",
     "Enable cross-site cookies.": "ჯვარედინი ქუქი – ფაილების ჩართვა.",
     "Enter the two words in the image.": "სურათში შეიყვანეთ ორი სიტყვა.",

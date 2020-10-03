@@ -1,6 +1,6 @@
 {
     "Accessibility": "Kupezeka",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Bokosi logwiritsira ntchito silinakhazikitsidwe. {{katenga-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Bokosi logwiritsira ntchito silinakhazikitsidwe. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Cokie yopezeka yakhazikitsidwa. Kuti muthandizidwe, chonde imelo {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Kupezeka. Pitani pazosankha izi kuti muphunzire momwe mungathandizire kupezeka kwa hCaptcha, komwe kumakupatsani mwayi wothana ndi vutoli kudzera pa ulalo wa maimelo.",
     "Back": "Kubwerera",
@@ -12,7 +12,7 @@
     "Check": "Chongani",
     "Close": "Tsekani",
     "Close Modal": "Tsekani Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Ma cookie ndi olumala kapena cookie yokhayokha siyokhazikitsidwa. {{make-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Ma cookie ndi olumala kapena cookie yokhayokha siyokhazikitsidwa. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Fotokozani chifukwa chomwe mumanenera chithunzi.",
     "Enable cross-site cookies.": "Onetsani ma cookies pamtanda.",
     "Enter the two words in the image.": "Lowetsani awiriwa pachithunzichi.",

@@ -1,7 +1,7 @@
 {
     "Accessibility": "Kuboneka",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kuki ishobora kugerwaho ntabwo yashyizweho. {{kugarura-kuki}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "Kuki ishobora kugerwaho. Kubufasha, nyamuneka imeri {{inkunga}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Kuki ishobora kugerwaho ntabwo yashyizweho. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "Kuki ishobora kugerwaho. Kubufasha, nyamuneka imeri {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Kuboneka. Sura iyi menu yinjira kugirango umenye uburyo ushobora gukora hCaptcha igerwaho, igufasha kurenga ikibazo ukoresheje umurongo wa imeri.",
     "Back": "Inyuma",
     "Can't Click": "Ntushobora Kanda",
@@ -12,7 +12,7 @@
     "Check": "Reba",
     "Close": "Funga",
     "Close Modal": "Funga Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies zirahagarikwa cyangwa kuki ishobora kugerwaho ntabwo yashyizweho. {{gushoboza-kuki}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Cookies zirahagarikwa cyangwa kuki ishobora kugerwaho ntabwo yashyizweho. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Sobanura impamvu utanga ishusho.",
     "Enable cross-site cookies.": "Gushoboza imbuga za kuki.",
     "Enter the two words in the image.": "Injira amagambo abiri mwishusho.",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "agasanduku k&#39;isanduku. Hitamo kugirango utere ikibazo, cyangwa kurenga niba ufite kuki ishobora kugerwaho.",
     "hCaptcha checkbox. You are verified I am human.": "agasanduku k&#39;isanduku. Uremejwe ko ndi umuntu.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura {{urubuga-url}}",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura {{site-url}}",
     "widget error message text": "ubutumwa bwa widget ubutumwa bwanditse",
     "widget warning message text": "widget yo kuburira ubutumwa inyandiko"
 }

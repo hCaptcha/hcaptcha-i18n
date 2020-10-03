@@ -1,6 +1,6 @@
 {
     "Accessibility": "Inrochtaineacht",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Níl fianán inrochtaineachta socraithe. {{aisghabháil-fianán}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Níl fianán inrochtaineachta socraithe. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Socraítear fianán inrochtaineachta. Le cabhair a fháil, seol ríomhphost chuig {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Inrochtaineacht. Tabhair cuairt ar an iontráil roghchláir seo chun foghlaim conas inrochtaineacht hCaptcha a chumasú, a ligeann duit an dúshlán a sheachthreorú trí nasc ríomhphoist.",
     "Back": "Ar ais",
@@ -12,7 +12,7 @@
     "Check": "Seiceáil",
     "Close": "Dún",
     "Close Modal": "Dún Módúil",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Tá fianáin díchumasaithe nó níl an fianán inrochtaineachta socraithe. {{enable-fianáin}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Tá fianáin díchumasaithe nó níl an fianán inrochtaineachta socraithe. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Déan cur síos ar an bhfáth go bhfuil tú ag tuairisciú íomhá.",
     "Enable cross-site cookies.": "Cumasaigh fianáin tras-láithreáin.",
     "Enter the two words in the image.": "Iontráil an dá fhocal san íomhá.",

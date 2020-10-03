@@ -1,7 +1,7 @@
 {
     "Accessibility": "دسترسی",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "کوکی دسترسی تنظیم نشده است. {{بازیابی-کوکی}}",
-    "Accessibility cookie is set. For help, please email {{support}}": "کوکی دسترسی تنظیم شده است. برای کمک ، لطفاً {{پشتیبانی}} را از طریق ایمیل ارسال کنید",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "کوکی دسترسی تنظیم نشده است. {{retrieve-cookie}}",
+    "Accessibility cookie is set. For help, please email {{support}}": "کوکی دسترسی تنظیم شده است. برای کمک ، لطفاً {{support}} را از طریق ایمیل ارسال کنید",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "دسترسی. برای یادگیری نحوه فعال کردن قابلیت دسترسی hCaptcha که به شما امکان می دهد چالش را از طریق پیوند ایمیل ارسال کنید ، از این قسمت ورودی منو دیدن کنید",
     "Back": "بازگشت",
     "Can't Click": "نمی توانید کلیک کنید",
@@ -12,7 +12,7 @@
     "Check": "بررسی",
     "Close": "نزدیک",
     "Close Modal": "بستن مودال",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "کوکی ها غیرفعال هستند یا کوکی دسترسی تنظیم نشده است. {{فعال کردن کوکی ها}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "کوکی ها غیرفعال هستند یا کوکی دسترسی تنظیم نشده است. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "توضیح دهید که چرا یک تصویر را گزارش می دهید.",
     "Enable cross-site cookies.": "کوکی های میان سایت را فعال کنید.",
     "Enter the two words in the image.": "دو کلمه را در تصویر وارد کنید.",

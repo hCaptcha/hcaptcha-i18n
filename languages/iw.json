@@ -1,6 +1,6 @@
 {
     "Accessibility": "נְגִישׁוּת",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "קובץ cookie לנגישות אינו מוגדר. {{אחזר-עוגיה}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "קובץ cookie לנגישות אינו מוגדר. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "מוגדרת עוגיית נגישות. לקבלת עזרה, אנא שלח דוא&quot;ל אל {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "נְגִישׁוּת. בקר בערך בתפריט זה כדי ללמוד כיצד לאפשר נגישות ל- hCaptcha, המאפשרת לעקוף את האתגר באמצעות קישור בדוא&quot;ל.",
     "Back": "חזור",
@@ -12,7 +12,7 @@
     "Check": "חשבון",
     "Close": "סגור",
     "Close Modal": "סגור את מודאל",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "קובצי cookie מושבתים או שקובץ cookie לנגישות אינו מוגדר. {{הפעל-עוגיות}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "קובצי cookie מושבתים או שקובץ cookie לנגישות אינו מוגדר. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "תאר מדוע אתה מדווח על תמונה.",
     "Enable cross-site cookies.": "אפשר קובצי Cookie חוצה אתרים.",
     "Enter the two words in the image.": "הזן את שתי המילים בתמונה.",

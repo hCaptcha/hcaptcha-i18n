@@ -1,6 +1,6 @@
 {
     "Accessibility": "Ukufikeleleka",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Ikuki yofikelelo ayimiselwanga. {{ukufumana-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Ikuki yofikelelo ayimiselwanga. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Ikuki yokufikelela isetiwe. Ngoncedo, nceda thumela i-imeyile {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Ukufikeleleka. Ndwendwela olu ngeniso lwemenyu ukuze ufunde indlela yokwenza ufikeleleko lwe-hCaptcha, ekuvumela ukuba udlule kumceli mngeni ngekhonkco le-imeyile.",
     "Back": "Buyela",
@@ -12,7 +12,7 @@
     "Check": "Jonga",
     "Close": "Vala",
     "Close Modal": "Vala Modal",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Iicookies zikhubazekile okanye ikuki yofikelelo ayisetwanga. {{yenza-cookies}}.",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "Iicookies zikhubazekile okanye ikuki yofikelelo ayisetwanga. {{enable-cookies}}.",
     "Describe why you are reporting an image.": "Chaza ukuba kutheni unika ingxelo ngomfanekiso.",
     "Enable cross-site cookies.": "Nika amandla ii-cookies zesayithi.",
     "Enter the two words in the image.": "Faka amagama amabini kumfanekiso.",

@@ -1,6 +1,6 @@
 {
     "Accessibility": "सरल उपयोग",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "पहुँच कुकी सेट नहीं है। {{पुनः प्राप्त-कुकी}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "पहुँच कुकी सेट नहीं है। {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "अभिगम्यता कुकी सेट है। मदद के लिए, कृपया {{support}} ईमेल करें",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "सरल उपयोग। HCaptcha पहुँच को सक्षम करने के बारे में जानने के लिए इस मेनू प्रविष्टि पर जाएँ, जो आपको ईमेल लिंक के माध्यम से चुनौती को बायपास करने की अनुमति देता है।",
     "Back": "वापस",
@@ -12,7 +12,7 @@
     "Check": "चेक",
     "Close": "बंद करे",
     "Close Modal": "मोडल बंद करें",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "कुकीज़ अक्षम हैं या पहुँच कुकी सेट नहीं है। {{सक्षम-कुकीज़}}।",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "कुकीज़ अक्षम हैं या पहुँच कुकी सेट नहीं है। {{enable-cookies}}।",
     "Describe why you are reporting an image.": "वर्णन करें कि आप किसी छवि की रिपोर्ट क्यों कर रहे हैं।",
     "Enable cross-site cookies.": "क्रॉस-साइट कुकी सक्षम करें।",
     "Enter the two words in the image.": "छवि में दो शब्द दर्ज करें।",
@@ -88,7 +88,7 @@
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha चेकबॉक्स। चुनौती को ट्रिगर करने के लिए या यदि आपके पास कोई पहुँच योग्य कुकी है तो उसे बायपास करने के लिए चयन करें।",
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha चेकबॉक्स। आप सत्यापित हैं कि मैं मानव हूं।",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha एक ऐसी सेवा है जो सरल प्रश्न पूछकर बॉट्स और स्पैम को कम करती है। कृपया प्रत्येक चुनौती के लिए स्क्रीन के शीर्ष पर दिए गए निर्देशों का पालन करें। अधिक जानकारी के लिए यात्रा करें",
-    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha एक ऐसी सेवा है जो सरल प्रश्न पूछकर बॉट्स और स्पैम को कम करती है। कृपया प्रत्येक चुनौती के लिए स्क्रीन के शीर्ष पर दिए गए निर्देशों का पालन करें। अधिक जानकारी के लिए {{साइट- url}} पर जाएं",
+    "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha एक ऐसी सेवा है जो सरल प्रश्न पूछकर बॉट्स और स्पैम को कम करती है। कृपया प्रत्येक चुनौती के लिए स्क्रीन के शीर्ष पर दिए गए निर्देशों का पालन करें। अधिक जानकारी के लिए {{site-url}} पर जाएं",
     "widget error message text": "विजेट त्रुटि संदेश पाठ",
     "widget warning message text": "विजेट चेतावनी संदेश पाठ"
 }

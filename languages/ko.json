@@ -1,6 +1,6 @@
 {
     "Accessibility": "접근성",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "접근성 쿠키가 설정되지 않았습니다. {{쿠키 검색}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "접근성 쿠키가 설정되지 않았습니다. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "접근성 쿠키가 설정되었습니다. 도움이 필요하면 {{support}}로 이메일을 보내주세요.",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "접근성. 이메일 링크를 통해 챌린지를 우회 할 수있는 hCaptcha 접근성을 활성화하는 방법을 알아 보려면이 메뉴 항목을 방문하십시오.",
     "Back": "뒤",
