@@ -162,13 +162,13 @@
                     "text": "Accessibility"
                 },
                 "copy": {
-                    "text": "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.",
+                    "text": "To bypass our visual challenge, we offer an accessibility cookie.",
                     "more": "Learn more about hCaptcha Accessibility."
                 },
                 "cookie_status": {
                     "header": "Status:",
                     "enable_cookie": "Enable cross-site cookies.",
-                    "retrieve_cookie": "Retrieve accessibility cookie here.",
+                    "retrieve_cookie": "Retrieve accessibility cookie.",
                     "types": {
                         "no_cookie": {
                             "no_access" : "Accessibility cookie is not set. {{retrieve-cookie}}",
