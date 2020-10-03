@@ -162,8 +162,8 @@
                     "text": "Accessibility"
                 },
                 "copy": {
-                    "text": "hCaptcha is committed to being fully accessible. To bypass the visual challenge, please {{sign up}} for an accessibility account.",
-                    "more": "Learn more {{here}}."
+                    "text": "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.",
+                    "more": "Learn more about hCaptcha Accessibility."
                 },
                 "cookie_status": {
                     "header": "Status:",
