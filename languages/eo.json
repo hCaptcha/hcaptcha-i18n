@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Raporti problemon pri eraro aŭ problemo al hCaptcha.",
     "Report an image to hCaptcha.": "Raporti bildon al hCaptcha.",
     "Reporting a functionality issue?": "Raporti pri funkcia problemo?",
-    "Retrieve accessibility cookie here.": "Rekuperu alireblan kuketon ĉi tie.",
+    "Retrieve accessibility cookie.": "Elŝuti alireblan kuketon.",
     "See how to report issues with detailed logs.": "Vidu kiel raporti pri problemoj kun detalaj ŝtipoj.",
     "Send": "Sendu",
     "Send Response": "Sendu Respondon",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "La paĝaro por ĉi tiu hCaptcha estas malĝusta. Bonvolu kontakti la retejan administranton se vi vidas ĉi tion.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ĉi tiu hCaptcha nur por testado. Bonvolu kontakti la retejan administranton se vi vidas ĉi tion.",
     "This lets you avoid future questions by registering and setting a cookie.": "Ĉi tio ebligas al vi eviti estontajn demandojn per registrado kaj agordo de kuketo.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Por preteriri nian vidan defion, ni ofertas alireblan kuketon.",
     "Too Difficult": "Tro Malfacila",
     "View our accessibility option.": "Vidu nian alireblan eblon.",
     "We will look into the issue immediately.": "Ni esploros la aferon tuj.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha markobutono. Vi estas konfirmita, ke mi estas homa.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha estas servo, kiu reduktas robotojn kaj spamojn per demandoj simplaj. Bonvolu sekvi la instrukciojn ĉe la supro de la ekrano por ĉiu defio. Por pliaj informoj vizitu",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha estas servo, kiu reduktas robotojn kaj spamojn per simplaj demandoj. Bonvolu sekvi la instrukciojn supre de la ekrano por ĉiu defio. Por pliaj informoj vizitu {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha kompromitas esti plene alirebla. Por preteriri nian vidan defion, ni ofertas alireblan kuketon.",
     "widget error message text": "fenestraĵa erara mesaĝa teksto",
     "widget warning message text": "fenestraĵo averta mesaĝo teksto"
 }

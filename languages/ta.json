@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "ஒரு மென்பொருள் பிழை அல்லது சிக்கலை hCaptcha க்கு புகாரளிக்கவும்.",
     "Report an image to hCaptcha.": "ஒரு படத்தை hCaptcha க்கு புகாரளிக்கவும்.",
     "Reporting a functionality issue?": "செயல்பாட்டு சிக்கலைப் புகாரளிக்கிறீர்களா?",
-    "Retrieve accessibility cookie here.": "அணுகல் குக்கீயை இங்கே மீட்டெடுக்கவும்.",
+    "Retrieve accessibility cookie.": "அணுகல் குக்கீயை மீட்டெடுக்கவும்.",
     "See how to report issues with detailed logs.": "விரிவான பதிவுகளுடன் சிக்கல்களை எவ்வாறு புகாரளிப்பது என்பதைப் பாருங்கள்.",
     "Send": "அனுப்பு",
     "Send Response": "பதில் அனுப்புங்கள்",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "இந்த hCaptcha க்கான தளவாடம் தவறானது. இதைக் கண்டால் தள நிர்வாகியைத் தொடர்பு கொள்ளவும்.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "இந்த hCaptcha சோதனைக்கு மட்டுமே. இதைக் கண்டால் தள நிர்வாகியைத் தொடர்பு கொள்ளவும்.",
     "This lets you avoid future questions by registering and setting a cookie.": "குக்கீயை பதிவுசெய்து அமைப்பதன் மூலம் எதிர்கால கேள்விகளைத் தவிர்க்க இது உங்களை அனுமதிக்கிறது.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "எங்கள் காட்சி சவாலைத் தவிர்க்க, அணுகக்கூடிய குக்கீயை நாங்கள் வழங்குகிறோம்.",
     "Too Difficult": "மிகவும் கடினம்",
     "View our accessibility option.": "எங்கள் அணுகல் விருப்பத்தைக் காண்க.",
     "We will look into the issue immediately.": "பிரச்சினையை உடனடியாக ஆராய்வோம்.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha தேர்வுப்பெட்டி. நீங்கள் மனிதர் என்பதை நீங்கள் சரிபார்க்கிறீர்கள்.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு வருகை",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு {{site-url} visit ஐப் பார்வையிடவும்",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha முழுமையாக அணுகக்கூடியதாக உள்ளது. எங்கள் காட்சி சவாலைத் தவிர்க்க, அணுகக்கூடிய குக்கீயை நாங்கள் வழங்குகிறோம்.",
     "widget error message text": "விட்ஜெட் பிழை செய்தி உரை",
     "widget warning message text": "விட்ஜெட் எச்சரிக்கை செய்தி உரை"
 }

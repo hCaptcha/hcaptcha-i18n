@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Bika isiphazamisi sesoftware noma ukhiphe ku-hCaptcha.",
     "Report an image to hCaptcha.": "Bika isithombe ku-hCaptcha.",
     "Reporting a functionality issue?": "Ukubika inkinga yokusebenza?",
-    "Retrieve accessibility cookie here.": "Buyisa ikhukhi lokungeneka lapha.",
+    "Retrieve accessibility cookie.": "Buyisa ikhukhi lokungeneka.",
     "See how to report issues with detailed logs.": "Bona ukuthi ungabika kanjani izindaba ngamalogi anemininingwane.",
     "Send": "Thumela",
     "Send Response": "Thumela Impendulo",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "I-Sitekey yale hCaptcha ayilungile. Sicela uxhumane nomphathi wesayithi uma ubona lokhu.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Le hCaptcha ingeyokuhlola kuphela. Sicela uxhumane nomphathi wesayithi uma ubona lokhu.",
     "This lets you avoid future questions by registering and setting a cookie.": "Lokhu kukuvumela ukuthi ugweme imibuzo yesikhathi esizayo ngokubhalisa nokusetha ikhukhi.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Ukudlula inselelo yethu yokubuka, sinikeza ikhukhi lokungeneka.",
     "Too Difficult": "Kunzima Kakhulu",
     "View our accessibility option.": "Bheka inketho yethu yokufinyeleleka.",
     "We will look into the issue immediately.": "Sizobheka udaba ngokushesha.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "ibhokisi lokuhlola le-hCaptcha. Uqinisekisiwe ukuthi ngingumuntu.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "i-hCaptcha iyinsizakalo ehlisa i-bots kanye nogaxekile ngokubuza imibuzo elula. Sicela ulandele imiyalo engaphezulu kwesikrini inselelo ngayinye. Ukuhambela eminye imininingwane",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "I-hCaptcha iyisevisi enciphisa ama-bots nogaxekile ngokubuza imibuzo elula. Sicela ulandele imiyalo ephezulu kwesikrini ngenselelo ngayinye. Ngeminye imininingwane vakashela i - {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "I-hCaptcha izinikele ekufinyeleleni ngokugcwele. Ukudlula inselelo yethu yokubuka, sinikeza ikhukhi lokungeneka.",
     "widget error message text": "umbhalo wombhalo wephutha lewijethi",
     "widget warning message text": "iwijethi yombhalo wewijethi"
 }

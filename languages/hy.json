@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Հաղորդեք ծրագրաշարի սխալի մասին կամ թողարկեք hCaptcha- ին:",
     "Report an image to hCaptcha.": "Հաղորդել պատկերը hCaptcha- ին:",
     "Reporting a functionality issue?": "Ֆունկցիոնալության խնդրի մասին հաղորդո՞ւմ եք:",
-    "Retrieve accessibility cookie here.": "Առբերեք հասանելիության քուքի-էջը այստեղ",
+    "Retrieve accessibility cookie.": "Առբերեք մատչելիության քուքին:",
     "See how to report issues with detailed logs.": "Տեսեք, թե ինչպես զեկուցել խնդիրները մանրամասն տեղեկամատյաններով:",
     "Send": "Ուղարկել",
     "Send Response": "Ուղարկեք պատասխան",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Այս hCaptcha- ի համար նստացույցը սխալ է: Եթե դա տեսնեք, դիմեք կայքի ղեկավարին:",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Այս hCaptcha- ը նախատեսված է միայն փորձարկման համար: Եթե դա տեսնեք, դիմեք կայքի ղեկավարին:",
     "This lets you avoid future questions by registering and setting a cookie.": "Սա թույլ է տալիս խուսափել հետագա հարցերից ՝ գրանցվելով և տեղադրելով թխուկ:",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Մեր տեսողական մարտահրավերը շրջանցելու համար մենք առաջարկում ենք մատչելիության քուքի:",
     "Too Difficult": "Չափազանց դժվար",
     "View our accessibility option.": "Դիտեք մեր մատչելիության տարբերակը:",
     "We will look into the issue immediately.": "Հարցին անմիջապես կանդրադառնանք:",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha տուփ: Դուք հաստատված եք, որ ես մարդ եմ:",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha- ն այնպիսի ծառայություն է, որը նվազեցնում է բոտերը և սպամը ՝ պարզ հարցեր տալով: Խնդրում ենք հետևել էկրանի վերևում գտնվող հրահանգներին `յուրաքանչյուր մարտահրավերի համար: Լրացուցիչ տեղեկությունների համար այցելեք",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha- ն ծառայություն է, որը նվազեցնում է բոտերը և սպամը `պարզ հարցեր տալով: Խնդրում ենք յուրաքանչյուր մարտահրավերի համար հետևել էկրանի վերևի հրահանգներին: Լրացուցիչ տեղեկությունների համար այցելեք {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha- ն պարտավորվում է լիովին մատչելի լինել: Մեր տեսողական մարտահրավերը շրջանցելու համար մենք առաջարկում ենք մատչելիության քուքի:",
     "widget error message text": "widget սխալի հաղորդագրության տեքստ",
     "widget warning message text": "widget նախազգուշացման հաղորդագրության տեքստ"
 }

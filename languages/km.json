@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "រាយការណ៍កំហុសកម្មវិធីឬបញ្ហាទៅ hCaptcha ។",
     "Report an image to hCaptcha.": "រាយការណ៍រូបភាពទៅ hCaptcha ។",
     "Reporting a functionality issue?": "រាយការណ៍បញ្ហាមុខងារ?",
-    "Retrieve accessibility cookie here.": "ទាញយកឃុកឃីភាពងាយស្រួលនៅទីនេះ។",
+    "Retrieve accessibility cookie.": "ទាញយកខូឃីដែលអាចចូលដំណើរការបាន។",
     "See how to report issues with detailed logs.": "មើលរបៀបរាយការណ៍បញ្ហាជាមួយកំណត់ហេតុលំអិត។",
     "Send": "ផ្ញើ",
     "Send Response": "ផ្ញើការឆ្លើយតប",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "គេហទំព័រសម្រាប់ hCaptcha នេះមិនត្រឹមត្រូវទេ។ សូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័រប្រសិនបើអ្នកឃើញវា។",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "hCaptcha នេះគឺសម្រាប់តេស្តតែប៉ុណ្ណោះ។ សូមទាក់ទងអ្នកគ្រប់គ្រងគេហទំព័រប្រសិនបើអ្នកឃើញវា។",
     "This lets you avoid future questions by registering and setting a cookie.": "នេះអនុញ្ញាតឱ្យអ្នកជៀសវាងសំណួរនាពេលអនាគតដោយចុះឈ្មោះនិងកំណត់ខូឃីស៍។",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "ដើម្បីចៀសវាងបញ្ហាប្រឈមដែលយើងមើលឃើញយើងផ្តល់ជូននូវខូឃីដែលអាចចូលដំណើរការបាន។",
     "Too Difficult": "ពិបាក​ខា​្លំ​ង​ណាស់",
     "View our accessibility option.": "មើលជម្រើសភាពងាយស្រួលរបស់យើង។",
     "We will look into the issue immediately.": "យើងនឹងពិនិត្យមើលបញ្ហានេះភ្លាមៗ។",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "ប្រអប់ធីក hCaptcha ។ អ្នកត្រូវបានបញ្ជាក់ថាខ្ញុំជាមនុស្ស។",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha គឺជាសេវាកម្មដែលជួយកាត់បន្ថយរូបយន្តនិងសារឥតបានការដោយសួរសំណួរងាយៗ។ សូមអនុវត្តតាមការណែនាំនៅផ្នែកខាងលើនៃអេក្រង់សម្រាប់បញ្ហាប្រឈមនីមួយៗ។ សម្រាប់ព័ត៌មានបន្ថែមសូមទស្សនា",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha គឺជាសេវាកម្មដែលជួយកាត់បន្ថយរូបយន្តនិងសារឥតបានការដោយសួរសំណួរងាយៗ។ សូមអនុវត្តតាមការណែនាំនៅផ្នែកខាងលើនៃអេក្រង់សម្រាប់បញ្ហាប្រឈមនីមួយៗ។ សម្រាប់ព័ត៌មានបន្ថែមសូមទស្សនា {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ប្តេជ្ញាថាអាចចូលដំណើរការបានពេញលេញ។ ដើម្បីចៀសវាងបញ្ហាប្រឈមដែលយើងមើលឃើញយើងផ្តល់ជូននូវខូឃីដែលអាចចូលដំណើរការបាន។",
     "widget error message text": "អត្ថបទសារកំហុសរបស់ធាតុក្រាហ្វិក",
     "widget warning message text": "អត្ថបទសារព្រមានធាតុក្រាហ្វិក"
 }

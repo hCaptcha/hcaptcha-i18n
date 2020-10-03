@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Пријавите софтверску грешку или проблем са хЦаптцха.",
     "Report an image to hCaptcha.": "Пријави слику на хЦаптцха.",
     "Reporting a functionality issue?": "Пријављивање проблема са функционалношћу?",
-    "Retrieve accessibility cookie here.": "Овде преузмите колачић за приступачност.",
+    "Retrieve accessibility cookie.": "Преузми колачић за приступачност.",
     "See how to report issues with detailed logs.": "Погледајте како пријавити проблеме детаљним записима.",
     "Send": "Пошаљи",
     "Send Response": "Пошаљи одговор",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Кључ странице за овај хЦаптцха је погрешан. Ако то видите, контактирајте администратора веб локације.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ова хЦаптцха је само за тестирање. Ако то видите, контактирајте администратора веб локације.",
     "This lets you avoid future questions by registering and setting a cookie.": "Ово вам омогућава да избегнете будућа питања регистрацијом и постављањем колачића.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Да бисмо заобишли наш визуелни изазов, нудимо колачић за приступачност.",
     "Too Difficult": "Тешко",
     "View our accessibility option.": "Погледајте нашу опцију приступачности.",
     "We will look into the issue immediately.": "Ми ћемо одмах размотрити то питање.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "хЦаптцха потврдни оквир. Проверени сте да сам човек.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "хЦаптцха је услуга која смањује ботове и нежељену пошту постављајући једноставна питања. Молимо вас да следите упутства на врху екрана за сваки изазов. За више информација посетите",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "хЦаптцха је услуга која смањује ботове и нежељену пошту постављањем једноставних питања. Слиједите упутства на врху екрана за сваки изазов. За више информација посетите {{сите-урл}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "хЦаптцха се обавезује да ће бити у потпуности доступна. Да бисмо заобишли наш визуелни изазов, нудимо колачић за приступачност.",
     "widget error message text": "текст поруке о грешци додатака",
     "widget warning message text": "текст поруке упозорења за виџет"
 }

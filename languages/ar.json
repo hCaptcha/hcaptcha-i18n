@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "أبلغ hCaptcha عن خطأ أو مشكلة في البرنامج.",
     "Report an image to hCaptcha.": "الإبلاغ عن صورة ل hCaptcha.",
     "Reporting a functionality issue?": "هل تريد الإبلاغ عن مشكلة في الوظيفة؟",
-    "Retrieve accessibility cookie here.": "استرجع ملف تعريف الارتباط الخاص بإمكانية الوصول هنا.",
+    "Retrieve accessibility cookie.": "استرجع ملف تعريف ارتباط الوصول.",
     "See how to report issues with detailed logs.": "اطلع على كيفية الإبلاغ عن المشكلات المتعلقة بالسجلات التفصيلية.",
     "Send": "إرسال",
     "Send Response": "أرسل جوابا",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "مفتاح موقع hCaptcha هذا غير صحيح. يرجى الاتصال بمسؤول الموقع إذا رأيت هذا.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "هذا hCaptcha هو للاختبار فقط. يرجى الاتصال بمسؤول الموقع إذا رأيت هذا.",
     "This lets you avoid future questions by registering and setting a cookie.": "يتيح لك ذلك تجنب الأسئلة المستقبلية عن طريق التسجيل وإعداد ملف تعريف الارتباط.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "لتجاوز التحدي المرئي ، نقدم ملف تعريف ارتباط إمكانية الوصول.",
     "Too Difficult": "صعب جدا",
     "View our accessibility option.": "عرض خيار الوصول لدينا.",
     "We will look into the issue immediately.": "سننظر في القضية على الفور.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "خانة الاختيار hCaptcha. تم التحقق من أنني بشر.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha هي خدمة تقلل من برامج الروبوت والبريد العشوائي من خلال طرح أسئلة بسيطة. يرجى اتباع التعليمات في الجزء العلوي من الشاشة لكل تحد. لمزيد من المعلومات زيارة",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha هي خدمة تقلل من الروبوتات والبريد العشوائي عن طريق طرح أسئلة بسيطة. يرجى اتباع التعليمات الموجودة أعلى الشاشة لكل تحد. لمزيد من المعلومات ، تفضل بزيارة {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "تلتزم hCaptcha بإمكانية الوصول إليها بشكل كامل. لتجاوز التحدي المرئي ، نقدم ملف تعريف ارتباط إمكانية الوصول.",
     "widget error message text": "نص رسالة خطأ القطعة",
     "widget warning message text": "نص رسالة تحذير القطعة"
 }

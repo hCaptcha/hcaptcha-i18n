@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Korerotia he bug taputapu, take ranei ki te hCaptcha.",
     "Report an image to hCaptcha.": "Korerotia he pikitia ki te hCaptcha.",
     "Reporting a functionality issue?": "Te ripoata i tetahi take mahi?",
-    "Retrieve accessibility cookie here.": "Tangohia te pihikete urutanga ki konei.",
+    "Retrieve accessibility cookie.": "Tangohia te pihikete urutanga.",
     "See how to report issues with detailed logs.": "Tirohia te pehea e ripoata ai nga take me nga raarangi taipitopito.",
     "Send": "Tukua",
     "Send Response": "Tukuna Whakautu",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Ko te sitekey mo tenei hCaptcha he he. Tena koa whakapā atu ki te kaiwhakahaere paetukutuku mena ka kite koe i tenei.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ko tenei hCaptcha he whakamatautau anake. Tena koa whakapā atu ki te kaiwhakahaere paetukutuku mena ka kite koe i tenei.",
     "This lets you avoid future questions by registering and setting a cookie.": "Ma tenei ka taea e koe te karo i nga patai a meake nei ma te rehita me te whakatakoto i tetahi pihikete.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Hei karo i ta maatau wero tirohanga, ka tukuna he pihikete urutanga.",
     "Too Difficult": "Tino Tino",
     "View our accessibility option.": "Tirohia to maatau whakauru.",
     "We will look into the issue immediately.": "Ka tirohia e matou tonu te take.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "pouaka hCaptcha. Kua whakatauhia koe he tangata ahau.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Ko te hCaptcha he ratonga e whakaiti ana i nga pota me te mokomoko ma te paatai i nga paatai ngawari. Me whai i nga tohutohu i te pito o runga o te mata mo ia wero. Mo te roanga atu o nga korero",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha he ratonga e whakaheke ana i nga potae me nga mokowhiti ma te paatai i nga paatai ngawari. Whai koa nga tohutohu kei runga ake o te mata mo ia wero. Mo etahi atu korero tirohia te {{pae-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "Kei te pono a HCaptcha kia uru noa atu ia. Hei karo i ta maatau wero tirohanga, ka tukuna he pihikete urutanga.",
     "widget error message text": "kuputuhi karere hapa hapa",
     "widget warning message text": "kuputuhi karere whakatupato whakatupato"
 }

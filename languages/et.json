@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Teatage tarkvaraveast või probleemist hCaptcha-le.",
     "Report an image to hCaptcha.": "Teatage pildist hCaptcha-le.",
     "Reporting a functionality issue?": "Kas soovite teatada funktsionaalsuse probleemist?",
-    "Retrieve accessibility cookie here.": "Hankige juurdepääsetavusküpsis siit.",
+    "Retrieve accessibility cookie.": "Hankige juurdepääsetavusküpsis.",
     "See how to report issues with detailed logs.": "Vaadake, kuidas üksikasjalikest logidest probleemidest teatada.",
     "Send": "Saada",
     "Send Response": "Saada vastus",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Selle hCaptcha saidi võti on vale. Kui näete seda, võtke ühendust saidi administraatoriga.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "See hCaptcha on ette nähtud ainult testimiseks. Kui näete seda, võtke ühendust saidi administraatoriga.",
     "This lets you avoid future questions by registering and setting a cookie.": "See võimaldab küpsiste registreerimisel ja seadistamisel vältida tulevasi küsimusi.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Visuaalsest väljakutsest möödumiseks pakume juurdepääsetavusküpsist.",
     "Too Difficult": "Liiga raske",
     "View our accessibility option.": "Vaadake meie hõlbustusvõimalust.",
     "We will look into the issue immediately.": "Uurime seda küsimust kohe.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha ruut. Teile on kinnitatud, et ma olen inimene.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha on teenus, mis vähendab robotite ja rämpsposti arvu, esitades lihtsaid küsimusi. Järgige iga väljakutse jaoks ekraani ülaosas olevaid juhiseid. Lisateabe saamiseks külastage",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha on teenus, mis vähendab roboteid ja rämpsposti, esitades lihtsaid küsimusi. Järgige iga väljakutse jaoks ekraani ülaosas olevaid juhiseid. Lisateabe saamiseks külastage aadressi {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha on pühendunud täielikule juurdepääsule. Visuaalsest väljakutsest möödumiseks pakume juurdepääsetavusküpsist.",
     "widget error message text": "vidina veateate tekst",
     "widget warning message text": "vidina hoiatusteate tekst"
 }

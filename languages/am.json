@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "የሶፍትዌር ሳንካ ወይም ችግር ለ hCaptcha ሪፖርት ያድርጉ።",
     "Report an image to hCaptcha.": "ለ hCaptcha ምስልን ሪፖርት ያድርጉ ፡፡",
     "Reporting a functionality issue?": "የአሠራር ችግር ሪፖርት እያደረጉ ነው?",
-    "Retrieve accessibility cookie here.": "የተደራሽነት ኩኪን እዚህ ያውጡ።",
+    "Retrieve accessibility cookie.": "የተደራሽነት ኩኪን ሰርስረው ያውጡ ፡፡",
     "See how to report issues with detailed logs.": "ጉዳዮችን በዝርዝር ምዝግብ ማስታወሻዎች እንዴት ሪፖርት እንደሚያደርጉ ይመልከቱ ፡፡",
     "Send": "ይላኩ",
     "Send Response": "ምላሽ ይላኩ",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "የዚህ ኤች.አይ.ፒ.ptpt ጣቢያ የተሳሳተ ነው ፡፡ ይህንን ካዩ እባክዎ የጣቢያ አስተዳዳሪውን ያነጋግሩ።",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "ይህ hCaptcha ለሙከራ ብቻ ነው። ይህንን ካዩ እባክዎ የጣቢያ አስተዳዳሪውን ያነጋግሩ።",
     "This lets you avoid future questions by registering and setting a cookie.": "ይህ ኩኪን በመመዝገብ እና በማቀናጀት የወደፊት ጥያቄዎችን እንዲያስወግዱ ያስችልዎታል ፡፡",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "የእይታ ፈተናችንን ለማለፍ የተደራሽነት ኩኪ እናቀርባለን ፡፡",
     "Too Difficult": "በጣም አስቸጋሪ",
     "View our accessibility option.": "የተደራሽነት ምርጫችንን ይመልከቱ።",
     "We will look into the issue immediately.": "ጉዳዩን ወዲያውኑ እንመረምራለን ፡፡",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha አመልካች ሳጥን። እርስዎ ተረጋግጠዋል እርስዎ ሰው ነኝ ፡፡",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ቀላል ጥያቄዎችን በመጠየቅ ቡት እና አይፈለጌ መልእክት የሚቀንስ አገልግሎት ነው ፡፡ እባክዎ ለእያንዳንዱ ፈተና በማያ ገጹ አናት ላይ ያሉትን መመሪያዎች ይከተሉ። ለተጨማሪ መረጃ ጎብኝ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ቀላል ጥያቄዎችን በመጠየቅ ቦቶችን እና አይፈለጌ መልዕክቶችን የሚቀንስ አገልግሎት ነው ፡፡ ለእያንዳንዱ ተግዳሮት በማያ ገጹ አናት ላይ ያሉትን መመሪያዎች ይከተሉ ፡፡ ለተጨማሪ መረጃ {{site-url}} ን ይጎብኙ",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ሙሉ በሙሉ ተደራሽ ለመሆን ቁርጠኛ ነው። የእይታ ፈተናችንን ለማለፍ የተደራሽነት ኩኪ እናቀርባለን ፡፡",
     "widget error message text": "ንዑስ ፕሮግራም ስህተት ጽሑፍ",
     "widget warning message text": "የፍላሽ መልእክት ጽሑፍ"
 }

@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "سافٹ ویئر بگ کی اطلاع دیں یا hCaptcha کو ایشو کریں۔",
     "Report an image to hCaptcha.": "hCaptcha کو کسی تصویر کی اطلاع دیں۔",
     "Reporting a functionality issue?": "فعالیت کے مسئلے کی اطلاع دہندگی؟",
-    "Retrieve accessibility cookie here.": "قابل رسا کوکی کو یہاں بازیافت کریں۔",
+    "Retrieve accessibility cookie.": "قابل رسا کوکی بازیافت کریں۔",
     "See how to report issues with detailed logs.": "تفصیلی نوشتہ جات کے ساتھ معاملات کی اطلاع کے بارے میں دیکھیں۔",
     "Send": "بھیجیں",
     "Send Response": "جواب بھیجیں",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "اس hCaptcha کے لئے سائٹکی غلط ہے۔ اگر آپ اسے دیکھتے ہیں تو سائٹ کے منتظم سے رابطہ کریں۔",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "یہ hCaptcha صرف جانچ کے لئے ہے۔ اگر آپ اسے دیکھتے ہیں تو سائٹ کے منتظم سے رابطہ کریں۔",
     "This lets you avoid future questions by registering and setting a cookie.": "اس سے کوکی کو رجسٹر کر کے اور ترتیب دے کر آپ مستقبل کے سوالات سے بچ سکتے ہیں۔",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "اپنے بصری چیلنج کو نظرانداز کرنے کے لئے ، ہم ایک قابل رسا کوکی پیش کرتے ہیں۔",
     "Too Difficult": "بہت مشکل",
     "View our accessibility option.": "ہمارے قابل رسا اختیار کو دیکھیں۔",
     "We will look into the issue immediately.": "ہم فوری طور پر اس مسئلے پر غور کریں گے۔",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha چیک باکس آپ تصدیق شدہ ہیں میں انسان ہوں۔",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ایک ایسی خدمت ہے جو آسان سوالات پوچھ کر بوٹس اور اسپام کو کم کرتی ہے۔ ہر چیلنج کے ل Please براہ کرم اسکرین کے اوپری حصے میں دی گئی ہدایات پر عمل کریں۔ مزید معلومات کے لئے ملاحظہ کریں",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ایک ایسی خدمت ہے جو آسان سوالات پوچھ کر بوٹس اور اسپام کو کم کرتی ہے۔ براہ کرم ہر چیلنج کے ل the اسکرین کے اوپری حصے میں دی گئی ہدایات پر عمل کریں۔ مزید معلومات کے لئے {{سائٹ یو آر ایل visit visit ملاحظہ کریں",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha مکمل طور پر قابل رسائی ہونے کے لئے پرعزم ہے۔ اپنے بصری چیلنج کو نظرانداز کرنے کے لئے ، ہم ایک قابل رسا کوکی پیش کرتے ہیں۔",
     "widget error message text": "ویجیٹ غلطی پیغام متن",
     "widget warning message text": "ویجیٹ انتباہی پیغام متن"
 }

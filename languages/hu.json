@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Jelentsen egy szoftverhibát vagy problémát a hCaptcha-nak.",
     "Report an image to hCaptcha.": "Jelentsen egy képet a hCaptcha-nak.",
     "Reporting a functionality issue?": "Funkcionalitási probléma jelentése?",
-    "Retrieve accessibility cookie here.": "Itt kérheti le az akadálymentességi sütit.",
+    "Retrieve accessibility cookie.": "Letölthető kisegítő süti.",
     "See how to report issues with detailed logs.": "Olvassa el, hogyan jelentheti be a problémákat a részletes naplókkal.",
     "Send": "Küld",
     "Send Response": "Válasz küldése",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "A hCaptcha webhelykulcsa helytelen. Kérjük, lépjen kapcsolatba a webhely adminisztrátorával, ha ezt látja.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ez a hCaptcha csak tesztelésre szolgál. Kérjük, lépjen kapcsolatba a webhely adminisztrátorával, ha ezt látja.",
     "This lets you avoid future questions by registering and setting a cookie.": "Ez lehetővé teszi, hogy elkerülje a jövőbeli kérdéseket a cookie regisztrálásával és beállításával.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "A vizuális kihívásunk elkerülése érdekében akadálymentességi sütit kínálunk.",
     "Too Difficult": "Túl nehéz",
     "View our accessibility option.": "Tekintse meg akadálymentességünket.",
     "We will look into the issue immediately.": "Azonnal megvizsgáljuk a kérdést.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha jelölőnégyzet. Ellenőrizték, hogy ember vagyok-e.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "A hCaptcha olyan szolgáltatás, amely egyszerű kérdések feltevése révén csökkenti a robotok és a spam képességeit. Kérjük, minden kihíváshoz kövesse a képernyő tetején található utasításokat. További információkért látogasson el",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "A hCaptcha olyan szolgáltatás, amely egyszerű kérdések feltevésével csökkenti a botokat és a spameket. Kérjük, kövesse a képernyő tetején található utasításokat minden kihíváshoz. További információ: {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "A hCaptcha elkötelezett a teljes hozzáférés mellett. A vizuális kihívásunk elkerülése érdekében akadálymentességi sütit kínálunk.",
     "widget error message text": "widget hibaüzenet szövege",
     "widget warning message text": "widget figyelmeztető üzenet szövege"
 }

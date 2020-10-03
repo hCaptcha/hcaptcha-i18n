@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Tshaj tawm cov kab software lossis teeb meem rau hCaptcha.",
     "Report an image to hCaptcha.": "Tshaj tawm daim duab rau hCaptcha.",
     "Reporting a functionality issue?": "Qhia txog ib qho teeb meem ua haujlwm?",
-    "Retrieve accessibility cookie here.": "Khaws cov khoom ua noj ua haus ntawm no.",
+    "Retrieve accessibility cookie.": "Rov muab cov khaub noom siv tau.",
     "See how to report issues with detailed logs.": "Saib yuav ua li cas qhia txog teeb meem nrog cov ncauj lus kom ntxaws.",
     "Send": "Xa",
     "Send Response": "Xa Teb",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Lub vev xaib rau hCaptcha no tsis raug. Thov hu rau tus xaib admin yog tias koj pom qhov no.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "No hCaptcha yog rau kev xeem nkaus xwb. Thov hu rau tus xaib admin yog tias koj pom qhov no.",
     "This lets you avoid future questions by registering and setting a cookie.": "Qhov no cia koj zam cov lus nug yav tom ntej los ntawm kev sau npe thiab teeb khoom qab zib.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Kom dhau peb txoj kev sib tw pom kev zoo, peb muab cov khoom qab zib ua kom yooj yim.",
     "Too Difficult": "Ua Neeg Nyuaj Siab",
     "View our accessibility option.": "Saib peb cov kev xaiv ua kom tau txais txiaj ntsig.",
     "We will look into the issue immediately.": "Peb yuav saib mus rau hauv qhov teeb meem tam sim ntawd.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox. Koj muaj tseeb koj yog neeg.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha yog qhov kev pabcuam uas txo bots thiab spam los ntawm kev nug cov lus nug yooj yim. Thov ua raws li cov lus qhia nyob rau sab saum toj ntawm kev tshuaj ntsuam rau txhua qhov kev sib tw. Rau cov ntaub ntawv txuas ntxiv mus ntsib",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha yog qhov kev pabcuam uas txo bots thiab spam los ntawm kev nug cov lus nug yooj yim. Thov ua raws li cov lus qhia nyob rau sab saum toj ntawm kev tshuaj ntsuam rau txhua qhov kev sib tw. Yog xav paub ntxiv mus xyuas {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha tau muab siab hlo kom ua txhua yam nkag tau. Kom dhau peb txoj kev sib tw pom kev zoo, peb muab cov khoom qab zib ua kom yooj yim.",
     "widget error message text": "widget kev ua yuam kev xov ntawv nyeem",
     "widget warning message text": "cov ntawv ceeb toom widget"
 }

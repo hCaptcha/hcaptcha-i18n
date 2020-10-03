@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "דווח על באג או בעיה בתוכנה ל- hCaptcha.",
     "Report an image to hCaptcha.": "דווח על תמונה ל- hCaptcha.",
     "Reporting a functionality issue?": "מדווחים על בעיית פונקציונליות?",
-    "Retrieve accessibility cookie here.": "אחזר כאן את עוגיית הנגישות.",
+    "Retrieve accessibility cookie.": "אחזר עוגיית נגישות.",
     "See how to report issues with detailed logs.": "ראה כיצד לדווח על בעיות עם יומנים מפורטים.",
     "Send": "לִשְׁלוֹחַ",
     "Send Response": "שלח תגובה",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "מצבת האתר של hCaptcha זו אינה נכונה. אנא פנה למנהל האתר אם אתה רואה זאת.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "HCaptcha זה מיועד לבדיקה בלבד. אנא פנה למנהל האתר אם אתה רואה זאת.",
     "This lets you avoid future questions by registering and setting a cookie.": "זה מאפשר לך להימנע משאלות עתידיות על ידי רישום והגדרת קובץ cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "כדי לעקוף את האתגר הוויזואלי שלנו, אנו מציעים עוגיית נגישות.",
     "Too Difficult": "קשה מידי",
     "View our accessibility option.": "צפה באפשרות הנגישות שלנו.",
     "We will look into the issue immediately.": "נבדוק את הנושא באופן מיידי.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "תיבת הסימון hCaptcha. אתה מאומת שאני בן אדם.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha הוא שירות המפחית בוטים וספאם על ידי שאלה פשוטה. אנא עקוב אחר ההוראות בחלק העליון של המסך עבור כל אתגר. למידע נוסף בקרו",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha הוא שירות המפחית בוטים וספאם על ידי שאלת שאלות פשוטות. אנא עקוב אחר ההוראות בחלק העליון של המסך עבור כל אתגר. למידע נוסף בקר בכתובת {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha מחויבת להיות נגישה באופן מלא. כדי לעקוף את האתגר הוויזואלי שלנו, אנו מציעים עוגיית נגישות.",
     "widget error message text": "טקסט הודעת שגיאה של יישומון",
     "widget warning message text": "טקסט הודעת אזהרה"
 }

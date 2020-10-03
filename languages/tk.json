@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "HCaptcha programma üpjünçiliginiň näsazlygy ýa-da meselesi barada habar beriň.",
     "Report an image to hCaptcha.": "Suraty hCaptcha habar beriň.",
     "Reporting a functionality issue?": "Funksiýa meselesi barada hasabat bermek?",
-    "Retrieve accessibility cookie here.": "Elýeterlilik gutapjygyny şu ýerden alyň.",
+    "Retrieve accessibility cookie.": "Elýeterlilik gutapjygyny alyň.",
     "See how to report issues with detailed logs.": "Jikme-jik surnallar bilen nädip hasabat bermelidigine serediň.",
     "Send": "Iber",
     "Send Response": "Jogap iber",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Bu hCaptcha üçin oturgyç nädogry. Muny görýän bolsaňyz, sahypa administratoryna ýüz tutmagyňyzy haýyş edýäris.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Bu hCaptcha diňe synag üçin. Muny görýän bolsaňyz, sahypa administratoryna ýüz tutmagyňyzy haýyş edýäris.",
     "This lets you avoid future questions by registering and setting a cookie.": "Gutapjyk bellige almak we bellemek arkaly geljekdäki soraglardan gaça durmaga mümkinçilik berýär.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Görüş kynçylygymyzdan geçmek üçin elýeterlilik gutapjygyny hödürleýäris.",
     "Too Difficult": "Gaty kyn",
     "View our accessibility option.": "Elýeterliligimizi görüň.",
     "We will look into the issue immediately.": "Meselä derrew serederis.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha bellik. Sen meniň adamdygymy tassykladyň.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha, ýönekeý soraglar berip, botlary we spamy azaldýan hyzmatdyr. Her kynçylyk üçin ekranyň ýokarsyndaky görkezmelere eýeriň. Has giňişleýin maglumat üçin baryp görüň",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha, ýönekeý soraglar berip, botlary we spamy azaldýan hyzmatdyr. Her kynçylyk üçin ekranyň ýokarsyndaky görkezmelere eýeriň. Has giňişleýin maglumat üçin {{site-url} visit girip görüň",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha doly elýeterli bolmagy maksat edinýär. Görüş kynçylygymyzdan geçmek üçin elýeterlilik gutapjygyny hödürleýäris.",
     "widget error message text": "widjet ýalňyş habary teksti",
     "widget warning message text": "widjet duýduryş habarynyň teksti"
 }

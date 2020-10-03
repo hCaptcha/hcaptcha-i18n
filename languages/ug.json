@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "HCaptcha غا يۇمشاق دېتال خاتالىقى ياكى مەسىلە مەلۇم قىلىڭ.",
     "Report an image to hCaptcha.": "رەسىمنى hCaptcha غا دوكلات قىلىڭ.",
     "Reporting a functionality issue?": "ئىقتىدار مەسىلىسىنى دوكلات قىلىش؟",
-    "Retrieve accessibility cookie here.": "بۇ يەردىن پايدىلانما ساقلانمىلارنى ئېلىڭ.",
+    "Retrieve accessibility cookie.": "قولايلىق ساقلانمىلارنى ئېلىڭ.",
     "See how to report issues with detailed logs.": "تەپسىلىي خاتىرە ئارقىلىق مەسىلىلەرنى قانداق دوكلات قىلىشنى كۆرۈڭ.",
     "Send": "ئەۋەتىڭ",
     "Send Response": "جاۋاب ئەۋەتىڭ",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "بۇ hCaptcha نىڭ تور بېكىتى توغرا ئەمەس. بۇنى كۆرسىڭىز تور بېكەت باشقۇرغۇچىسى بىلەن ئالاقىلىشىڭ.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "بۇ hCaptcha پەقەت سىناق ئۈچۈنلا ئىشلىتىلىدۇ. بۇنى كۆرسىڭىز تور بېكەت باشقۇرغۇچىسى بىلەن ئالاقىلىشىڭ.",
     "This lets you avoid future questions by registering and setting a cookie.": "بۇ ئارقىلىق ساقلانمىلارنى تىزىملاش ۋە تەڭشەش ئارقىلىق كەلگۈسىدىكى سوئاللاردىن ساقلىنالايسىز.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "كۆرۈش سېزىمىمىزدىن ئايلىنىپ ئۆتۈش ئۈچۈن ، قۇلايلىق ساقلانمىلارنى تەمىنلەيمىز.",
     "Too Difficult": "بەك قىيىن",
     "View our accessibility option.": "بىزنىڭ قولايلىق تاللىشىمىزنى كۆرۈڭ.",
     "We will look into the issue immediately.": "بىز بۇ مەسىلىنى دەرھال تەكشۈرۈپ چىقىمىز.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha تەكشۈرۈش رامكىسى. مېنىڭ ئادەم ئىكەنلىكىم ئىسپاتلاندى.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن {{site-url} visit نى زىيارەت قىلىڭ",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha تولۇق زىيارەت قىلىشقا ۋەدە بەردى. كۆرۈش سېزىمىمىزدىن ئايلىنىپ ئۆتۈش ئۈچۈن ، قۇلايلىق ساقلانمىلارنى تەمىنلەيمىز.",
     "widget error message text": "كىچىك قورال خاتالىق ئۇچۇرى",
     "widget warning message text": "كىچىك قورال ئاگاھلاندۇرۇش ئۇچۇرى"
 }

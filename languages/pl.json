@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Zgłoś błąd oprogramowania lub problem do hCaptcha.",
     "Report an image to hCaptcha.": "Zgłoś zdjęcie do hCaptcha.",
     "Reporting a functionality issue?": "Zgłaszasz problem z funkcjonalnością?",
-    "Retrieve accessibility cookie here.": "Pobierz plik cookie ułatwień dostępu tutaj.",
+    "Retrieve accessibility cookie.": "Pobierz plik cookie dotyczący ułatwień dostępu.",
     "See how to report issues with detailed logs.": "Zobacz, jak zgłaszać problemy ze szczegółowymi dziennikami.",
     "Send": "Wysłać",
     "Send Response": "Wysłać odpowiedź",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Klawisz sitek dla tej hCaptcha jest niepoprawny. Jeśli to zobaczysz, skontaktuj się z administratorem witryny.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ta hCaptcha służy wyłącznie do testowania. Jeśli to zobaczysz, skontaktuj się z administratorem witryny.",
     "This lets you avoid future questions by registering and setting a cookie.": "Pozwala to uniknąć przyszłych pytań poprzez rejestrację i ustawienie pliku cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Aby ominąć nasze wyzwanie wizualne, oferujemy plik cookie dostępności.",
     "Too Difficult": "Zbyt trudne",
     "View our accessibility option.": "Zobacz naszą opcję ułatwień dostępu.",
     "We will look into the issue immediately.": "Natychmiast zajmiemy się tym problemem.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "Pole wyboru hCaptcha. Jesteś zweryfikowany, że jestem człowiekiem.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha to usługa, która zmniejsza liczbę botów i spamu, zadając proste pytania. Postępuj zgodnie z instrukcjami u góry ekranu dla każdego wyzwania. Więcej informacji na stronie",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha to usługa, która ogranicza liczbę botów i spamu poprzez zadawanie prostych pytań. Postępuj zgodnie z instrukcjami u góry ekranu dla każdego wyzwania. Więcej informacji można znaleźć pod adresem {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha dokłada wszelkich starań, aby być w pełni dostępnym. Aby ominąć nasze wyzwanie wizualne, oferujemy plik cookie dostępności.",
     "widget error message text": "tekst komunikatu o błędzie widżetu",
     "widget warning message text": "tekst komunikatu ostrzegawczego widgetu"
 }

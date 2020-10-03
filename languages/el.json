@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Αναφέρετε σφάλμα ή πρόβλημα λογισμικού στο hCaptcha.",
     "Report an image to hCaptcha.": "Αναφέρετε μια εικόνα στο hCaptcha.",
     "Reporting a functionality issue?": "Αναφέρετε ένα πρόβλημα λειτουργικότητας;",
-    "Retrieve accessibility cookie here.": "Ανακτήστε το cookie προσβασιμότητας εδώ.",
+    "Retrieve accessibility cookie.": "Ανάκτηση cookie προσβασιμότητας.",
     "See how to report issues with detailed logs.": "Δείτε πώς μπορείτε να αναφέρετε ζητήματα με λεπτομερή αρχεία καταγραφής.",
     "Send": "Στείλετε",
     "Send Response": "Αποστολή απάντησης",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Το sitekey για αυτό το hCaptcha είναι λανθασμένο. Επικοινωνήστε με τον διαχειριστή του ιστότοπου εάν το δείτε.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Αυτό το hCaptcha προορίζεται μόνο για δοκιμές. Επικοινωνήστε με τον διαχειριστή του ιστότοπου εάν το δείτε.",
     "This lets you avoid future questions by registering and setting a cookie.": "Αυτό σας επιτρέπει να αποφύγετε μελλοντικές ερωτήσεις κάνοντας εγγραφή και ρύθμιση ενός cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Για να παρακάμψουμε την οπτική πρόκληση, προσφέρουμε ένα cookie προσβασιμότητας.",
     "Too Difficult": "Πολύ δύσκολο",
     "View our accessibility option.": "Δείτε την επιλογή προσβασιμότητας.",
     "We will look into the issue immediately.": "Θα εξετάσουμε το ζήτημα αμέσως.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "πλαίσιο ελέγχου hCaptcha. Είστε επαληθευμένοι ότι είμαι άνθρωπος.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Το hCaptcha είναι μια υπηρεσία που μειώνει τα bots και τα spam, κάνοντας απλές ερωτήσεις. Ακολουθήστε τις οδηγίες στο επάνω μέρος της οθόνης για κάθε πρόκληση. Για περισσότερες πληροφορίες επισκεφθείτε",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Το hCaptcha είναι μια υπηρεσία που μειώνει τα bots και τα spam, κάνοντας απλές ερωτήσεις. Ακολουθήστε τις οδηγίες στο επάνω μέρος της οθόνης για κάθε πρόκληση. Για περισσότερες πληροφορίες επισκεφτείτε τη διεύθυνση {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "Το hCaptcha έχει δεσμευτεί να είναι πλήρως προσβάσιμο. Για να παρακάμψουμε την οπτική πρόκληση, προσφέρουμε ένα cookie προσβασιμότητας.",
     "widget error message text": "κείμενο μηνύματος σφάλματος widget",
     "widget warning message text": "κείμενο μηνύματος προειδοποίησης widget"
 }

@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "ລາຍງານຂໍ້ບົກພ່ອງຂອງໂປແກຼມຫຼືບັນຫາຕ່າງໆໃຫ້ hCaptcha.",
     "Report an image to hCaptcha.": "ລາຍງານຮູບພາບໃຫ້ hCaptcha.",
     "Reporting a functionality issue?": "ລາຍງານບັນຫາການເຮັດວຽກບໍ?",
-    "Retrieve accessibility cookie here.": "ດຶງຂໍ້ມູນເຂົ້າໃຊ້ cookie ຢູ່ບ່ອນນີ້.",
+    "Retrieve accessibility cookie.": "ດຶງຂໍ້ມູນເຂົ້າໃຊ້ຄຸກກີ.",
     "See how to report issues with detailed logs.": "ເບິ່ງວິທີການລາຍງານບັນຫາຕ່າງໆທີ່ມີລາຍລະອຽດ.",
     "Send": "ສົ່ງ",
     "Send Response": "ສົ່ງ ຄຳ ຕອບ",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "ເວບໄຊທ໌ ສຳ ລັບ hCaptcha ນີ້ບໍ່ຖືກຕ້ອງ. ກະລຸນາຕິດຕໍ່ຜູ້ດູແລເວັບໄຊທ໌້ຖ້າທ່ານເຫັນສິ່ງນີ້.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "hCaptcha ນີ້ແມ່ນ ສຳ ລັບການທົດສອບເທົ່ານັ້ນ. ກະລຸນາຕິດຕໍ່ຜູ້ດູແລເວັບໄຊທ໌້ຖ້າທ່ານເຫັນສິ່ງນີ້.",
     "This lets you avoid future questions by registering and setting a cookie.": "ນີ້ຊ່ວຍໃຫ້ທ່ານຫລີກລ້ຽງ ຄຳ ຖາມໃນອະນາຄົດໂດຍການລົງທະບຽນແລະຕັ້ງ cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "ເພື່ອຫລີກລ້ຽງສິ່ງທ້າທາຍດ້ານສາຍຕາຂອງພວກເຮົາ, ພວກເຮົາສະ ເໜີ ໃຫ້ໃຊ້ຄຸກກີທີ່ສາມາດເຂົ້າເຖິງໄດ້.",
     "Too Difficult": "ຫຍຸ້ງຍາກເກີນໄປ",
     "View our accessibility option.": "ເບິ່ງຕົວເລືອກການເຂົ້າເຖິງຂອງພວກເຮົາ.",
     "We will look into the issue immediately.": "ພວກເຮົາຈະກວດສອບບັນຫາດັ່ງກ່າວໃນທັນທີ.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox. ເຈົ້າຖືກຢືນຢັນວ່າຂ້ອຍເປັນມະນຸດ.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ແມ່ນບໍລິການທີ່ຊ່ວຍຫຼຸດຜ່ອນ bots ແລະ spam ໂດຍການຖາມ ຄຳ ຖາມງ່າຍໆ. ກະລຸນາປະຕິບັດຕາມ ຄຳ ແນະ ນຳ ທີ່ຢູ່ເທິງສຸດຂອງ ໜ້າ ຈໍ ສຳ ລັບແຕ່ລະສິ່ງທ້າທາຍ. ສໍາລັບການຢ້ຽມຢາມຂໍ້ມູນເພີ່ມເຕີມ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ແມ່ນບໍລິການທີ່ຊ່ວຍຫຼຸດຜ່ອນ bots ແລະ spam ໂດຍການຖາມ ຄຳ ຖາມງ່າຍໆ. ກະລຸນາປະຕິບັດຕາມ ຄຳ ແນະ ນຳ ທີ່ຢູ່ເທິງສຸດຂອງ ໜ້າ ຈໍ ສຳ ລັບແຕ່ລະສິ່ງທ້າທາຍ. ສຳ ລັບຂໍ້ມູນເພີ່ມເຕີມເຂົ້າເບິ່ງ {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ມຸ້ງ ໝັ້ນ ທີ່ຈະເຂົ້າເຖິງໄດ້ເຕັມທີ່. ເພື່ອຫລີກລ້ຽງສິ່ງທ້າທາຍດ້ານສາຍຕາຂອງພວກເຮົາ, ພວກເຮົາສະ ເໜີ ໃຫ້ໃຊ້ຄຸກກີທີ່ສາມາດເຂົ້າເຖິງໄດ້.",
     "widget error message text": "ຂໍ້ຄວາມຂໍ້ຄວາມຜິດພາດຂອງ widget",
     "widget warning message text": "ຂໍ້ຄວາມເຕືອນເຕືອນ widget"
 }

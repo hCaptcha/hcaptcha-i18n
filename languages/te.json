@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "సాఫ్ట్‌వేర్ బగ్‌ను లేదా సమస్యను hCaptcha కి నివేదించండి.",
     "Report an image to hCaptcha.": "ఒక చిత్రాన్ని hCaptcha కు నివేదించండి.",
     "Reporting a functionality issue?": "కార్యాచరణ సమస్యను నివేదిస్తున్నారా?",
-    "Retrieve accessibility cookie here.": "ప్రాప్యత కుకీని ఇక్కడ తిరిగి పొందండి.",
+    "Retrieve accessibility cookie.": "ప్రాప్యత కుకీని తిరిగి పొందండి.",
     "See how to report issues with detailed logs.": "వివరణాత్మక లాగ్‌లతో సమస్యలను ఎలా నివేదించాలో చూడండి.",
     "Send": "పంపు",
     "Send Response": "ప్రతిస్పందన పంపండి",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "ఈ hCaptcha కోసం సైట్కీ తప్పు. మీరు దీన్ని చూసినట్లయితే సైట్ నిర్వాహకుడిని సంప్రదించండి.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "ఈ hCaptcha పరీక్ష కోసం మాత్రమే. మీరు దీన్ని చూసినట్లయితే సైట్ నిర్వాహకుడిని సంప్రదించండి.",
     "This lets you avoid future questions by registering and setting a cookie.": "ఇది కుకీని నమోదు చేయడం మరియు సెట్ చేయడం ద్వారా భవిష్యత్తు ప్రశ్నలను నివారించడానికి మిమ్మల్ని అనుమతిస్తుంది.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "మా దృశ్యమాన సవాలును దాటవేయడానికి, మేము ప్రాప్యత కుకీని అందిస్తున్నాము.",
     "Too Difficult": "చాలా కష్టం",
     "View our accessibility option.": "మా ప్రాప్యత ఎంపికను చూడండి.",
     "We will look into the issue immediately.": "మేము వెంటనే సమస్యను పరిశీలిస్తాము.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha చెక్‌బాక్స్. నేను ధృవీకరించాను.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha అనేది సాధారణ ప్రశ్నలను అడగడం ద్వారా బాట్లను మరియు స్పామ్‌ను తగ్గించే సేవ. ప్రతి సవాలుకు దయచేసి స్క్రీన్ పైభాగంలో ఉన్న సూచనలను అనుసరించండి. మరింత సమాచారం కోసం సందర్శించండి",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha అనేది సాధారణ ప్రశ్నలను అడగడం ద్వారా బాట్లను మరియు స్పామ్‌ను తగ్గించే సేవ. దయచేసి ప్రతి సవాలుకు స్క్రీన్ పైభాగంలో ఉన్న సూచనలను అనుసరించండి. మరింత సమాచారం కోసం {{site-url visit visit ని సందర్శించండి",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha పూర్తిగా ప్రాప్యత చేయడానికి కట్టుబడి ఉంది. మా దృశ్యమాన సవాలును దాటవేయడానికి, మేము ప్రాప్యత కుకీని అందిస్తున్నాము.",
     "widget error message text": "విడ్జెట్ లోపం సందేశ వచనం",
     "widget warning message text": "విడ్జెట్ హెచ్చరిక సందేశ వచనం"
 }

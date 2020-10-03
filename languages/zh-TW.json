@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "向hCaptcha報告軟件錯誤或問題。",
     "Report an image to hCaptcha.": "向hCaptcha報告圖像。",
     "Reporting a functionality issue?": "反映功能問題？",
-    "Retrieve accessibility cookie here.": "在此處檢索可訪問性cookie。",
+    "Retrieve accessibility cookie.": "檢索可訪問性cookie。",
     "See how to report issues with detailed logs.": "查看如何反映詳細記錄問題。",
     "Send": "發送",
     "Send Response": "發送回复",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "此hCaptcha的站點密鑰不正確。如果看到此消息，請聯繫站點管理員。",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "此hCaptcha僅用於測試。如果看到此消息，請聯繫網站管理員。",
     "This lets you avoid future questions by registering and setting a cookie.": "您可以通過註冊和設置Cookie來避免以後出現相同的問題。",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "為了繞過我們的視覺挑戰，我們提供了一個可訪問性cookie。",
     "Too Difficult": "太難了",
     "View our accessibility option.": "查看我們的輔助功能選項。",
     "We will look into the issue immediately.": "我們將立即調查該問題。",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha複選框。您已確認我是人類。",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha是一項通過詢問簡單問題來減少机器人程序和垃圾郵件的服務。對於每個挑戰，請按照屏幕上方的說明進行操作。欲了解更多信息，請参考",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha是一項通過詢問簡單問題來減少殭屍程序和垃圾郵件的服務。對於每個挑戰，請按照屏幕頂部的說明進行操作。有關更多信息，請訪問{{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha致力於完全可訪問。為了繞過我們的視覺挑戰，我們提供了一個可訪問性cookie。",
     "widget error message text": "小部件錯誤消息文本",
     "widget warning message text": "小部件警告消息文本"
 }

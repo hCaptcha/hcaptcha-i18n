@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "hCaptcha에 소프트웨어 버그 또는 문제를보고하십시오.",
     "Report an image to hCaptcha.": "hCaptcha에 이미지를 신고하십시오.",
     "Reporting a functionality issue?": "기능 문제를보고 하시겠습니까?",
-    "Retrieve accessibility cookie here.": "여기에서 접근성 쿠키를 검색하세요.",
+    "Retrieve accessibility cookie.": "접근성 쿠키를 검색합니다.",
     "See how to report issues with detailed logs.": "자세한 로그로 문제를보고하는 방법을 참조하십시오.",
     "Send": "보내다",
     "Send Response": "응답 보내기",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "이 hCaptcha의 사이트 키가 잘못되었습니다. 이 경우 사이트 관리자에게 문의하십시오.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "이 hCaptcha는 테스트 전용입니다. 이 경우 사이트 관리자에게 문의하십시오.",
     "This lets you avoid future questions by registering and setting a cookie.": "쿠키를 등록하고 설정하여 향후 질문을 피할 수 있습니다.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "시각적 문제를 우회하기 위해 접근성 쿠키를 제공합니다.",
     "Too Difficult": "너무 어렵다",
     "View our accessibility option.": "접근성 옵션을보십시오.",
     "We will look into the issue immediately.": "문제를 즉시 조사하겠습니다.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha 확인란. 당신은 내가 인간임을 확인했습니다.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha는 간단한 질문을 통해 봇과 스팸을 줄이는 서비스입니다. 각 챌린지마다 화면 상단의 지침을 따르십시오. 더 많은 정보를 원하시면",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha는 간단한 질문으로 봇과 스팸을 줄이는 서비스입니다. 각 도전에 대해 화면 상단의 지침을 따르십시오. 자세한 내용은 {{site-url}}을 참조하세요.",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha는 완전히 액세스 할 수 있도록 최선을 다하고 있습니다. 시각적 문제를 우회하기 위해 접근성 쿠키를 제공합니다.",
     "widget error message text": "위젯 오류 메시지 텍스트",
     "widget warning message text": "위젯 경고 메시지 텍스트"
 }

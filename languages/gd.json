@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Dèan aithris air bug bathar-bog no cuir a-mach gu hCaptcha.",
     "Report an image to hCaptcha.": "Dèan aithris air ìomhaigh gu hCaptcha.",
     "Reporting a functionality issue?": "A ’toirt cunntas air cùis gnìomh?",
-    "Retrieve accessibility cookie here.": "Faigh a-mach briosgaid ruigsinneachd an seo.",
+    "Retrieve accessibility cookie.": "Faigh a-mach briosgaid ruigsinneachd.",
     "See how to report issues with detailed logs.": "Faic mar a bheir thu cunntas air cùisean le logaichean mionaideach.",
     "Send": "Cuir",
     "Send Response": "Cuir freagairt",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Tha an làrach airson an hCaptcha seo ceàrr. Feuch an cuir thu fios gu rianachd na làraich ma chì thu seo.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Tha an hCaptcha seo airson deuchainn a-mhàin. Feuch an cuir thu fios gu rianachd na làraich ma chì thu seo.",
     "This lets you avoid future questions by registering and setting a cookie.": "Leigidh seo dhut ceistean san àm ri teachd a sheachnadh le bhith a ’clàradh agus a’ suidheachadh briosgaid.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Gus faighinn seachad air an dùbhlan lèirsinneach againn, bidh sinn a ’tabhann briosgaid ruigsinneachd.",
     "Too Difficult": "Ro dhoirbh",
     "View our accessibility option.": "Thoir sùil air an roghainn ruigsinneachd againn.",
     "We will look into the issue immediately.": "Coimheadaidh sinn a-steach don chùis sa bhad.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "bogsa sgrùdaidh hCaptcha. Tha thu air do dhearbhadh gu bheil mi daonna.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Tha hCaptcha na sheirbheis a tha a ’lughdachadh botaichean agus spama le bhith a’ faighneachd cheistean sìmplidh. Feuch an lean thu an stiùireadh aig mullach na sgrìn airson gach dùbhlan. Airson tuilleadh fiosrachaidh tadhal air",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Tha hCaptcha na sheirbheis a tha a ’lughdachadh botaichean agus spama le bhith a’ faighneachd cheistean sìmplidh. Feuch an lean thu an stiùireadh aig mullach na sgrìn airson gach dùbhlan. Airson tuilleadh fiosrachaidh, tadhal air {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "Tha hCaptcha a ’gealltainn a bhith làn ruigsinneach. Gus faighinn seachad air an dùbhlan lèirsinneach againn, bidh sinn a ’tabhann briosgaid ruigsinneachd.",
     "widget error message text": "teacsa teachdaireachd mearachd widget",
     "widget warning message text": "teacsa teachdaireachd rabhaidh widget"
 }

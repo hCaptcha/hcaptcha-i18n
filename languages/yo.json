@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Ṣe ijabọ kokoro tabi sọfitiwia si hCaptcha.",
     "Report an image to hCaptcha.": "Ṣe ijabọ aworan kan si hCaptcha.",
     "Reporting a functionality issue?": "Ijabọ ariyanjiyan iṣẹ kan?",
-    "Retrieve accessibility cookie here.": "Gba kuki iraye sii nibi.",
+    "Retrieve accessibility cookie.": "Gba kuki iraye sii.",
     "See how to report issues with detailed logs.": "Wo bii o ṣe le ṣabọ awọn ọran pẹlu awọn atokọ alaye.",
     "Send": "Firanṣẹ",
     "Send Response": "Firanṣẹ Idahun",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Oju opo wẹẹbu fun hCaptcha yii ko pe. Jọwọ kan si abojuto aaye ti o ba rii eyi.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "HCaptcha yii wa fun idanwo nikan. Jọwọ kan si abojuto aaye ti o ba rii eyi.",
     "This lets you avoid future questions by registering and setting a cookie.": "Eyi n jẹ ki o yago fun awọn ibeere iwaju nipa fiforukọṣilẹ ati ṣeto kuki kan.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Lati kọja ipenija wiwo wa, a nfun kuki iraye si.",
     "Too Difficult": "Ju Nira",
     "View our accessibility option.": "Wo aṣayan wiwa wa.",
     "We will look into the issue immediately.": "A yoo wo ọrọ naa lẹsẹkẹsẹ.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "apoti ayẹwo hCaptcha. O ti rii daju pe eniyan ni mi.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha jẹ iṣẹ ti o dinku awọn bot ati àwúrúju nipa bibeere awọn ibeere ti o rọrun. Jọwọ tẹle awọn itọnisọna ni oke iboju fun ipenija kọọkan. Fun ibẹwo si diẹ sii alaye",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha jẹ iṣẹ ti o dinku awọn botini ati àwúrúju nipa bibeere awọn ibeere ti o rọrun. Jọwọ tẹle awọn itọnisọna ni oke iboju fun italaya kọọkan. Fun alaye diẹ sii ṣabẹwo si {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ti jẹri si wiwa ni kikun. Lati kọja ipenija wiwo wa, a nfun kuki iraye si.",
     "widget error message text": "ọrọ ailorukọ aṣiṣe ẹrọ ailorukọ",
     "widget warning message text": "ọrọ ailorukọ ikilọ ẹrọ ailorukọ"
 }

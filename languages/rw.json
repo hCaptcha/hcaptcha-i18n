@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Menyesha amakosa ya software cyangwa ikibazo kuri hCaptcha.",
     "Report an image to hCaptcha.": "Menyesha ishusho kuri hCaptcha.",
     "Reporting a functionality issue?": "Gutangaza ikibazo cyimikorere?",
-    "Retrieve accessibility cookie here.": "Kuramo kuki igerwaho hano.",
+    "Retrieve accessibility cookie.": "Kuramo kuki igerwaho.",
     "See how to report issues with detailed logs.": "Reba uburyo bwo gutanga ibibazo hamwe nibiti birambuye.",
     "Send": "Ohereza",
     "Send Response": "Ohereza Igisubizo",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Sitekey kuriyi hCaptcha ntabwo aribyo. Nyamuneka saba umuyobozi wurubuga niba ubibona.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Iyi HCaptcha ni iyo kugerageza gusa. Nyamuneka saba umuyobozi wurubuga niba ubibona.",
     "This lets you avoid future questions by registering and setting a cookie.": "Ibi biragufasha kwirinda ibibazo biri imbere wiyandikisha kandi ushiraho kuki.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Kugirango twirengagize ibibazo byacu bigaragara, dutanga kuki igerwaho.",
     "Too Difficult": "Biragoye cyane",
     "View our accessibility option.": "Reba amahitamo yacu.",
     "We will look into the issue immediately.": "Tuzahita tureba ikibazo.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "agasanduku k&#39;isanduku. Uremejwe ko ndi umuntu.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura {{urubuga-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha yiyemeje kuboneka byuzuye. Kugirango twirengagize ibibazo byacu bigaragara, dutanga kuki igerwaho.",
     "widget error message text": "ubutumwa bwa widget ubutumwa bwanditse",
     "widget warning message text": "widget yo kuburira ubutumwa inyandiko"
 }

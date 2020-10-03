@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "รายงานข้อบกพร่องของซอฟต์แวร์หรือปัญหาไปยัง hCaptcha",
     "Report an image to hCaptcha.": "รายงานภาพไปยัง hCaptcha",
     "Reporting a functionality issue?": "รายงานปัญหาการใช้งานหรือไม่",
-    "Retrieve accessibility cookie here.": "เรียกดูคุกกี้การช่วยการเข้าถึงที่นี่",
+    "Retrieve accessibility cookie.": "ดึงคุกกี้การช่วยสำหรับการเข้าถึง",
     "See how to report issues with detailed logs.": "ดูวิธีการรายงานปัญหาเกี่ยวกับบันทึกโดยละเอียด",
     "Send": "ส่ง",
     "Send Response": "ส่งคำตอบ",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "คีย์ไซต์สำหรับ hCaptcha นี้ไม่ถูกต้อง กรุณาติดต่อผู้ดูแลเว็บไซต์หากคุณเห็นสิ่งนี้",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "hCaptcha นี้ใช้สำหรับการทดสอบเท่านั้น กรุณาติดต่อผู้ดูแลเว็บไซต์หากคุณเห็นสิ่งนี้",
     "This lets you avoid future questions by registering and setting a cookie.": "วิธีนี้ช่วยให้คุณหลีกเลี่ยงคำถามในอนาคตได้โดยการลงทะเบียนและตั้งค่าคุกกี้",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "เพื่อหลีกเลี่ยงความท้าทายด้านภาพของเราเราขอเสนอคุกกี้การเข้าถึง",
     "Too Difficult": "ยากมาก",
     "View our accessibility option.": "ดูตัวเลือกการช่วยสำหรับการเข้าถึงของเรา",
     "We will look into the issue immediately.": "เราจะตรวจสอบปัญหาทันที",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "ช่องทำเครื่องหมาย hCaptcha คุณได้รับการยืนยันว่าฉันเป็นมนุษย์",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha เป็นบริการที่ช่วยลดบอทและสแปมโดยถามคำถามง่ายๆ โปรดทำตามคำแนะนำที่ด้านบนของหน้าจอสำหรับแต่ละความท้าทาย สำหรับการเยี่ยมชมข้อมูลเพิ่มเติม",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha เป็นบริการที่ช่วยลดบอทและสแปมด้วยการถามคำถามง่ายๆ โปรดปฏิบัติตามคำแนะนำที่ด้านบนของหน้าจอสำหรับแต่ละความท้าทาย สำหรับข้อมูลเพิ่มเติมโปรดไปที่ {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha มุ่งมั่นที่จะเข้าถึงได้อย่างเต็มที่ เพื่อหลีกเลี่ยงความท้าทายด้านภาพของเราเราขอเสนอคุกกี้การเข้าถึง",
     "widget error message text": "ข้อความแสดงข้อผิดพลาดของวิดเจ็ต",
     "widget warning message text": "ข้อความเตือนวิดเจ็ต"
 }

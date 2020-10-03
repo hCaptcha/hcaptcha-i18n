@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "මෘදුකාංග දෝෂයක් හෝ නිකුතුවක් hCaptcha වෙත වාර්තා කරන්න.",
     "Report an image to hCaptcha.": "පින්තූරයක් hCaptcha වෙත වාර්තා කරන්න.",
     "Reporting a functionality issue?": "ක්‍රියාකාරීත්ව ගැටලුවක් වාර්තා කිරීම?",
-    "Retrieve accessibility cookie here.": "ප්‍රවේශ්‍යතා කුකිය මෙතැනින් ලබා ගන්න.",
+    "Retrieve accessibility cookie.": "ප්‍රවේශ්‍යතා කුකිය ලබා ගන්න.",
     "See how to report issues with detailed logs.": "සවිස්තරාත්මක ල .ු-සටහන් සමඟ ගැටළු වාර්තා කරන්නේ කෙසේදැයි බලන්න.",
     "Send": "යවන්න",
     "Send Response": "ප්‍රතිචාරය යවන්න",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "මෙම hCaptcha සඳහා වන වෙබ් අඩවිය වැරදිය. ඔබ මෙය දුටුවහොත් කරුණාකර අඩවි පරිපාලක අමතන්න.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "මෙම hCaptcha පරීක්ෂා කිරීම සඳහා පමණි. ඔබ මෙය දුටුවහොත් කරුණාකර අඩවි පරිපාලක අමතන්න.",
     "This lets you avoid future questions by registering and setting a cookie.": "කුකියක් ලියාපදිංචි කිරීමෙන් සහ සැකසීමෙන් අනාගත ප්‍රශ්න වළක්වා ගැනීමට මෙය ඔබට ඉඩ සලසයි.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "අපගේ දෘශ්‍ය අභියෝගය මඟහරවා ගැනීම සඳහා, අපි ප්‍රවේශ්‍යතා කුකියක් ඉදිරිපත් කරමු.",
     "Too Difficult": "ඉතා අපහසුයි",
     "View our accessibility option.": "අපගේ ප්‍රවේශ්‍යතා විකල්පය බලන්න.",
     "We will look into the issue immediately.": "අපි වහාම ගැටලුව සොයා බලමු.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha පිරික්සුම් කොටුව. මම මනුෂ්‍යයෙක් බව ඔබ සනාථ කරයි.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha යනු සරල ප්‍රශ්න ඇසීමෙන් බොට්ස් සහ අයාචිත තැපැල් අඩු කරන සේවාවකි. එක් එක් අභියෝග සඳහා කරුණාකර තිරයේ ඉහළින් ඇති උපදෙස් අනුගමනය කරන්න. වැඩි විස්තර සඳහා පිවිසෙන්න",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha යනු සරල ප්‍රශ්න ඇසීමෙන් බොට්ස් සහ අයාචිත තැපැල් අඩු කරන සේවාවකි. එක් එක් අභියෝග සඳහා කරුණාකර තිරයේ ඉහළින් ඇති උපදෙස් අනුගමනය කරන්න. වැඩි විස්තර සඳහා {{site-url} visit වෙත පිවිසෙන්න",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha සම්පූර්ණයෙන්ම ප්‍රවේශ විය හැකි බවට කැපවී සිටී. අපගේ දෘශ්‍ය අභියෝගය මඟහරවා ගැනීම සඳහා, අපි ප්‍රවේශ්‍යතා කුකියක් ඉදිරිපත් කරමු.",
     "widget error message text": "විජට් දෝෂ පණිවිඩ පෙළ",
     "widget warning message text": "විජට් අනතුරු ඇඟවීමේ පණිවිඩ පෙළ"
 }

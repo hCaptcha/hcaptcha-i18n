@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Manaova tatitra momba ny lozisialy rindrambaiko na olana amin&#39;ny hCaptcha.",
     "Report an image to hCaptcha.": "Hampandre sary amin&#39;ny hCaptcha.",
     "Reporting a functionality issue?": "Manao tatitra mikasika olana?",
-    "Retrieve accessibility cookie here.": "Raiso eto ny cookie azo idirana.",
+    "Retrieve accessibility cookie.": "Raiso ny cookie azo idirana.",
     "See how to report issues with detailed logs.": "Jereo ny fomba hitaterana ireo olana misy vatan-kazo antsipirihany.",
     "Send": "Send",
     "Send Response": "Alefaso ny valiny",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Tsy marina ny sitekey amin&#39;ity hCaptcha ity. Azafady mba mifandraisa amin&#39;ny admin site raha mahita izany.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ity hCaptcha ity dia fanadinana fotsiny. Azafady mba mifandraisa amin&#39;ny admin site raha mahita izany.",
     "This lets you avoid future questions by registering and setting a cookie.": "Izany dia mamela anao hisoroka ny fanontaniana ho avy amin&#39;ny fisoratana anarana sy fametrahana cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Mba hihoarana ny fanamby hita maso dia manolotra cookie azo idirana izahay.",
     "Too Difficult": "Sarotra loatra",
     "View our accessibility option.": "Zahao ny safidy azontsika idirana.",
     "We will look into the issue immediately.": "Hojerentsika avy hatrany ny olana.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "boaty hCaptcha. Voamarina fa olombelona aho.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha dia serivisy iray izay mampihena ny bots sy spam amin&#39;ny fametrahana fanontaniana tsotra. Azafady araho ny torolàlana eo amin&#39;ny tampon&#39;ny efijery isaky ny fanamby. Raha mila fanazavana fanampiny",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha dia serivisy mampihena ny botika sy ny spam amin&#39;ny fametrahana fanontaniana tsotra. Araho azafady ny torolàlana eo an-tampon&#39;ny efijery ho an&#39;ny fanamby tsirairay. Raha mila fanazavana fanampiny dia tsidiho ny {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha dia manolo-tena ho azo idirana tanteraka. Mba hihoarana ny fanamby hita maso dia manolotra cookie azo idirana izahay.",
     "widget error message text": "text message message error",
     "widget warning message text": "hafatra hafatra fampitandremana widget"
 }

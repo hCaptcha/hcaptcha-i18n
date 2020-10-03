@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "سافٽ ويئر بگ يا ايڇ ڪيپچا ڏانهن مسئلو جي رپورٽ ڪريو.",
     "Report an image to hCaptcha.": "hCaptcha کي تصوير ڏيو.",
     "Reporting a functionality issue?": "ڪارڪردگي جو مسئلو ٻڌايو پيو وڃي؟",
-    "Retrieve accessibility cookie here.": "هتي رسائي جي ڪوڪي حاصل ڪريو.",
+    "Retrieve accessibility cookie.": "رسائي واري ڪوڪي ٻيهر حاصل ڪريو.",
     "See how to report issues with detailed logs.": "ڏسو ته تفصيلي لاگ سان مسئلا ڪيئن رپورٽ ڪجي.",
     "Send": "موڪليو",
     "Send Response": "جواب موڪليو",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "انهي hCaptcha جو ساٽوڪ غلط آهي. مهرباني ڪري توهان ويب سائيٽ جي انتظاميه سان رابطو ڪيو.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "هي hCaptcha صرف جاچ جي لاءِ آهي. مهرباني ڪري توهان ويب سائيٽ جي انتظاميه سان رابطو ڪيو.",
     "This lets you avoid future questions by registering and setting a cookie.": "ڪوڪيز کي رجسٽر ڪرڻ ۽ ترتيب ڏيڻ سان توهان مستقبل جي سوالن کان پاسو ڪندي.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "اسان جي بصري چئلينج کي نظرانداز ڪرڻ لاءِ ، اسان رسائي جي ڪوڪيز پيش ڪريون ٿا.",
     "Too Difficult": "ڏاڍو ڏکيو",
     "View our accessibility option.": "اسان جي رسائي جو اختيار ڏسو.",
     "We will look into the issue immediately.": "اسان ان مسئلي کي فوري طور تي ڏسنداسين.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "ايڇ سيپچا چيڪ باڪس. توهان تصديق ڪيو ته آئون انسان آهيان.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ visitاڻ لاءِ دورو ڪريو",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ معلومات لاءِ {{سائيٽ-url}} جو دورو ڪريو",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha مڪمل طور تي رسائي سان واڳيل آهي. اسان جي بصري چئلينج کي نظرانداز ڪرڻ لاءِ ، اسان رسائي جي ڪوڪيز پيش ڪريون ٿا.",
     "widget error message text": "ويجيٽ جي غلطي پيغام جو متن",
     "widget warning message text": "ويجهڙائي واري پيغام جي متن جو متن"
 }

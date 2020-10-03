@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Báo cáo lỗi phần mềm hoặc sự cố cho hCaptcha.",
     "Report an image to hCaptcha.": "Báo cáo một hình ảnh cho hCaptcha.",
     "Reporting a functionality issue?": "Báo cáo một vấn đề chức năng?",
-    "Retrieve accessibility cookie here.": "Truy xuất cookie trợ năng tại đây.",
+    "Retrieve accessibility cookie.": "Truy xuất cookie trợ năng.",
     "See how to report issues with detailed logs.": "Xem cách báo cáo sự cố với nhật ký chi tiết.",
     "Send": "Gửi",
     "Send Response": "Gửi phản hồi",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Mã khóa cho hCaptcha này không chính xác. Vui lòng liên hệ với quản trị viên trang nếu bạn thấy điều này.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "HCaptcha này chỉ dành cho thử nghiệm. Vui lòng liên hệ với quản trị viên trang nếu bạn thấy điều này.",
     "This lets you avoid future questions by registering and setting a cookie.": "Điều này cho phép bạn tránh các câu hỏi trong tương lai bằng cách đăng ký và đặt cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Để vượt qua thách thức về hình ảnh của chúng tôi, chúng tôi cung cấp một cookie hỗ trợ tiếp cận.",
     "Too Difficult": "Quá khó",
     "View our accessibility option.": "Xem tùy chọn tiếp cận của chúng tôi.",
     "We will look into the issue immediately.": "Chúng tôi sẽ xem xét vấn đề ngay lập tức.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hộp kiểm hCaptcha. Bạn được xác minh tôi là con người.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha là một dịch vụ giúp giảm bot và spam bằng cách hỏi những câu hỏi đơn giản. Vui lòng làm theo các hướng dẫn ở trên cùng của màn hình cho mỗi thử thách. Để biết thêm thông tin truy cập",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha là một dịch vụ giúp giảm thiểu chương trình và thư rác bằng cách đặt những câu hỏi đơn giản. Vui lòng làm theo hướng dẫn ở đầu màn hình cho mỗi thử thách. Để biết thêm thông tin, hãy truy cập {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha cam kết hoàn toàn có thể truy cập được. Để vượt qua thách thức về hình ảnh của chúng tôi, chúng tôi cung cấp một cookie hỗ trợ tiếp cận.",
     "widget error message text": "văn bản thông báo lỗi widget",
     "widget warning message text": "tin nhắn cảnh báo widget"
 }

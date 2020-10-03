@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Tlaleha bothata kapa bothata ho software ea hCaptcha.",
     "Report an image to hCaptcha.": "Tlaleha setšoantšo ho hCaptcha.",
     "Reporting a functionality issue?": "Ho tlaleha bothata?",
-    "Retrieve accessibility cookie here.": "Khutlisa cookie e fumanehang mona.",
+    "Retrieve accessibility cookie.": "Lata cookie e fumanehang.",
     "See how to report issues with detailed logs.": "Bona mokhoa oa ho tlaleha litaba ka litlolo tse qaqileng.",
     "Send": "Romella",
     "Send Response": "Romella Karabo",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "The sitekey ea hCaptcha ena e fosahetse. Ka kopo ikopanye le motsamaisi oa sebaka haeba u bona sena.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "HCaptcha ena ke ea ho etsa liteko feela. Ka kopo ikopanye le motsamaisi oa sebaka haeba u bona sena.",
     "This lets you avoid future questions by registering and setting a cookie.": "Sena se o lumella ho qoba lipotso tsa nako e tlang ka ho ngolisa le ho beha cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Ho feta phephetso ea rona ea pono, re fana ka cookie ea phihlello.",
     "Too Difficult": "Le eona e thata",
     "View our accessibility option.": "Sheba khetho ea rona ea ho fihlella.",
     "We will look into the issue immediately.": "Re tla sheba bothata hang-hang.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "lebokose la tlhahlobo la hCaptcha. O netefalitsoe hore ke motho.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ke ts&#39;ebeletso e fokotsang bots le spam ka ho botsa lipotso tse bonolo. Ka kopo latela litaelo tse ka holimo skrineng bakeng sa phephetso e &#39;ngoe le e&#39; ngoe. Bakeng sa lintlha tse ling etela",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ke ts&#39;ebeletso e fokotsang bots le spam ka ho botsa lipotso tse bonolo. Ka kopo latela litaelo tse kaholimo ho skrine phephetsong ka ngoe. Ho fumana lintlha tse ling etela {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha e ikemiselitse ho fihlella ka botlalo. Ho feta phephetso ea rona ea pono, re fana ka cookie ea phihlello.",
     "widget error message text": "mongolo oa phoso ea molaetsa oa widget",
     "widget warning message text": "mongolo oa temoso ea widget"
 }

@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "HCaptcha&#39;ка программа хата яки проблема турында хәбәр итегез.",
     "Report an image to hCaptcha.": "HCaptcha&#39;ка рәсем турында хәбәр итегез.",
     "Reporting a functionality issue?": "Функциональ проблема турында хәбәр итү?",
-    "Retrieve accessibility cookie here.": "Монда cookie&#39;ны алыгыз.",
+    "Retrieve accessibility cookie.": "Куки алу мөмкинлеге.",
     "See how to report issues with detailed logs.": "Деталь бүрәнәләр белән проблемаларны ничек хәбәр итәргә.",
     "Send": "Sendибәр",
     "Send Response": "Onseавап җибәр",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Бу hCaptcha өчен сайт дөрес түгел. Моны күрсәгез, зинһар, сайт администраторына мөрәҗәгать итегез.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Бу hCaptcha сынау өчен генә. Моны күрсәгез, зинһар, сайт администраторына мөрәҗәгать итегез.",
     "This lets you avoid future questions by registering and setting a cookie.": "Бу сезгә cookie&#39;ны теркәп, киләчәк сораулардан качарга мөмкинлек бирә.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Визуаль проблеманы узып китү өчен, без cookie&#39;ны тәкъдим итәбез.",
     "Too Difficult": "Бик авыр",
     "View our accessibility option.": "Безнең мөмкинлекне карау.",
     "We will look into the issue immediately.": "Без шунда ук мәсьәләне карыйбыз.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha пункты. Сез минем кеше икәнегезне расладыгыз.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен керегез",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен {{сайт-url}} сайтына керегез",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha тулысынча үтеп керергә әзер. Визуаль проблеманы узып китү өчен, без cookie&#39;ны тәкъдим итәбез.",
     "widget error message text": "виджет хатасы тексты",
     "widget warning message text": "виджет кисәтүче хәбәр тексты"
 }

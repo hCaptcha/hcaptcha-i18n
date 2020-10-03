@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Laporake bug utawa masalah piranti lunak menyang hCaptcha.",
     "Report an image to hCaptcha.": "Laporake gambar menyang hCaptcha.",
     "Reporting a functionality issue?": "Nglaporake masalah fungsionalitas?",
-    "Retrieve accessibility cookie here.": "Entuk cookie aksesibilitas ing kene.",
+    "Retrieve accessibility cookie.": "Entuk cookie aksesibilitas.",
     "See how to report issues with detailed logs.": "Deleng babagan nglaporake masalah kanthi log rinci.",
     "Send": "Kirim",
     "Send Response": "Kirimi Wangsulan",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Sitekey kanggo hCaptcha iki salah. Hubungi admin situs yen sampeyan ndeleng iki.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "HCaptcha iki mung dites. Hubungi admin situs yen sampeyan ndeleng iki.",
     "This lets you avoid future questions by registering and setting a cookie.": "Iki ngidini sampeyan ngindhari pitakon ing mangsa kanthi ndhaptar lan nyetel cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Kanggo ngatasi tantangan visual, kita nawakake cookie aksesibilitas.",
     "Too Difficult": "Keras banget",
     "View our accessibility option.": "Deleng pilihan aksesibilitas.",
     "We will look into the issue immediately.": "Kita bakal langsung nimbang masalah kasebut.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "Kothak hCaptcha. Sampeyan wis diverifikasi manawa aku iki manungsa.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha minangka layanan sing nyuda bot lan spam kanthi takon kanthi gampang. Mangga tindakake pandhuan ing sisih ndhuwur layar kanggo saben tantangan. Kanggo riko info liyane",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha minangka layanan sing nyuda bot lan spam kanthi takon kanthi gampang. Mangga tindakake pandhuan ing sisih ndhuwur layar kanggo saben tantangan. Kanggo informasi luwih lengkap, bukak {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha setya supaya bisa diakses kanthi lengkap. Kanggo ngatasi tantangan visual, kita nawakake cookie aksesibilitas.",
     "widget error message text": "teks pesen kesalahan kesalahan widget",
     "widget warning message text": "teks pesen peringatan widget"
 }

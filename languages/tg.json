@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Дар бораи хатои нармафзор ё мушкилот ба hCaptcha хабар диҳед.",
     "Report an image to hCaptcha.": "Тасвирро ба hCaptcha гузориш диҳед.",
     "Reporting a functionality issue?": "Ҳисобот оид ба масъалаи вазифаи?",
-    "Retrieve accessibility cookie here.": "Куки дастрасиро дар ин ҷо дастрас кунед.",
+    "Retrieve accessibility cookie.": "Куки дастрасиро ҷустуҷӯ кунед.",
     "See how to report issues with detailed logs.": "Бингар, ки чӣ гуна гузоришҳо дар бораи гузоришҳо бо гузоришҳои муфассал.",
     "Send": "Ирсол",
     "Send Response": "Ҷавобро фиристед",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Sitekey барои ин hCaptcha нодуруст аст. Лутфан бо мудири сайт тамос гиред, агар шумо инро мебинед.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Ин hCaptcha танҳо барои санҷиш аст. Лутфан бо мудири сайт тамос гиред, агар шумо инро мебинед.",
     "This lets you avoid future questions by registering and setting a cookie.": "Ин ба шумо имкон медиҳад, ки ҳангоми бақайдгирӣ ва танзими куки cookie аз саволҳои оянда канорагирӣ кунед.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Барои аз мушкилоти визуалӣ гузаштан, мо куки барои дастрасӣ пешниҳод менамоем.",
     "Too Difficult": "Хеле мушкил",
     "View our accessibility option.": "Параметрҳои дастрасии моро бинед.",
     "We will look into the issue immediately.": "Мо масъаларо фавран баррасӣ хоҳем кард.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "қуттии қуттии hCaptcha. Шумо исбот кардед, ки ман инсон ҳастам.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha хидматест, ки бо гузоштани саволҳои оддӣ ботҳо ва спамро коҳиш медиҳад. Лутфан дастурҳои дар қисми болоии экран барои ҳар як мушкилотро иҷро кунед. Барои гирифтани маълумоти иловагӣ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha хидматест, ки бо саволҳои оддӣ ботҳо ва спамро коҳиш медиҳад. Лутфан дастурҳои болои экранро барои ҳар як мушкилот иҷро кунед. Барои маълумоти иловагӣ аз {{site-url}} боздид кунед",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ӯҳдадор аст, ки пурра дастрас бошад. Барои аз мушкилоти визуалӣ гузаштан, мо куки барои дастрасӣ пешниҳод менамоем.",
     "widget error message text": "матни паёмҳои хатои виҷет",
     "widget warning message text": "матни огоҳиномаи виҷет"
 }

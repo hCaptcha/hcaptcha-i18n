@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "ഒരു സോഫ്റ്റ്വെയർ‌ ബഗ് റിപ്പോർ‌ട്ട് ചെയ്യുക അല്ലെങ്കിൽ‌ hCaptcha ലേക്ക് ഇഷ്യു ചെയ്യുക.",
     "Report an image to hCaptcha.": "ഒരു ചിത്രം hCaptcha- ലേക്ക് റിപ്പോർട്ടുചെയ്യുക.",
     "Reporting a functionality issue?": "ഒരു പ്രവർത്തന പ്രശ്‌നം റിപ്പോർട്ടുചെയ്യുന്നുണ്ടോ?",
-    "Retrieve accessibility cookie here.": "പ്രവേശനക്ഷമത കുക്കി ഇവിടെ വീണ്ടെടുക്കുക.",
+    "Retrieve accessibility cookie.": "പ്രവേശനക്ഷമത കുക്കി വീണ്ടെടുക്കുക.",
     "See how to report issues with detailed logs.": "വിശദമായ ലോഗുകൾ ഉപയോഗിച്ച് പ്രശ്നങ്ങൾ എങ്ങനെ റിപ്പോർട്ടുചെയ്യാമെന്ന് കാണുക.",
     "Send": "അയയ്‌ക്കുക",
     "Send Response": "പ്രതികരണം അയയ്‌ക്കുക",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "ഈ hCaptcha നായുള്ള സൈറ്റ്കീ തെറ്റാണ്. ഇത് കാണുകയാണെങ്കിൽ ദയവായി സൈറ്റ് അഡ്‌മിനുമായി ബന്ധപ്പെടുക.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "ഈ hCaptcha പരിശോധനയ്‌ക്ക് മാത്രമുള്ളതാണ്. ഇത് കാണുകയാണെങ്കിൽ ദയവായി സൈറ്റ് അഡ്‌മിനുമായി ബന്ധപ്പെടുക.",
     "This lets you avoid future questions by registering and setting a cookie.": "ഒരു കുക്കി രജിസ്റ്റർ ചെയ്ത് സജ്ജീകരിക്കുന്നതിലൂടെ ഭാവിയിലെ ചോദ്യങ്ങൾ ഒഴിവാക്കാൻ ഇത് നിങ്ങളെ അനുവദിക്കുന്നു.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "ഞങ്ങളുടെ വിഷ്വൽ ചലഞ്ച് മറികടക്കാൻ, ഞങ്ങൾ ഒരു പ്രവേശനക്ഷമത കുക്കി വാഗ്ദാനം ചെയ്യുന്നു.",
     "Too Difficult": "വളരെ ബുദ്ധിമുട്ടാണ്",
     "View our accessibility option.": "ഞങ്ങളുടെ പ്രവേശനക്ഷമത ഓപ്ഷൻ കാണുക.",
     "We will look into the issue immediately.": "ഞങ്ങൾ ഉടൻ തന്നെ പ്രശ്നം പരിശോധിക്കും.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha ചെക്ക്ബോക്സ്. ഞാൻ മനുഷ്യനാണെന്ന് നിങ്ങൾ സ്ഥിരീകരിച്ചു.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും ദയവായി സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് സന്ദർശിക്കുക",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് {{site-url visit visit സന്ദർശിക്കുക",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "പൂർണ്ണമായും ആക്‌സസ് ചെയ്യാൻ hCaptcha പ്രതിജ്ഞാബദ്ധമാണ്. ഞങ്ങളുടെ വിഷ്വൽ ചലഞ്ച് മറികടക്കാൻ, ഞങ്ങൾ ഒരു പ്രവേശനക്ഷമത കുക്കി വാഗ്ദാനം ചെയ്യുന്നു.",
     "widget error message text": "വിജറ്റ് പിശക് സന്ദേശ വാചകം",
     "widget warning message text": "വിജറ്റ് മുന്നറിയിപ്പ് സന്ദേശ വാചകം"
 }

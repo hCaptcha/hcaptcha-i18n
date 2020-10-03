@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Rapporteer &#39;n sagtewarefout of probleem by hCaptcha.",
     "Report an image to hCaptcha.": "Rapporteer &#39;n afbeelding aan hCaptcha.",
     "Reporting a functionality issue?": "Rapporteer u &#39;n funksieprobleem?",
-    "Retrieve accessibility cookie here.": "Kry die toeganklikheidskoekie hier.",
+    "Retrieve accessibility cookie.": "Kry toeganklikheidskoekie.",
     "See how to report issues with detailed logs.": "Kyk hoe u probleme met gedetailleerde logboeke kan rapporteer.",
     "Send": "Stuur",
     "Send Response": "Stuur antwoord",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Die sitkamer vir hierdie hCaptcha is verkeerd. Kontak die administrateur van die webwerf as u dit sien.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Hierdie hCaptcha is slegs vir toetsing. Kontak die administrateur van die webwerf as u dit sien.",
     "This lets you avoid future questions by registering and setting a cookie.": "Hiermee kan u toekomstige vrae vermy deur &#39;n koekie te registreer en in te stel.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Om ons visuele uitdaging te omseil, bied ons &#39;n toeganklikheidskoekie aan.",
     "Too Difficult": "Te moeilik",
     "View our accessibility option.": "Kyk na ons toeganklikheidsopsie.",
     "We will look into the issue immediately.": "Ons sal onmiddellik na die kwessie kyk.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha-merkblokkie. U is bevestig dat ek &#39;n mens is.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha is &#39;n diens wat bots en spam verminder deur eenvoudige vrae te stel. Volg die instruksies aan die bokant van die skerm vir elke uitdaging. Vir meer inligting besoek",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha is &#39;n diens wat bots en strooipos verminder deur eenvoudige vrae te stel. Volg die instruksies bo-aan die skerm vir elke uitdaging. Besoek {{site-url}} vir meer inligting",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha is daartoe verbind om volledig toeganklik te wees. Om ons visuele uitdaging te omseil, bied ons &#39;n toeganklikheidskoekie aan.",
     "widget error message text": "widget fout-boodskap teks",
     "widget warning message text": "widget waarskuwingboodskap-teks"
 }

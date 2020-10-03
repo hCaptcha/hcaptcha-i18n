@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Rapportera ett programfel eller problem till hCaptcha.",
     "Report an image to hCaptcha.": "Rapportera en bild till hCaptcha.",
     "Reporting a functionality issue?": "Rapportera ett funktionalitetsproblem?",
-    "Retrieve accessibility cookie here.": "Hämta tillgänglighetscookie här.",
+    "Retrieve accessibility cookie.": "Hämta tillgänglighetscookie.",
     "See how to report issues with detailed logs.": "Se hur du rapporterar problem med detaljerade loggar.",
     "Send": "Skicka",
     "Send Response": "Skicka svar",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Sitekeymen för denna hCaptcha är felaktig. Kontakta webbplatsadministratören om du ser detta.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Denna hCaptcha är endast avsedd för testning. Kontakta webbplatsadministratören om du ser detta.",
     "This lets you avoid future questions by registering and setting a cookie.": "Detta låter dig undvika framtida frågor genom att registrera och ställa in en cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "För att kringgå vår visuella utmaning erbjuder vi en tillgänglighetscookie.",
     "Too Difficult": "För svårt",
     "View our accessibility option.": "Se vårt tillgänglighetsalternativ.",
     "We will look into the issue immediately.": "Vi kommer att undersöka frågan omedelbart.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha kryssruta. Du är verifierad att jag är mänsklig.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha är en tjänst som minskar bots och spam genom att ställa enkla frågor. Följ instruktionerna högst upp på skärmen för varje utmaning. För mer info besök",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha är en tjänst som minskar bots och skräppost genom att ställa enkla frågor. Följ instruktionerna högst upp på skärmen för varje utmaning. För mer information besök {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha har åtagit sig att vara fullt tillgänglig. För att kringgå vår visuella utmaning erbjuder vi en tillgänglighetscookie.",
     "widget error message text": "widget-felmeddelande text",
     "widget warning message text": "widget varning meddelande text"
 }

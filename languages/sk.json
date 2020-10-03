@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Nahláste chybu softvéru alebo problém spoločnosti hCaptcha.",
     "Report an image to hCaptcha.": "Nahlásiť obrázok hCaptcha.",
     "Reporting a functionality issue?": "Nahlasujete problém s funkčnosťou?",
-    "Retrieve accessibility cookie here.": "Tu získate súbor cookie prístupnosti.",
+    "Retrieve accessibility cookie.": "Načítajte súbor cookie prístupnosti.",
     "See how to report issues with detailed logs.": "Pozrite sa, ako nahlásiť problémy pomocou podrobných denníkov.",
     "Send": "send",
     "Send Response": "Poslať odpoveď",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Čítanie tohto hCaptcha je nesprávne. Ak to vidíte, kontaktujte administrátora stránky.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Táto hCaptcha je určená len na testovanie. Ak to vidíte, kontaktujte administrátora stránky.",
     "This lets you avoid future questions by registering and setting a cookie.": "To vám umožní vyhnúť sa budúcim otázkam registráciou a nastavením súboru cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Aby sme obišli našu vizuálnu výzvu, ponúkame súbor cookie prístupnosti.",
     "Too Difficult": "Príliš zložité",
     "View our accessibility option.": "Prezrite si našu možnosť dostupnosti.",
     "We will look into the issue immediately.": "Okamžite sa budeme touto záležitosťou zaoberať.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "Začiarknite políčko hCaptcha. Máte overené, že som človek.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha je služba, ktorá obmedzuje roboty a spam kladením jednoduchých otázok. Pri každej výzve postupujte podľa pokynov v hornej časti obrazovky. Pre viac informácií navštívte",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha je služba, ktorá kladením jednoduchých otázok obmedzuje výskyt robotov a spamu. Pri každej výzve postupujte podľa pokynov v hornej časti obrazovky. Viac informácií nájdete na {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha sa zaväzuje, že bude plne prístupný. Aby sme obišli našu vizuálnu výzvu, ponúkame súbor cookie prístupnosti.",
     "widget error message text": "text chybovej správy pre widget",
     "widget warning message text": "text varovnej správy widgetu"
 }

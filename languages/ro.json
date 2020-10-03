@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Raportați o eroare sau o problemă software la hCaptcha.",
     "Report an image to hCaptcha.": "Raportați o imagine la hCaptcha.",
     "Reporting a functionality issue?": "Raportarea unei probleme de funcționalitate?",
-    "Retrieve accessibility cookie here.": "Primiți aici cookie-ul de accesibilitate.",
+    "Retrieve accessibility cookie.": "Preluarea cookie-ului de accesibilitate.",
     "See how to report issues with detailed logs.": "Vedeți cum să raportați problemele cu jurnalele detaliate.",
     "Send": "Trimite",
     "Send Response": "Trimite răspuns",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Tasta de site pentru acest hCaptcha este incorectă. Vă rugăm să contactați administratorul site-ului dacă vedeți acest lucru.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Acest hCaptcha este doar pentru testare. Vă rugăm să contactați administratorul site-ului dacă vedeți acest lucru.",
     "This lets you avoid future questions by registering and setting a cookie.": "Acest lucru vă permite să evitați întrebările viitoare prin înregistrarea și setarea unui cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Pentru a trece peste provocarea noastră vizuală, oferim un cookie de accesibilitate.",
     "Too Difficult": "Prea dificil",
     "View our accessibility option.": "Vizualizați opțiunea noastră de accesibilitate.",
     "We will look into the issue immediately.": "Vom analiza imediat problema.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "caseta de selectare hCaptcha. Ai verificat că sunt om.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha este un serviciu care reduce bot-urile și spam-ul punând întrebări simple. Vă rugăm să urmați instrucțiunile din partea de sus a ecranului pentru fiecare provocare. Pentru mai multe informații, vizitați",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha este un serviciu care reduce roboții și spamul prin adresarea de întrebări simple. Vă rugăm să urmați instrucțiunile din partea de sus a ecranului pentru fiecare provocare. Pentru mai multe informații, accesați {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha se angajează să fie pe deplin accesibil. Pentru a trece peste provocarea noastră vizuală, oferim un cookie de accesibilitate.",
     "widget error message text": "widget text de mesaj de eroare",
     "widget warning message text": "widget text mesaj de avertizare"
 }

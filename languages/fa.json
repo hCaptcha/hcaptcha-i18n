@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "اشکال نرم افزار یا مسئله را به hCaptcha گزارش دهید.",
     "Report an image to hCaptcha.": "گزارش تصویری به hCaptcha.",
     "Reporting a functionality issue?": "گزارش مسئله عملکرد؟",
-    "Retrieve accessibility cookie here.": "کوکی دسترسی را در اینجا بازیابی کنید.",
+    "Retrieve accessibility cookie.": "کوکی دسترسی را بازیابی کنید.",
     "See how to report issues with detailed logs.": "نحوه گزارش مشکلات با سیاهههای مربوط را مشاهده کنید.",
     "Send": "ارسال",
     "Send Response": "پاسخ دهید",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "سایت برای این hCaptcha نادرست است. لطفا در صورت مشاهده این موضوع با سرپرست سایت تماس بگیرید.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "این hCaptcha فقط برای تست است. لطفا در صورت مشاهده این موضوع با سرپرست سایت تماس بگیرید.",
     "This lets you avoid future questions by registering and setting a cookie.": "این به شما امکان می دهد تا با ثبت نام و تنظیم یک کوکی از سوالات بعدی دوری کنید.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "برای دور زدن چالش بصری ، ما یک کوکی قابلیت دسترسی را ارائه می دهیم.",
     "Too Difficult": "خیلی سخت",
     "View our accessibility option.": "گزینه قابلیت دسترسی ما را مشاهده کنید.",
     "We will look into the issue immediately.": "ما فوراً به مسئله خواهیم پرداخت.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "کادر انتخاب hCaptcha. شما تأیید شده اید که من انسانی هستم.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha سرویسی است که با پرسیدن سؤالات ساده باعث کاهش رباتها و اسپم ها می شود. لطفاً برای هر چالش ، دستورالعمل های بالای صفحه را دنبال کنید. برای اطلاعات بیشتر مراجعه کنید",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha سرویسی است که با پرسیدن سوالات ساده ربات ها و هرزنامه ها را کاهش می دهد. لطفاً برای هر چالش دستورالعمل های بالای صفحه را دنبال کنید. برای اطلاعات بیشتر به {{site-url}} مراجعه کنید",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha متعهد است که کاملاً در دسترس باشد. برای دور زدن چالش بصری ، ما یک کوکی قابلیت دسترسی را ارائه می دهیم.",
     "widget error message text": "متن پیام خطای ویجت",
     "widget warning message text": "متن پیام هشدار ویجت"
 }

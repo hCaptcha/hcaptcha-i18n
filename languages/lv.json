@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Ziņot par programmatūras kļūdu vai problēmu uzņēmumam hCaptcha.",
     "Report an image to hCaptcha.": "Ziņot par attēlu hCaptcha.",
     "Reporting a functionality issue?": "Vai ziņojat par funkcionalitātes problēmu?",
-    "Retrieve accessibility cookie here.": "Šeit iegūstiet pieejamības sīkfailu.",
+    "Retrieve accessibility cookie.": "Iegūstiet pieejamības sīkfailu.",
     "See how to report issues with detailed logs.": "Uzziniet, kā ziņot par problēmām ar detalizētiem žurnāliem.",
     "Send": "Sūtīt",
     "Send Response": "Sūtīt atbildi",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Vietnes atslēga šai hCaptcha nav pareiza. Lūdzu, sazinieties ar vietnes administratoru, ja redzat šo.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Šis hCaptcha ir paredzēts tikai testēšanai. Lūdzu, sazinieties ar vietnes administratoru, ja redzat šo.",
     "This lets you avoid future questions by registering and setting a cookie.": "Tas ļauj izvairīties no turpmākiem jautājumiem, reģistrējoties un iestatot sīkfailu.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Lai apietu mūsu vizuālo izaicinājumu, mēs piedāvājam piekļuves sīkfailu.",
     "Too Difficult": "Pārāk grūts",
     "View our accessibility option.": "Skatiet mūsu piekļuves iespēju.",
     "We will look into the issue immediately.": "Mēs nekavējoties izpētīsim šo jautājumu.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "rūtiņa hCaptcha. Jūs esat pārliecināts, ka esmu cilvēks.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ir pakalpojums, kas samazina robotprogrammatūru un surogātpastu, uzdodot vienkāršus jautājumus. Lūdzu, izpildiet ekrāna augšdaļā sniegtos norādījumus par katru izaicinājumu. Lai iegūtu vairāk informācijas, apmeklējiet",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ir pakalpojums, kas samazina robotus un surogātpastu, uzdodot vienkāršus jautājumus. Lūdzu, izpildiet norādījumus katra izaicinājuma ekrāna augšdaļā. Lai iegūtu plašāku informāciju, apmeklējiet vietni {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ir apņēmusies būt pilnībā pieejama. Lai apietu mūsu vizuālo izaicinājumu, mēs piedāvājam piekļuves sīkfailu.",
     "widget error message text": "logrīka kļūdas ziņojuma teksts",
     "widget warning message text": "logrīka brīdinājuma ziņojuma teksts"
 }

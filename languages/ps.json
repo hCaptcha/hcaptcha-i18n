@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "د hCaptcha ته د سافټویر بګ یا مسله راپور کړئ.",
     "Report an image to hCaptcha.": "hCaptcha ته یو عکس راپور کړئ.",
     "Reporting a functionality issue?": "د فعالیت مسلې راپور ورکول؟",
-    "Retrieve accessibility cookie here.": "د لاسرسي کوکي دلته ترلاسه کړئ.",
+    "Retrieve accessibility cookie.": "د لاسرسي کوکي ترلاسه کول.",
     "See how to report issues with detailed logs.": "وګورئ چې د مفصل لاګونو سره مسلو راپورولو څرنګوالی.",
     "Send": "ولېږئ",
     "Send Response": "ځواب ولیږئ",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "د دې hCaptcha لپاره سایټکی غلط دي. مهرباني وکړئ د سایټ له ادارې سره اړیکه ونیسئ که تاسو دا وګورئ.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "دا hCaptcha یوازې د ازموینې لپاره دی. مهرباني وکړئ د سایټ له ادارې سره اړیکه ونیسئ که تاسو دا وګورئ.",
     "This lets you avoid future questions by registering and setting a cookie.": "دا تاسو ته اجازه درکوي د کوکي راجسټریشن او ترتیب سره راتلونکي پوښتنو څخه مخنیوی وکړئ.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "زموږ د لید ننګونې لرې کولو لپاره ، موږ د لاسرسي کوکي وړاندیز کوو.",
     "Too Difficult": "ډیر مشکل",
     "View our accessibility option.": "زموږ د لاسرسي انتخاب وګورئ.",
     "We will look into the issue immediately.": "موږ به سمدلاسه دا مسله وینو.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha چیک باکس. تاسو تصدیق شوي یاست زه انسان یم.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha یو خدمت دی چې د ساده پوښتنو په کولو سره بوټونه او سپیم کموي. مهرباني وکړئ د هرې ننګونې لپاره د پردې په پورتنۍ برخه کې لارښوونې تعقیب کړئ. د نورو معلوماتو لیدو لپاره",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha یو خدمت دی چې د ساده پوښتنو په کولو سره بوټونه او سپیم کموي. مهرباني وکړئ د هرې ننګونې لپاره د پردې په پورتنۍ برخه کې لارښوونې تعقیب کړئ. د نورو معلوماتو لپاره لیدنه وکړئ {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha ژمن دی چې د لاسرسي وړ وي. زموږ د لید ننګونې لرې کولو لپاره ، موږ د لاسرسي کوکي وړاندیز کوو.",
     "widget error message text": "د کارووني تېروتنې پیغام متن",
     "widget warning message text": "د کارووني خبرداری پیغام متن"
 }

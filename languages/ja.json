@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "ソフトウェアのバグまたは問題をhCaptchaに報告してください。",
     "Report an image to hCaptcha.": "hCaptchaに画像を報告してください。",
     "Reporting a functionality issue?": "機能の問題を報告していますか？",
-    "Retrieve accessibility cookie here.": "ここでアクセシビリティCookieを取得します。",
+    "Retrieve accessibility cookie.": "アクセシビリティCookieを取得します。",
     "See how to report issues with detailed logs.": "詳細なログで問題を報告する方法をご覧ください。",
     "Send": "送る",
     "Send Response": "返信を送信",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "このhCaptchaのサイトキーが正しくありません。これが表示された場合は、サイト管理者に連絡してください。",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "このhCaptchaはテスト専用です。これが表示された場合は、サイト管理者に連絡してください。",
     "This lets you avoid future questions by registering and setting a cookie.": "これにより、Cookieを登録および設定することで、今後の質問を回避できます。",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "視覚的な課題を回避するために、アクセシビリティCookieを提供しています。",
     "Too Difficult": "難しすぎる",
     "View our accessibility option.": "アクセシビリティオプションを表示します。",
     "We will look into the issue immediately.": "すぐに問題を調査します。",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptchaチェックボックス。あなたは私が人間であることを確認されています。",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptchaは、簡単な質問をすることでボットとスパムを減らすサービスです。各チャレンジについて、画面上部の指示に従ってください。詳しくはこちらをご覧ください",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptchaは、簡単な質問をすることでボットやスパムを減らすサービスです。各チャレンジについて、画面上部の指示に従ってください。詳細については、{{site-url}}をご覧ください。",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptchaは、完全にアクセスできるようにすることをお約束します。視覚的な課題を回避するために、アクセシビリティCookieを提供しています。",
     "widget error message text": "ウィジェットのエラーメッセージテキスト",
     "widget warning message text": "ウィジェット警告メッセージテキスト"
 }

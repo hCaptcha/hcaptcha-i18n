@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Програм хангамжийн алдаа, асуудлыг hCaptcha-д мэдээлэх.",
     "Report an image to hCaptcha.": "Зургийг hCaptcha-д мэдээлэх.",
     "Reporting a functionality issue?": "Функцтэй холбоотой асуудлыг мэдээлэх үү?",
-    "Retrieve accessibility cookie here.": "Хандалтын күүкийг эндээс татаж авна уу.",
+    "Retrieve accessibility cookie.": "Хандалтын күүкийг татаж авах.",
     "See how to report issues with detailed logs.": "Нарийвчилсан бүртгэлтэй холбоотой асуудлыг хэрхэн тайлагнах талаар үзнэ үү.",
     "Send": "Илгээх",
     "Send Response": "Хариу илгээх",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Энэ hCaptcha-ийн sitekey буруу байна. Хэрэв та үүнийг харж байгаа бол сайтын админтай холбоо барина уу.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Энэ hCaptcha нь зөвхөн туршилтанд зориулагдсан. Хэрэв та үүнийг харж байгаа бол сайтын админтай холбоо барина уу.",
     "This lets you avoid future questions by registering and setting a cookie.": "Энэ нь күүкийг бүртгэх, тохируулах замаар ирээдүйн асуултаас зайлсхийх боломжийг олгоно.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Харааны бэрхшээлийг тойрч гарахын тулд бид хандалтын күүкийг санал болгодог.",
     "Too Difficult": "Хэт хэцүү",
     "View our accessibility option.": "Хялбар байдлын сонголтыг харах.",
     "We will look into the issue immediately.": "Бид асуудлыг нэн даруй шийдвэрлэх болно.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha шалгах хайрцаг. Намайг хүн гэдгийг чи батлав.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha бол энгийн асуулт асуух замаар bots болон спамыг багасгадаг үйлчилгээ юм. Дуудлага тус бүрийн дэлгэцийн дээд хэсэгт байрлах зааврыг дагана уу. Дэлгэрэнгүй мэдээллийг авна уу",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha бол энгийн асуулт асууж бот, спамыг багасгах үйлчилгээ юм. Сорилт бүрийн хувьд дэлгэцийн дээд хэсэгт байгаа зааврыг дагана уу. Дэлгэрэнгүй мэдээллийг {{site-url}} - ээс авна уу",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "hCaptcha нь бүрэн нэвтрэх боломжтой болно. Харааны бэрхшээлийг тойрч гарахын тулд бид хандалтын күүкийг санал болгодог.",
     "widget error message text": "виджетийн алдааны мессежийн текст",
     "widget warning message text": "виджетийн анхааруулах мессежийн текст"
 }

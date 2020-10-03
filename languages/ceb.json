@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "Isumbong ang usa ka bug sa software o isyu sa hCaptcha.",
     "Report an image to hCaptcha.": "I-report ang usa ka imahe sa hCaptcha.",
     "Reporting a functionality issue?": "Pagreport sa isyu sa pag-andar?",
-    "Retrieve accessibility cookie here.": "Kuhaa dinhi ang accessibility cookie.",
+    "Retrieve accessibility cookie.": "Kuhaa ang accessibility cookie.",
     "See how to report issues with detailed logs.": "Tan-awa kung giunsa ang pagreport sa mga isyu uban ang detalyado nga mga troso.",
     "Send": "Gipadala",
     "Send Response": "Magpadala Tubag",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "Ang sitekey alang niini nga hCaptcha dili husto. Palihug kontaka ang admin sa site kung makita nimo kini.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "Kini nga hCaptcha alang lang sa pagsulay. Palihug kontaka ang admin sa site kung makita nimo kini.",
     "This lets you avoid future questions by registering and setting a cookie.": "Gitugotan ka niini nga malikayan ang mga pangutana sa umaabot pinaagi sa pagrehistro ug pagtakda sa usa ka cookie.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "Aron malaktawan ang among visual nga hagit, nagtanyag kami usa ka accessibility cookie.",
     "Too Difficult": "Kapoy kaayo",
     "View our accessibility option.": "Tan-awa ang among kapilian sa pag-access.",
     "We will look into the issue immediately.": "Susihon dayon naton ang isyu.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "checkbox nga hCaptcha. Gipamatud-an nimo nga ako tawo.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Ang hCaptcha usa ka serbisyo nga nagpamenos sa mga bot ug spam pinaagi sa pagpangutana sa yano nga mga pangutana. Palihug sunda ang mga panudlo sa taas sa sulud alang sa matag hagit. Alang sa dugang nga pagbisita sa impormasyon",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Ang hCaptcha usa ka serbisyo nga nagpaminus sa mga bot ug spam pinaagi sa pagpangutana mga yano nga pangutana. Palihug sunda ang mga panudlo sa taas sa screen alang sa matag hagit. Alang sa dugang nga kasayuran pagbisita sa {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "Ang hCaptcha komitido sa hingpit nga pag-access. Aron malaktawan ang among visual nga hagit, nagtanyag kami usa ka accessibility cookie.",
     "widget error message text": "teksto sa mensahe sa error sa widget",
     "widget warning message text": "widget nga mensahe sa pasidaan sa widget"
 }

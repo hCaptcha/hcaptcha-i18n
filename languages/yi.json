@@ -58,7 +58,7 @@
     "Report a software bug or issue to hCaptcha.": "באריכט אַ ווייכווארג זשוק אָדער אַרויסגעבן צו hCaptcha.",
     "Report an image to hCaptcha.": "באריכט אַ בילד צו hCaptcha.",
     "Reporting a functionality issue?": "מעלדונג אַ פאַנגקשאַנאַליטי אַרויסגעבן?",
-    "Retrieve accessibility cookie here.": "צוריקקריגן אַקסעסאַביליטי קיכל דאָ.",
+    "Retrieve accessibility cookie.": "צוריקקריגן אַקסעסאַביליטי קיכל.",
     "See how to report issues with detailed logs.": "זען ווי צו באַריכט ישוז מיט דיטיילד לאָגס.",
     "Send": "שיקן",
     "Send Response": "שיקן ענטפער",
@@ -77,6 +77,7 @@
     "The sitekey for this hCaptcha is incorrect. Please contact the site admin if you see this.": "די סיטעקיי פֿאַר דעם hCaptcha איז פאַלש. ביטע קאָנטאַקט די מאַפּע אַדמיניסטראַטאָר אויב איר זען דאָס.",
     "This hCaptcha is for testing only. Please contact the site admin if you see this.": "דעם הקאַפּטטשאַ איז בלויז פֿאַר טעסטינג. ביטע קאָנטאַקט די מאַפּע אַדמיניסטראַטאָר אויב איר זען דאָס.",
     "This lets you avoid future questions by registering and setting a cookie.": "אַזוי איר קענען ויסמיידן צוקונפֿט פֿראגן דורך רעדזשיסטערינג און באַשטעטיקן אַ קיכל.",
+    "To bypass our visual challenge, we offer an accessibility cookie.": "צו בייפּאַס אונדזער וויזשאַוואַל אַרויסרופן, מיר פאָרשלאָגן אַ אַקסעסאַביליטי קיכל.",
     "Too Difficult": "צו שווער",
     "View our accessibility option.": "View אונדזער אַקסעס אַקסעס.",
     "We will look into the issue immediately.": "מיר וועלן קוקן אין די אַרויסגעבן מיד.",
@@ -88,7 +89,6 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha טשעקקבאָקס. איר זענט וועראַפייד איך בין מענטש.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "haptaptcha איז אַ סערוויס וואָס ראַדוסאַז באָץ און ספּאַם דורך אַסקינג פּשוט פֿראגן. נאָכפאָלגן די ינסטראַקשאַנז אויף די שפּיץ פון דעם עקראַן פֿאַר יעדער אַרויסרופן. פֿאַר מער אינפֿאָרמאַציע באַזוכן",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "הקאַפּטטשאַ איז אַ דינסט וואָס ראַדוסאַז באָץ און ספּאַם דורך פרעגן פּשוט פֿראגן. ביטע נאָכפאָלגן די ינסטראַקשאַנז אין די שפּיץ פון די פאַרשטעלן פֿאַר יעדער אַרויסרופן. פֿאַר מער אינפֿאָרמאַציע, באַזוכן {{site-url}}",
-    "hCaptcha is committed to being fully accessible. To bypass our visual challenge, we offer an accessibility cookie.": "הקאַפּטטשאַ איז קאַמיטאַד צו זיין גאָר צוטריטלעך. צו בייפּאַס אונדזער וויזשאַוואַל אַרויסרופן, מיר פאָרשלאָגן אַ אַקסעסאַביליטי קיכל.",
     "widget error message text": "ווידגעט טעות אָנזאָג טעקסט",
     "widget warning message text": "טעקסט ווארענונג פֿאַר ווידזשיט ווידגעט"
 }
