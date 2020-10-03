@@ -167,10 +167,12 @@
                 },
                 "cookie_status": {
                     "header": "Status:",
+                    "enable_cookie": "Enable cross-site cookies.",
+                    "retrieve_cookie": "Retrieve accessibility cookie here.",
                     "types": {
                         "no_cookie": {
-                            "no_access" : "Accessibility cookie is not set. Click {{here}} to retrieve one.",
-                            "has_access": "Cookies are disabled or the accessibility cookie is not set. Click {{here}} to enable."
+                            "no_access" : "Accessibility cookie is not set. {{retrieve-cookie}}",
+                            "has_access": "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}."
                         },
                         "has_cookie": "Accessibility cookie is set. For help, please email {{support}}"
                     }
