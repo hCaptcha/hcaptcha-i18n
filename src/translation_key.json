@@ -172,7 +172,7 @@
                     "types": {
                         "no_cookie": {
                             "no_access" : "Accessibility cookie is not set. {{retrieve-cookie}}",
-                            "has_access": "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}."
+                            "has_access": "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}"
                         },
                         "has_cookie": "Accessibility cookie is set. For help, please email {{support}}"
                     }

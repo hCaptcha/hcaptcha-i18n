@@ -12,7 +12,7 @@
     "Check": "ตรวจสอบ",
     "Close": "ปิด",
     "Close Modal": "ปิดโมดอล",
-    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}.": "คุกกี้ถูกปิดใช้งานหรือไม่ได้ตั้งค่าคุกกี้การช่วยการเข้าถึง {{enable-cookies}}",
+    "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}": "คุกกี้ถูกปิดใช้งานหรือไม่ได้ตั้งค่าคุกกี้การช่วยการเข้าถึง {{enable-cookies}}",
     "Describe why you are reporting an image.": "อธิบายว่าเหตุใดคุณจึงรายงานภาพ",
     "Enable cross-site cookies.": "เปิดใช้งานคุกกี้ข้ามไซต์",
     "Enter the two words in the image.": "ป้อนคำทั้งสองในภาพ",
