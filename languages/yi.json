@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha טשעקקבאָקס. איר זענט וועראַפייד איך בין מענטש.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "haptaptcha איז אַ סערוויס וואָס ראַדוסאַז באָץ און ספּאַם דורך אַסקינג פּשוט פֿראגן. נאָכפאָלגן די ינסטראַקשאַנז אויף די שפּיץ פון דעם עקראַן פֿאַר יעדער אַרויסרופן. פֿאַר מער אינפֿאָרמאַציע באַזוכן",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "הקאַפּטטשאַ איז אַ דינסט וואָס ראַדוסאַז באָץ און ספּאַם דורך פרעגן פּשוט פֿראגן. ביטע נאָכפאָלגן די ינסטראַקשאַנז אין די שפּיץ פון די פאַרשטעלן פֿאַר יעדער אַרויסרופן. פֿאַר מער אינפֿאָרמאַציע, באַזוכן {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "הקאַפּטטשאַ זיכערהייט סימען איז אויסגעגאנגען. ביטע פאַרענדיקן די אַרויסרופן ווידער.",
+    "hCaptcha window closed due to timeout.": "הקאַפּטטשאַ פֿענצטער פֿאַרמאַכט רעכט צו טיימאַוט.",
     "widget error message text": "ווידגעט טעות אָנזאָג טעקסט",
     "widget warning message text": "טעקסט ווארענונג פֿאַר ווידזשיט ווידגעט"
 }

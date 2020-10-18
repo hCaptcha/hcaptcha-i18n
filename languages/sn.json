@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha cheki. Wakaoneswa kuti ndiri munhu.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ibasa rinoderedza bots uye spam nekubvunza mibvunzo iri nyore. Ndokumbirawo uteedzere mirairo iri pamusoro pechiratidzo kune imwe neimwe inonetsa. Kuti uwane rumwe ruzivo shanya",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ibasa rinodzora bots uye spam nekubvunza mibvunzo yakapusa. Ndokumbirawo uteedzere iwo ekuraira pamusoro pechiso kune rimwe dambudziko Kuti uwane rumwe ruzivo shanyira {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha chengetedzo tokeni yapera. Ndokumbirawo upedze dambudziko racho zvakare.",
+    "hCaptcha window closed due to timeout.": "hCaptcha hwindo rakavharwa nekuda kwekubva nguva.",
     "widget error message text": "widget kukanganisa meseji",
     "widget warning message text": "widget yambiro meseji"
 }

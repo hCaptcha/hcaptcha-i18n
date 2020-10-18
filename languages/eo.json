@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha markobutono. Vi estas konfirmita, ke mi estas homa.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha estas servo, kiu reduktas robotojn kaj spamojn per demandoj simplaj. Bonvolu sekvi la instrukciojn ĉe la supro de la ekrano por ĉiu defio. Por pliaj informoj vizitu",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha estas servo, kiu reduktas robotojn kaj spamojn per simplaj demandoj. Bonvolu sekvi la instrukciojn supre de la ekrano por ĉiu defio. Por pliaj informoj vizitu {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Sekureca signo hCaptcha eksvalidiĝis. Bonvolu kompletigi la defion denove.",
+    "hCaptcha window closed due to timeout.": "hCaptcha-fenestro fermiĝis pro tempolimo.",
     "widget error message text": "fenestraĵa erara mesaĝa teksto",
     "widget warning message text": "fenestraĵo averta mesaĝo teksto"
 }

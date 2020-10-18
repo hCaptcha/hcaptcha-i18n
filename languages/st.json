@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "lebokose la tlhahlobo la hCaptcha. O netefalitsoe hore ke motho.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ke ts&#39;ebeletso e fokotsang bots le spam ka ho botsa lipotso tse bonolo. Ka kopo latela litaelo tse ka holimo skrineng bakeng sa phephetso e &#39;ngoe le e&#39; ngoe. Bakeng sa lintlha tse ling etela",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ke ts&#39;ebeletso e fokotsang bots le spam ka ho botsa lipotso tse bonolo. Ka kopo latela litaelo tse kaholimo ho skrine phephetsong ka ngoe. Ho fumana lintlha tse ling etela {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Letšoao la ts&#39;ireletso la hCaptcha le felile. Ka kopo phethela phephetso hape.",
+    "hCaptcha window closed due to timeout.": "Fensetere ea hCaptcha e koetsoe ka lebaka la ho tima nako.",
     "widget error message text": "mongolo oa phoso ea molaetsa oa widget",
     "widget warning message text": "mongolo oa temoso ea widget"
 }

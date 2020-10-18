@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "pusa siaki hCaptcha. Oe faʻamaonia o aʻu o le tagata.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha o se &#39;auʻaunaga e faʻaitiitia bot ma spam e ala i le faia o fesili faigofie. Faʻamolemole mulimuli i faʻatonuga i le pito i luga o le mata mo luʻi taʻitasi. Mo nisi faʻamatalaga asiasi",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha o se tautua e faʻaititia ai bot ma spam e ala i le faia o ni fesili faigofie. Faʻamolemole mulimuli i faʻatonuga i le pito i luga o le lau mo luitau taʻitasi. Mo nisi faʻamatalaga asiasi i le {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha saogalemu token ua maeʻa le aoga. Faʻamolemole toe faʻatumu le luʻi.",
+    "hCaptcha window closed due to timeout.": "hCaptcha faamalama tapunia ona o le alu i le taimi.",
     "widget error message text": "widget savali sese tusitusiga",
     "widget warning message text": "widget lapataiga feau"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "отметка в hCaptcha. Вие сте потвърдени, че съм човек.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha е услуга, която намалява ботове и спам, като задава прости въпроси. Моля, следвайте инструкциите в горната част на екрана за всяко предизвикателство. За повече информация посетете",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha е услуга, която намалява ботовете и спама, като задава прости въпроси. Моля, следвайте инструкциите в горната част на екрана за всяко предизвикателство. За повече информация посетете {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Токенът за защита на hCaptcha изтече. Моля, завършете отново предизвикателството.",
+    "hCaptcha window closed due to timeout.": "Прозорецът на hCaptcha е затворен поради изчакване.",
     "widget error message text": "текст на съобщение за грешка на джаджа",
     "widget warning message text": "текст на предупреждение за джаджа"
 }

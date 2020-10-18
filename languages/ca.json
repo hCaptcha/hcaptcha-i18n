@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "Casella de selecció hCaptcha Heu verificat que sóc humà.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha és un servei que redueix els robots i el correu brossa fent preguntes senzilles. Seguiu les instruccions de la part superior de la pantalla per a cada repte. Per obtenir més informació, visiteu",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha és un servei que redueix els robots i el correu brossa fent preguntes senzilles. Seguiu les instruccions de la part superior de la pantalla per a cada repte. Per obtenir més informació, visiteu {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "El testimoni de seguretat hCaptcha ha caducat. Torneu a completar el repte.",
+    "hCaptcha window closed due to timeout.": "La finestra hCaptcha s&#39;ha tancat a causa del temps d&#39;espera.",
     "widget error message text": "text del missatge d&#39;error de widget",
     "widget warning message text": "text del missatge d&#39;advertència de widget"
 }

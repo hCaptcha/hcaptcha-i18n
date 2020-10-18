@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "kisanduku cha hCaptcha. Umethibitishwa mimi ni binadamu.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ni huduma ambayo hupunguza bots na spam kwa kuuliza maswali rahisi. Tafadhali fuata maagizo yaliyo juu ya skrini kwa kila changamoto. Kwa habari zaidi tembelea",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ni huduma ambayo hupunguza bots na barua taka kwa kuuliza maswali rahisi. Tafadhali fuata maagizo yaliyo juu ya skrini kwa kila changamoto. Kwa habari zaidi tembelea {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Hati ya usalama ya hCaptcha imeisha. Tafadhali kamilisha changamoto tena.",
+    "hCaptcha window closed due to timeout.": "Dirisha la hCaptcha limefungwa kwa sababu ya muda wa kuisha.",
     "widget error message text": "maandishi ya ujumbe wa makosa ya widget",
     "widget warning message text": "Nakala ya ujumbe wa onyo la widget"
 }

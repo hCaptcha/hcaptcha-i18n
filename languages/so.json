@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "sanduuqa hCaptcha. Waa laguu cadeeyay inaan ahay bini aadam.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha waa adeeg yareyn kara botska iyo lafdhabarta weydiinta su&#39;aalo fudud. Fadlan raac tilmaamaha ku yaal dusha sare ee shaashadda caqabad kasta. Wixii faahfaahin dheeri ah booqo",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha waa adeeg yareeya bots iyo spam adoo weydiinaya su&#39;aalo fudud. Fadlan raac tilmaamaha ku yaal shaashadda dusheeda tartan kasta. Wixii macluumaad dheeraad ah booqo {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha calaamadda amniga ayaa dhammaatay. Fadlan markale dhammee caqabadda.",
+    "hCaptcha window closed due to timeout.": "daaqadda hCaptcha ayaa uxiran waqtiga shaqada awgeed.",
     "widget error message text": "qoraalka fariimaha qaladka",
     "widget warning message text": "qoraalka farriinta digniinta widget"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "ช่องทำเครื่องหมาย hCaptcha คุณได้รับการยืนยันว่าฉันเป็นมนุษย์",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha เป็นบริการที่ช่วยลดบอทและสแปมโดยถามคำถามง่ายๆ โปรดทำตามคำแนะนำที่ด้านบนของหน้าจอสำหรับแต่ละความท้าทาย สำหรับการเยี่ยมชมข้อมูลเพิ่มเติม",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha เป็นบริการที่ช่วยลดบอทและสแปมด้วยการถามคำถามง่ายๆ โปรดปฏิบัติตามคำแนะนำที่ด้านบนของหน้าจอสำหรับแต่ละความท้าทาย สำหรับข้อมูลเพิ่มเติมโปรดไปที่ {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "โทเค็นความปลอดภัย hCaptcha หมดอายุแล้ว โปรดทำสิ่งที่ท้าทายอีกครั้ง",
+    "hCaptcha window closed due to timeout.": "หน้าต่าง hCaptcha ปิดเนื่องจากหมดเวลา",
     "widget error message text": "ข้อความแสดงข้อผิดพลาดของวิดเจ็ต",
     "widget warning message text": "ข้อความเตือนวิดเจ็ต"
 }

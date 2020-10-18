@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "potrditveno polje hCaptcha. Preverjeni ste, da sem človek.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha je storitev, ki zmanjšuje bote in neželeno pošto s postavljanjem preprostih vprašanj. Upoštevajte navodila na vrhu zaslona za vsak izziv. Za več informacij obiščite",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha je storitev, ki z enostavnimi vprašanji zmanjšuje bote in neželeno pošto. Za vsak izziv sledite navodilom na vrhu zaslona. Za več informacij obiščite {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Varnostni žeton hCaptcha je potekel. Prosimo, dokončajte izziv znova.",
+    "hCaptcha window closed due to timeout.": "Okno hCaptcha je zaprto zaradi časovne omejitve.",
     "widget error message text": "besedilo sporočila o napaki gradnika",
     "widget warning message text": "besedilo sporočila o pripomočku"
 }

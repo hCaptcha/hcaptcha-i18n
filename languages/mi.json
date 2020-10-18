@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "pouaka hCaptcha. Kua whakatauhia koe he tangata ahau.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Ko te hCaptcha he ratonga e whakaiti ana i nga pota me te mokomoko ma te paatai i nga paatai ngawari. Me whai i nga tohutohu i te pito o runga o te mata mo ia wero. Mo te roanga atu o nga korero",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha he ratonga e whakaheke ana i nga potae me nga mokowhiti ma te paatai i nga paatai ngawari. Whai koa nga tohutohu kei runga ake o te mata mo ia wero. Mo etahi atu korero tirohia te {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Kua pau te tohu ahuru hCaptcha. Tena koa whakaotihia te wero.",
+    "hCaptcha window closed due to timeout.": "katia te matapihi hCaptcha na te mea kua pau te waa.",
     "widget error message text": "kuputuhi karere hapa hapa",
     "widget warning message text": "kuputuhi karere whakatupato whakatupato"
 }

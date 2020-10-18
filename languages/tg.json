@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "қуттии қуттии hCaptcha. Шумо исбот кардед, ки ман инсон ҳастам.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha хидматест, ки бо гузоштани саволҳои оддӣ ботҳо ва спамро коҳиш медиҳад. Лутфан дастурҳои дар қисми болоии экран барои ҳар як мушкилотро иҷро кунед. Барои гирифтани маълумоти иловагӣ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha хидматест, ки бо саволҳои оддӣ ботҳо ва спамро коҳиш медиҳад. Лутфан дастурҳои болои экранро барои ҳар як мушкилот иҷро кунед. Барои маълумоти иловагӣ аз {{site-url}} боздид кунед",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Нишони амниятии hCaptcha гузаштааст. Лутфан мушкилотро дубора анҷом диҳед.",
+    "hCaptcha window closed due to timeout.": "Равзанаи hCaptcha бо сабаби тамом шудан баста шудааст.",
     "widget error message text": "матни паёмҳои хатои виҷет",
     "widget warning message text": "матни огоҳиномаи виҷет"
 }

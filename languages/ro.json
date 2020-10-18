@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "caseta de selectare hCaptcha. Ai verificat că sunt om.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha este un serviciu care reduce bot-urile și spam-ul punând întrebări simple. Vă rugăm să urmați instrucțiunile din partea de sus a ecranului pentru fiecare provocare. Pentru mai multe informații, vizitați",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha este un serviciu care reduce roboții și spamul prin adresarea de întrebări simple. Vă rugăm să urmați instrucțiunile din partea de sus a ecranului pentru fiecare provocare. Pentru mai multe informații, accesați {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Jetonul de securitate hCaptcha a expirat. Vă rugăm să finalizați din nou provocarea.",
+    "hCaptcha window closed due to timeout.": "Fereastra hCaptcha s-a închis din cauza expirării.",
     "widget error message text": "widget text de mesaj de eroare",
     "widget warning message text": "widget text mesaj de avertizare"
 }

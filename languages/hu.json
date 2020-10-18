@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha jelölőnégyzet. Ellenőrizték, hogy ember vagyok-e.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "A hCaptcha olyan szolgáltatás, amely egyszerű kérdések feltevése révén csökkenti a robotok és a spam képességeit. Kérjük, minden kihíváshoz kövesse a képernyő tetején található utasításokat. További információkért látogasson el",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "A hCaptcha olyan szolgáltatás, amely egyszerű kérdések feltevésével csökkenti a botokat és a spameket. Kérjük, kövesse a képernyő tetején található utasításokat minden kihíváshoz. További információ: {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "A hCaptcha biztonsági token lejárt. Kérjük, töltse ki újra a kihívást.",
+    "hCaptcha window closed due to timeout.": "A hCaptcha ablak időtúllépés miatt bezárult.",
     "widget error message text": "widget hibaüzenet szövege",
     "widget warning message text": "widget figyelmeztető üzenet szövege"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "boaty hCaptcha. Voamarina fa olombelona aho.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha dia serivisy iray izay mampihena ny bots sy spam amin&#39;ny fametrahana fanontaniana tsotra. Azafady araho ny torolàlana eo amin&#39;ny tampon&#39;ny efijery isaky ny fanamby. Raha mila fanazavana fanampiny",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha dia serivisy mampihena ny botika sy ny spam amin&#39;ny fametrahana fanontaniana tsotra. Araho azafady ny torolàlana eo an-tampon&#39;ny efijery ho an&#39;ny fanamby tsirairay. Raha mila fanazavana fanampiny dia tsidiho ny {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Tapitra ny fiarovana ny hCaptcha. Azafady mba tanteraho indray ny fanamby.",
+    "hCaptcha window closed due to timeout.": "Mihidy ny varavarankely hCaptcha noho ny ora faran&#39;ny ora.",
     "widget error message text": "text message message error",
     "widget warning message text": "hafatra hafatra fampitandremana widget"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha տուփ: Դուք հաստատված եք, որ ես մարդ եմ:",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha- ն այնպիսի ծառայություն է, որը նվազեցնում է բոտերը և սպամը ՝ պարզ հարցեր տալով: Խնդրում ենք հետևել էկրանի վերևում գտնվող հրահանգներին `յուրաքանչյուր մարտահրավերի համար: Լրացուցիչ տեղեկությունների համար այցելեք",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha- ն ծառայություն է, որը նվազեցնում է բոտերը և սպամը `պարզ հարցեր տալով: Խնդրում ենք յուրաքանչյուր մարտահրավերի համար հետևել էկրանի վերևի հրահանգներին: Լրացուցիչ տեղեկությունների համար այցելեք {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha- ի անվտանգության նշանը լրացել է: Խնդրում ենք կրկին լրացնել մարտահրավերը:",
+    "hCaptcha window closed due to timeout.": "hCaptcha- ի պատուհանը փակվել է ժամանակի դադարեցման պատճառով:",
     "widget error message text": "widget սխալի հաղորդագրության տեքստ",
     "widget warning message text": "widget նախազգուշացման հաղորդագրության տեքստ"
 }

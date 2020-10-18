@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha шалгах хайрцаг. Намайг хүн гэдгийг чи батлав.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha бол энгийн асуулт асуух замаар bots болон спамыг багасгадаг үйлчилгээ юм. Дуудлага тус бүрийн дэлгэцийн дээд хэсэгт байрлах зааврыг дагана уу. Дэлгэрэнгүй мэдээллийг авна уу",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha бол энгийн асуулт асууж бот, спамыг багасгах үйлчилгээ юм. Сорилт бүрийн хувьд дэлгэцийн дээд хэсэгт байгаа зааврыг дагана уу. Дэлгэрэнгүй мэдээллийг {{site-url}} - ээс авна уу",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha аюулгүй байдлын жетоны хугацаа дууссан. Даалгаврыг дахин хийж гүйцэтгэнэ үү.",
+    "hCaptcha window closed due to timeout.": "Хугацаа дууссаны улмаас hCaptcha цонх хаагдсан.",
     "widget error message text": "виджетийн алдааны мессежийн текст",
     "widget warning message text": "виджетийн анхааруулах мессежийн текст"
 }

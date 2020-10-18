@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "Kothak hCaptcha. Sampeyan wis diverifikasi manawa aku iki manungsa.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha minangka layanan sing nyuda bot lan spam kanthi takon kanthi gampang. Mangga tindakake pandhuan ing sisih ndhuwur layar kanggo saben tantangan. Kanggo riko info liyane",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha minangka layanan sing nyuda bot lan spam kanthi takon kanthi gampang. Mangga tindakake pandhuan ing sisih ndhuwur layar kanggo saben tantangan. Kanggo informasi luwih lengkap, bukak {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "token keamanan hCaptcha wis kadaluwarsa. Mangga rampung maneh tantangane.",
+    "hCaptcha window closed due to timeout.": "Jendela hCaptcha ditutup amarga wektu entek.",
     "widget error message text": "teks pesen kesalahan kesalahan widget",
     "widget warning message text": "teks pesen peringatan widget"
 }
