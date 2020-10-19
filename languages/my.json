@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox ။ ငါဟာလူသားဖြစ်ကြောင်းအတည်ပြုပြီး",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha သည်ရိုးရှင်းသောမေးခွန်းများမေးခြင်းဖြင့် bot နှင့် spam များကိုလျှော့ချပေးသော ၀ န်ဆောင်မှုတစ်ခုဖြစ်သည်။ စိန်ခေါ်မှုတစ်ခုစီအတွက်မျက်နှာပြင်၏ထိပ်ရှိညွှန်ကြားချက်များကိုလိုက်နာပါ။ ပိုမိုသိရှိလိုပါကသွားရောက်ကြည့်ရှုသည်",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha သည်ရိုးရှင်းသောမေးခွန်းများမေးခြင်းဖြင့် bot နှင့် spam များကိုလျှော့ချပေးသော ၀ န်ဆောင်မှုတစ်ခုဖြစ်သည်။ စိန်ခေါ်မှုတစ်ခုစီအတွက်မျက်နှာပြင်၏ထိပ်ရှိညွှန်ကြားချက်များကိုလိုက်နာပါ။ အသေးစိတ်သိလိုပါက {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha လုံခြုံရေးတိုကင်သည်ကုန်သွားပြီ။ ကျေးဇူးပြု၍ စိန်ခေါ်မှုကိုထပ်မံဖြည့်စွက်ပါ။",
+    "hCaptcha window closed due to timeout.": "hCaptcha ၀ င်းဒိုးသည်အချိန်ကုန်ကြောင့်ပိတ်ထားသည်။",
     "widget error message text": "ဝစ်ဂျက်အမှားမက်ဆေ့ခ်ျကိုစာသား",
     "widget warning message text": "ဝစ်ဂျက်သတိပေးစာတမ်းစာသား"
 }

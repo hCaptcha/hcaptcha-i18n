@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "checkbox nga hCaptcha. Gipamatud-an nimo nga ako tawo.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Ang hCaptcha usa ka serbisyo nga nagpamenos sa mga bot ug spam pinaagi sa pagpangutana sa yano nga mga pangutana. Palihug sunda ang mga panudlo sa taas sa sulud alang sa matag hagit. Alang sa dugang nga pagbisita sa impormasyon",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Ang hCaptcha usa ka serbisyo nga nagpaminus sa mga bot ug spam pinaagi sa pagpangutana mga yano nga pangutana. Palihug sunda ang mga panudlo sa taas sa screen alang sa matag hagit. Alang sa dugang nga kasayuran pagbisita sa {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Ang token sa seguridad sa hCaptcha natapos na. Palihug kompletuha usab ang hagit.",
+    "hCaptcha window closed due to timeout.": "sirado ang bintana sa hCaptcha tungod sa pag-timeout.",
     "widget error message text": "teksto sa mensahe sa error sa widget",
     "widget warning message text": "widget nga mensahe sa pasidaan sa widget"
 }

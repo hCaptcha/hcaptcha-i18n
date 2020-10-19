@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "ticbhosca hCaptcha. Fíoraítear gur duine mé.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Is seirbhís í hCaptcha a laghdaíonn bots agus spam trí cheisteanna simplí a chur. Lean na treoracha ag barr an scáileáin le haghaidh gach dúshláin. Le haghaidh tuilleadh faisnéise tabhair cuairt ar",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Is seirbhís í hCaptcha a laghdaíonn bots agus spam trí cheisteanna simplí a chur. Lean na treoracha ag barr an scáileáin le haghaidh gach dúshláin. Le haghaidh tuilleadh faisnéise tabhair cuairt ar {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Tá comhartha slándála hCaptcha imithe in éag. Comhlánaigh an dúshlán arís le do thoil.",
+    "hCaptcha window closed due to timeout.": "Dúnadh fuinneog hCaptcha mar gheall ar an teorainn ama.",
     "widget error message text": "téacs teachtaireachta earráide giuirléid",
     "widget warning message text": "téacs teachtaireachta rabhaidh giuirléidí"
 }

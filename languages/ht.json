@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox. Ou verifye se mwen menm moun.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha se yon sèvis ki redwi bots ak spam pa poze kesyon senp. Tanpri swiv enstriksyon ki nan tèt ekran an pou chak defi. Pou plis enfòmasyon vizit",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha se yon sèvis ki diminye robo ak Spam lè li poze kesyon senp. Tanpri swiv enstriksyon yo nan tèt ekran an pou chak defi. Pou plis enfòmasyon vizite {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha sekirite siy te ekspire. Tanpri ranpli defi a ankò.",
+    "hCaptcha window closed due to timeout.": "hCaptcha fenèt fèmen akòz delè.",
     "widget error message text": "tèks mesaj widje erè",
     "widget warning message text": "tèks mesaj avètisman widje"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "rūtiņa hCaptcha. Jūs esat pārliecināts, ka esmu cilvēks.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ir pakalpojums, kas samazina robotprogrammatūru un surogātpastu, uzdodot vienkāršus jautājumus. Lūdzu, izpildiet ekrāna augšdaļā sniegtos norādījumus par katru izaicinājumu. Lai iegūtu vairāk informācijas, apmeklējiet",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ir pakalpojums, kas samazina robotus un surogātpastu, uzdodot vienkāršus jautājumus. Lūdzu, izpildiet norādījumus katra izaicinājuma ekrāna augšdaļā. Lai iegūtu plašāku informāciju, apmeklējiet vietni {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha drošības marķiera derīguma termiņš ir beidzies. Lūdzu, izpildiet izaicinājumu vēlreiz.",
+    "hCaptcha window closed due to timeout.": "hCaptcha logs tika aizvērts noildzes dēļ.",
     "widget error message text": "logrīka kļūdas ziņojuma teksts",
     "widget warning message text": "logrīka brīdinājuma ziņojuma teksts"
 }

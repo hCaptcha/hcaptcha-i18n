@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox. Koj muaj tseeb koj yog neeg.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha yog qhov kev pabcuam uas txo bots thiab spam los ntawm kev nug cov lus nug yooj yim. Thov ua raws li cov lus qhia nyob rau sab saum toj ntawm kev tshuaj ntsuam rau txhua qhov kev sib tw. Rau cov ntaub ntawv txuas ntxiv mus ntsib",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha yog qhov kev pabcuam uas txo bots thiab spam los ntawm kev nug cov lus nug yooj yim. Thov ua raws li cov lus qhia nyob rau sab saum toj ntawm kev tshuaj ntsuam rau txhua qhov kev sib tw. Yog xav paub ntxiv mus xyuas {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha kev ruaj ntseg token tau tas sijhawm lawm. Thov ua kom tiav qhov kev sib tw ntxiv.",
+    "hCaptcha window closed due to timeout.": "hCaptcha qhov rai kaw vim yog lub sijhawm ua haujlwm.",
     "widget error message text": "widget kev ua yuam kev xov ntawv nyeem",
     "widget warning message text": "cov ntawv ceeb toom widget"
 }

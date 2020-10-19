@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "qutiya kontrolê ya hCaptcha. Te rastkirin ku ez însan im.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha karûbarek e ku pirsên hêsan bi bots û spam kêm dike. Ji kerema xwe ji bo her pirsgirêkê li jor li ser ekranê fermannameyê bişopînin. Ji bo bêtir agahdarî biçin",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha karûbarek e ku botan û spam kêm dike bi pirsên hêsan. Ji kerema xwe ji bo her dijwarî talîmatên li jorê dîmenderê bişopînin. Ji bo bêtir agahdarî biçin serdana {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "nîşana ewlehiyê ya hCaptcha qediya. Ji kerema xwe pirsgirêk dîsa temam bikin.",
+    "hCaptcha window closed due to timeout.": "Ji ber demjimêranê pencereya hCaptcha hat girtin.",
     "widget error message text": "nivîsa peyama çewtiyê ya widget",
     "widget warning message text": "nivîsa peyama hişyariya widget"
 }

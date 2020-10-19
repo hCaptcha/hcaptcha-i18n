@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha-karfakje. Jo binne ferifieare dat ik minske bin.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha is in tsjinst dy&#39;t bots en spam fermindert troch ienfâldige fragen te stellen. Folgje asjebleaft de ynstruksjes boppe op it skerm foar elke útdaging. Foar mear ynfo besite",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha is in tsjinst dy&#39;t bots en spam fermindert troch ienfâldige fragen te stellen. Folgje asjebleaft de ynstruksjes boppe oan it skerm foar elke útdaging. Besykje {{site-url}} foar mear ynformaasje",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha befeiligingstoken is ferrûn. Folje asjebleaft de útdaging opnij.",
+    "hCaptcha window closed due to timeout.": "hCaptcha-finster is sluten fanwege time-out.",
     "widget error message text": "widget flater berjocht tekst",
     "widget warning message text": "widget warskôgingsberjocht fan widget"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha தேர்வுப்பெட்டி. நீங்கள் மனிதர் என்பதை நீங்கள் சரிபார்க்கிறீர்கள்.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு வருகை",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha என்பது எளிய கேள்விகளைக் கேட்பதன் மூலம் போட்களையும் ஸ்பேமையும் குறைக்கும் ஒரு சேவையாகும். ஒவ்வொரு சவாலுக்கும் திரையின் மேலே உள்ள வழிமுறைகளைப் பின்பற்றவும். மேலும் தகவலுக்கு {{site-url}} visit ஐப் பார்வையிடவும்",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha பாதுகாப்பு டோக்கன் காலாவதியானது. சவாலை மீண்டும் முடிக்கவும்.",
+    "hCaptcha window closed due to timeout.": "நேரம் முடிந்ததால் hCaptcha சாளரம் மூடப்பட்டது.",
     "widget error message text": "விட்ஜெட் பிழை செய்தி உரை",
     "widget warning message text": "விட்ஜெட் எச்சரிக்கை செய்தி உரை"
 }

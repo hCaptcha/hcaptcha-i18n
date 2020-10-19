@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha复选框。您已确认我是人类。",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha是一项通过询问简单问题来减少僵尸程序和垃圾邮件的服务。对于每个挑战，请按照屏幕顶部的说明进行操作。欲了解更多信息，请访问",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha是一项通过询问简单问题来减少僵尸程序和垃圾邮件的服务。对于每个挑战，请按照屏幕顶部的说明进行操作。有关更多信息，请访问{{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha安全令牌已过期。请再次完成挑战。",
+    "hCaptcha window closed due to timeout.": "hCaptcha窗口由于超时而关闭。",
     "widget error message text": "小部件错误消息文本",
     "widget warning message text": "小部件警告消息文本"
 }

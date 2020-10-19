@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha تەكشۈرۈش رامكىسى. مېنىڭ ئادەم ئىكەنلىكىم ئىسپاتلاندى.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ئاددىي سوئاللارنى سوراش ئارقىلىق بوتۇلكا ۋە ئەخلەت خەتلەرنى ئازايتىدىغان مۇلازىمەت. ھەر بىر رىقابەت ئۈچۈن ئېكراننىڭ ئۈستىدىكى كۆرسەتمىلەرگە ئەگىشىڭ. تېخىمۇ كۆپ ئۇچۇرغا ئېرىشىش ئۈچۈن {{site-url}} visit نى زىيارەت قىلىڭ",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha بىخەتەرلىك بەلگىسىنىڭ ۋاقتى توشتى. رىقابەتنى قايتا تاماملاڭ.",
+    "hCaptcha window closed due to timeout.": "ۋاقىت سەۋەبىدىن hCaptcha كۆزنىكى تاقىلىپ قالدى.",
     "widget error message text": "كىچىك قورال خاتالىق ئۇچۇرى",
     "widget warning message text": "كىچىك قورال ئاگاھلاندۇرۇش ئۇچۇرى"
 }

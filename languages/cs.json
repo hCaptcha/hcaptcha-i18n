@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "Zaškrtávací políčko hCaptcha. Jste ověřeni, že jsem člověk.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha je služba, která omezuje roboty a spam kladením jednoduchých otázek. Pro každou výzvu postupujte podle pokynů v horní části obrazovky. Pro více informací navštivte",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha je služba, která omezuje roboty a nevyžádanou poštu kladením jednoduchých otázek. Při každé výzvě postupujte podle pokynů v horní části obrazovky. Další informace naleznete na adrese {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Platnost bezpečnostního tokenu hCaptcha vypršela. Dokončete výzvu znovu.",
+    "hCaptcha window closed due to timeout.": "Okno hCaptcha zavřeno z důvodu časového limitu.",
     "widget error message text": "text chybové zprávy widgetu",
     "widget warning message text": "text výstražné zprávy widgetu"
 }

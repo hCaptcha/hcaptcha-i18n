@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha ყუთი. თქვენ დამოწმებული ვარ, რომ ადამიანი ვარ.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha არის სერვისი, რომელიც ამცირებს ბოტებს და სპამს, მარტივი კითხვების დასმით. გთხოვთ, მიჰყევით ეკრანის ზედა მხარეს მითითებებს თითოეული გამოწვევისთვის. დამატებითი ინფორმაციისთვის ეწვიეთ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha არის სერვისი, რომელიც ამცირებს ბოტებს და სპამს მარტივი კითხვების დასმით. გთხოვთ, მიჰყვეთ ინსტრუქციას ეკრანის ზედა ნაწილში თითოეული გამოწვევისთვის. დამატებითი ინფორმაციისთვის ეწვიეთ {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha უსაფრთხოების ნიშანს ვადა გაუვიდა. გთხოვთ, კვლავ შეავსოთ გამოწვევა.",
+    "hCaptcha window closed due to timeout.": "hCaptcha- ს ფანჯარა დახურულია შეყოვნების გამო.",
     "widget error message text": "ვიჯეტის შეცდომის შესახებ ტექსტის ტექსტი",
     "widget warning message text": "ვიჯეტის გამაფრთხილებელი წერილის ტექსტი"
 }

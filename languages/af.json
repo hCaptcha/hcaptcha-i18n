@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha-merkblokkie. U is bevestig dat ek &#39;n mens is.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha is &#39;n diens wat bots en spam verminder deur eenvoudige vrae te stel. Volg die instruksies aan die bokant van die skerm vir elke uitdaging. Vir meer inligting besoek",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha is &#39;n diens wat bots en strooipos verminder deur eenvoudige vrae te stel. Volg die instruksies bo-aan die skerm vir elke uitdaging. Besoek {{site-url}} vir meer inligting",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha-veiligheidstoken het verval. Voltooi die uitdaging asseblief weer.",
+    "hCaptcha window closed due to timeout.": "hCaptcha-venster gesluit as gevolg van time-out.",
     "widget error message text": "widget fout-boodskap teks",
     "widget warning message text": "widget waarskuwingboodskap-teks"
 }

@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha onay qutusu. Sən mənim insan olduğumu təsdiqlədin.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha, sadə suallar verməklə botları və spamları azaldan bir xidmətdir. Zəhmət olmasa, hər bir problem üçün ekranın yuxarısındakı təlimatlara əməl edin. Daha çox məlumat üçün",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha, sadə suallar verərək botları və spamları azaldan bir xidmətdir. Zəhmət olmasa hər problem üçün ekranın yuxarı hissəsindəki təlimatları izləyin. Daha çox məlumat üçün {{site-url}} saytına daxil olun",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha təhlükəsizlik nişanının müddəti bitdi. Xahiş edirəm problemi yenidən tamamlayın.",
+    "hCaptcha window closed due to timeout.": "hCaptcha pəncərəsi zaman aşmağına görə bağlandı.",
     "widget error message text": "widget səhv mesajı mətni",
     "widget warning message text": "widget xəbərdarlıq mesajı mətni"
 }

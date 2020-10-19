@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "kutia e kontrollit hCaptcha. Ju jeni verifikuar unë jam njerëzor.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha është një shërbim që zvogëlon bots dhe spam duke bërë pyetje të thjeshta. Ju lutemi ndiqni udhëzimet në krye të ekranit për secilën sfidë. Për më shumë vizitoni informacione",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha është një shërbim që zvogëlon bots dhe spam duke bërë pyetje të thjeshta. Ju lutemi ndiqni udhëzimet në krye të ekranit për çdo sfidë. Për më shumë informacion vizitoni {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Shenja e sigurisë së hCaptcha ka skaduar. Ju lutemi plotësoni përsëri sfidën.",
+    "hCaptcha window closed due to timeout.": "Dritarja e hCaptcha u mbyll për shkak të skadimit të afatit.",
     "widget error message text": "teksti i mesazhit të gabimit të widget",
     "widget warning message text": "teksti i mesazhit paralajmërues widget"
 }

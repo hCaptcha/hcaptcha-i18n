@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha kryssruta. Du är verifierad att jag är mänsklig.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha är en tjänst som minskar bots och spam genom att ställa enkla frågor. Följ instruktionerna högst upp på skärmen för varje utmaning. För mer info besök",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha är en tjänst som minskar bots och skräppost genom att ställa enkla frågor. Följ instruktionerna högst upp på skärmen för varje utmaning. För mer information besök {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha-säkerhetstoken har upphört att gälla. Snälla slutför utmaningen igen.",
+    "hCaptcha window closed due to timeout.": "hCaptcha-fönstret stängt på grund av timeout.",
     "widget error message text": "widget-felmeddelande text",
     "widget warning message text": "widget varning meddelande text"
 }

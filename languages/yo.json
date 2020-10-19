@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "apoti ayẹwo hCaptcha. O ti rii daju pe eniyan ni mi.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha jẹ iṣẹ ti o dinku awọn bot ati àwúrúju nipa bibeere awọn ibeere ti o rọrun. Jọwọ tẹle awọn itọnisọna ni oke iboju fun ipenija kọọkan. Fun ibẹwo si diẹ sii alaye",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha jẹ iṣẹ ti o dinku awọn botini ati àwúrúju nipa bibeere awọn ibeere ti o rọrun. Jọwọ tẹle awọn itọnisọna ni oke iboju fun italaya kọọkan. Fun alaye diẹ sii ṣabẹwo si {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha ami aabo ti pari. Jọwọ pari ipenija lẹẹkansi.",
+    "hCaptcha window closed due to timeout.": "hCaptcha window ti wa ni pipade nitori akoko isinmi.",
     "widget error message text": "ọrọ ailorukọ aṣiṣe ẹrọ ailorukọ",
     "widget warning message text": "ọrọ ailorukọ ikilọ ẹrọ ailorukọ"
 }

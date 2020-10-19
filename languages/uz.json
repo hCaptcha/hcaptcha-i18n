@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "hCaptcha belgilash katakchasi. Siz inson ekanligimni tasdiqladingiz.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha bu oddiy savollarni berish orqali botlarni va spamlarni kamaytiradigan xizmat. Iltimos, har bir qiyinchilik uchun ekranning yuqori qismidagi ko&#39;rsatmalarga amal qiling. Qo&#39;shimcha ma&#39;lumot olish uchun",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - oddiy savollar berish orqali botlar va spamlarni kamaytiradigan xizmat. Iltimos, har bir muammo uchun ekranning yuqori qismidagi ko&#39;rsatmalarga amal qiling. Qo&#39;shimcha ma&#39;lumot uchun {{site-url}} saytiga tashrif buyuring",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha xavfsizlik belgisi muddati tugagan. Iltimos, sinovni yana yakunlang.",
+    "hCaptcha window closed due to timeout.": "Vaqt tugashi sababli hCaptcha oynasi yopildi.",
     "widget error message text": "vidjet xatosi xabari matni",
     "widget warning message text": "vidjet ogohlantirish xati matni"
 }

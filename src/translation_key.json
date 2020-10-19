@@ -7,6 +7,12 @@
         "passed": {
             "aria_label": "hCaptcha checkbox. You are verified I am human."
         },
+        "challenge_expired": {
+          "aria_label": "hCaptcha security token has expired. Please complete the challenge again."
+        },
+        "token_expired": {
+          "aria_label": "hCaptcha window closed due to timeout."
+        },
         "interface": {
             "logo": {
                 "aria_label": "The hCaptcha user information page. Learn more about the service and accessibility options."

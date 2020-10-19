@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "ايڇ سيپچا چيڪ باڪس. توهان تصديق ڪيو ته آئون انسان آهيان.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ visitاڻ لاءِ دورو ڪريو",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ھڪڙي سروس آھي جيڪا سادي سوالن جي ڪري بوٽن ۽ اسپام کي گھٽائي ٿي. مهرباني ڪري هر چئلينج لاءِ اسڪرين جي مٿان ڏنل هدايتن تي عمل ڪريو. وڌيڪ معلومات لاءِ {{site-url}} جو دورو ڪريو",
+    "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha سيڪيورٽي ٽوڪ ختم ٿي چڪو آهي. مهرباني ڪري ٻيهر چيلينج مڪمل ڪريو.",
+    "hCaptcha window closed due to timeout.": "وقت ختم ٿيڻ جي ڪري hCaptcha ونڊو بند ٿي وئي.",
     "widget error message text": "ويجيٽ جي غلطي پيغام جو متن",
     "widget warning message text": "ويجهڙائي واري پيغام جي متن جو متن"
 }

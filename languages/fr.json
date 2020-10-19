@@ -89,6 +89,8 @@
     "hCaptcha checkbox. You are verified I am human.": "Case à cocher hCaptcha. Vous êtes vérifié que je suis humain.",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha est un service qui réduit les robots et les spams en posant des questions simples. Veuillez suivre les instructions en haut de l&#39;écran pour chaque défi. Pour plus d&#39;informations, visitez",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha est un service qui réduit les bots et le spam en posant des questions simples. Veuillez suivre les instructions en haut de l&#39;écran pour chaque défi. Pour plus d&#39;informations, visitez {{site-url}}",
+    "hCaptcha security token has expired. Please complete the challenge again.": "Le jeton de sécurité hCaptcha a expiré. Veuillez relever le défi à nouveau.",
+    "hCaptcha window closed due to timeout.": "La fenêtre hCaptcha s&#39;est fermée en raison d&#39;un délai d&#39;expiration.",
     "widget error message text": "texte du message d&#39;erreur du widget",
     "widget warning message text": "widget message d&#39;avertissement texte"
 }
