@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - "stable"
+script: tests/validate.sh
+before_install:
+  - npm install jsonlint -g
