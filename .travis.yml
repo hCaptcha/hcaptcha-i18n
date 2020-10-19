@@ -1,6 +1,6 @@
-language: node_js
-node_js:
-  - "stable"
+language: generic
+addons:
+    apt:
+        packages:
+            - jq
 script: "bash tests/validate.sh"
-before_install:
-  - npm install jsonlint -g

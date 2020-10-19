@@ -1,2 +1,3 @@
 #!/bin/sh
-find . -type f -exec jsonlint -q '{}' +
+
+"find . -not -path './node_modules/*' -type f -name '*.json' | while read json; do echo $json ; jq . $json; done
