@@ -41,7 +41,8 @@
         "status": {
             "400" : "Rate limited or network error. Please retry.",
             "429": "Your computer or network has sent too many requests.",
-            "500": "Cannot contact hCaptcha. Check your connection and try again."
+            "500": "Cannot contact hCaptcha. Check your connection and try again.",
+            "invalid-challenge": "Invalid challenge."
         }
     },
 
