@@ -95,6 +95,9 @@
             },
             "report": {
                 "text": "Please select an image to report."
+            },
+            "language_selector": {
+                "aria_label": "Select a language:" 
             }
         },
         "modal": {
@@ -235,6 +238,12 @@
             },
             "none_skip": {
                 "text": "If there are None, click Skip"
+            },
+            "examples_expand": {
+                "aria_label": "View more examples."
+            },
+            "examples_image": {
+                "aria_label": "Example image"
             }
         }
     },
