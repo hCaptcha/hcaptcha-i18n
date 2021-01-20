@@ -5,7 +5,7 @@
             "aria_label": "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie."
         },
         "passed": {
-            "aria_label": "hCaptcha checkbox. You are verified I am human."
+            "aria_label": "hCaptcha checkbox. You are verified"
         },
         "challenge_expired": {
           "aria_label": "hCaptcha security token has expired. Please complete the challenge again."
