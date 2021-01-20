@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Poileasaidh Dìomhaireachd hCaptcha",
     "hCaptcha Terms of Service": "Cumhachan Seirbheis hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "bogsa sgrùdaidh hCaptcha. Tagh gus an dùbhlan a bhrosnachadh, no gus faighinn seachad air ma tha briosgaid ruigsinneachd agad.",
-    "hCaptcha checkbox. You are verified I am human.": "bogsa sgrùdaidh hCaptcha. Tha thu air do dhearbhadh gu bheil mi daonna.",
+    "hCaptcha checkbox. You are verified": "bogsa sgrùdaidh hCaptcha. Tha thu air do dhearbhadh",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Tha hCaptcha na sheirbheis a tha a ’lughdachadh botaichean agus spama le bhith a’ faighneachd cheistean sìmplidh. Feuch an lean thu an stiùireadh aig mullach na sgrìn airson gach dùbhlan. Airson tuilleadh fiosrachaidh tadhal air",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Tha hCaptcha na sheirbheis a tha a ’lughdachadh botaichean agus spama le bhith a’ faighneachd cheistean sìmplidh. Feuch an lean thu an stiùireadh aig mullach na sgrìn airson gach dùbhlan. Airson tuilleadh fiosrachaidh, tadhal air {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Tha tòcan tèarainteachd hCaptcha air tighinn gu crìch. Feuch an cuir thu crìoch air an dùbhlan a-rithist.",

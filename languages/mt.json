@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Privacy Policy",
     "hCaptcha Terms of Service": "Termini tas-Servizz hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "kaxxa ta &#39;kontroll hCaptcha Agħżel sabiex twassal l-isfida, jew biex tevitaha jekk ikollok cookie għall-aċċessibilità.",
-    "hCaptcha checkbox. You are verified I am human.": "kaxxa ta &#39;kontroll hCaptcha Int ivverifikat li jien bniedem.",
+    "hCaptcha checkbox. You are verified": "hCaptcha checkbox. Int ivverifikat",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha huwa servizz li jnaqqas il-bot u l-ispam billi jistaqsi mistoqsijiet sempliċi. Jekk jogħġbok segwi l-istruzzjonijiet fil-parti ta ’fuq tal-iskrin għal kull sfida. Għal aktar tagħrif żur",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha huwa servizz li jnaqqas il-bots u l-ispam billi jistaqsi mistoqsijiet sempliċi. Jekk jogħġbok segwi l-istruzzjonijiet fil-quċċata tal-iskrin għal kull sfida. Għal aktar informazzjoni żur {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "It-token tas-sigurtà hCaptcha skada. Jekk jogħġbok erġa &#39;imla l-isfida.",

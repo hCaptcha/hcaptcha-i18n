@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Məxfilik Siyasəti",
     "hCaptcha Terms of Service": "hCaptcha xidmət şərtləri",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha onay qutusu. Çətinliyi başlatmaq və ya əlçatan bir çereziniz varsa onu keçmək üçün seçin.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha onay qutusu. Sən mənim insan olduğumu təsdiqlədin.",
+    "hCaptcha checkbox. You are verified": "hCaptcha onay qutusu. Doğrulandınız",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha, sadə suallar verməklə botları və spamları azaldan bir xidmətdir. Zəhmət olmasa, hər bir problem üçün ekranın yuxarısındakı təlimatlara əməl edin. Daha çox məlumat üçün",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha, sadə suallar verərək botları və spamları azaldan bir xidmətdir. Zəhmət olmasa hər problem üçün ekranın yuxarı hissəsindəki təlimatları izləyin. Daha çox məlumat üçün {{site-url}} saytına daxil olun",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha təhlükəsizlik nişanının müddəti bitdi. Xahiş edirəm problemi yenidən tamamlayın.",

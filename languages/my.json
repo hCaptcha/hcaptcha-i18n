@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha သီးသန့်လုံခြုံရေးမူဝါဒ",
     "hCaptcha Terms of Service": "hCaptcha ဝန်ဆောင်မှုသတ်မှတ်ချက်များ",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha checkbox ။ အကယ်၍ သင့်တွင်လက်လှမ်းမီနိုင်သည့် cookie ရှိပါကစိန်ခေါ်မှုဖြစ်စေရန်သို့မဟုတ်၎င်းကိုကျော်လွှားရန်ရွေးချယ်ပါ။",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox ။ ငါဟာလူသားဖြစ်ကြောင်းအတည်ပြုပြီး",
+    "hCaptcha checkbox. You are verified": "hCaptcha အမှန်ခြစ်။ သင်အတည်ပြုပြီးပါ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha သည်ရိုးရှင်းသောမေးခွန်းများမေးခြင်းဖြင့် bot နှင့် spam များကိုလျှော့ချပေးသော ၀ န်ဆောင်မှုတစ်ခုဖြစ်သည်။ စိန်ခေါ်မှုတစ်ခုစီအတွက်မျက်နှာပြင်၏ထိပ်ရှိညွှန်ကြားချက်များကိုလိုက်နာပါ။ ပိုမိုသိရှိလိုပါကသွားရောက်ကြည့်ရှုသည်",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha သည်ရိုးရှင်းသောမေးခွန်းများမေးခြင်းဖြင့် bot နှင့် spam များကိုလျှော့ချပေးသော ၀ န်ဆောင်မှုတစ်ခုဖြစ်သည်။ စိန်ခေါ်မှုတစ်ခုစီအတွက်မျက်နှာပြင်၏ထိပ်ရှိညွှန်ကြားချက်များကိုလိုက်နာပါ။ အသေးစိတ်သိလိုပါက {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha လုံခြုံရေးတိုကင်သည်ကုန်သွားပြီ။ ကျေးဇူးပြု၍ စိန်ခေါ်မှုကိုထပ်မံဖြည့်စွက်ပါ။",

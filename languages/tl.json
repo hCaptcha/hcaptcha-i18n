@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Patakaran sa Pagkapribado",
     "hCaptcha Terms of Service": "hCaptcha Mga Tuntunin ng Serbisyo",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "checkbox ng hCaptcha. Piliin upang ma-trigger ang hamon, o upang malampasan ito kung mayroon kang cookie sa pag-access.",
-    "hCaptcha checkbox. You are verified I am human.": "checkbox ng hCaptcha. Patunayan mo na ako ay tao.",
+    "hCaptcha checkbox. You are verified": "checkbox ng hCaptcha. Napatunayan ka",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Ang hCaptcha ay isang serbisyo na binabawasan ang mga bot at spam sa pamamagitan ng pagtatanong ng mga simpleng katanungan. Mangyaring sundin ang mga tagubilin sa tuktok ng screen para sa bawat hamon. Para sa karagdagang impormasyon sa pagbisita",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Ang hCaptcha ay isang serbisyo na binabawasan ang mga bot at spam sa pamamagitan ng pagtatanong ng mga simpleng katanungan. Mangyaring sundin ang mga tagubilin sa tuktok ng screen para sa bawat hamon. Para sa karagdagang impormasyon bisitahin ang {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Nag-expire na ang token ng seguridad ng hCaptcha. Mangyaring kumpletuhin muli ang hamon.",

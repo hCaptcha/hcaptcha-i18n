@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Polîtîkaya Ragihandinê ya HCaptcha",
     "hCaptcha Terms of Service": "Mercên karûbarê hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "qutiya kontrolê ya hCaptcha. Hilbijêrin da ku hûn tehlûkeyê bifroşînin, an jî heke we bigihîje desteknameyek pê ve ew ê dorpêç bikin.",
-    "hCaptcha checkbox. You are verified I am human.": "qutiya kontrolê ya hCaptcha. Te rastkirin ku ez însan im.",
+    "hCaptcha checkbox. You are verified": "qutiya hCaptcha. Hûn têne pejirandin",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha karûbarek e ku pirsên hêsan bi bots û spam kêm dike. Ji kerema xwe ji bo her pirsgirêkê li jor li ser ekranê fermannameyê bişopînin. Ji bo bêtir agahdarî biçin",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha karûbarek e ku botan û spam kêm dike bi pirsên hêsan. Ji kerema xwe ji bo her dijwarî talîmatên li jorê dîmenderê bişopînin. Ji bo bêtir agahdarî biçin serdana {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "nîşana ewlehiyê ya hCaptcha qediya. Ji kerema xwe pirsgirêk dîsa temam bikin.",

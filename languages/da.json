@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha fortrolighedspolitik",
     "hCaptcha Terms of Service": "hCaptcha Servicevilkår",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha-afkrydsningsfelt. Vælg for at udløse udfordringen eller omgå den, hvis du har en cookie til tilgængelighed.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha-afkrydsningsfelt. Du er verificeret, at jeg er menneske.",
+    "hCaptcha checkbox. You are verified": "afkrydsningsfeltet hCaptcha. Du er bekræftet",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha er en service, der reducerer bots og spam ved at stille enkle spørgsmål. Følg instruktionerne øverst på skærmen for hver udfordring. For mere info besøg",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha er en tjeneste, der reducerer bots og spam ved at stille enkle spørgsmål. Følg instruktionerne øverst på skærmen for hver udfordring. Få flere oplysninger på {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha sikkerhedstoken er udløbet. Gennemfør udfordringen igen.",

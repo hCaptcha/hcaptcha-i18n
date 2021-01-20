@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "គោលការណ៍ភាពឯកជន hCaptcha",
     "hCaptcha Terms of Service": "ល័ក្ខខ័ណ្ឌនៃសេវាកម្ម hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "ប្រអប់ធីក hCaptcha ។ ជ្រើសរើសដើម្បីកេះការប្រកួតប្រជែងឬចៀសវៀងពីវាប្រសិនបើអ្នកមានខូឃីងាយស្រួល។",
-    "hCaptcha checkbox. You are verified I am human.": "ប្រអប់ធីក hCaptcha ។ អ្នកត្រូវបានបញ្ជាក់ថាខ្ញុំជាមនុស្ស។",
+    "hCaptcha checkbox. You are verified": "ប្រអប់ធីក hCaptcha ។ អ្នកត្រូវបានផ្ទៀងផ្ទាត់",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha គឺជាសេវាកម្មដែលជួយកាត់បន្ថយរូបយន្តនិងសារឥតបានការដោយសួរសំណួរងាយៗ។ សូមអនុវត្តតាមការណែនាំនៅផ្នែកខាងលើនៃអេក្រង់សម្រាប់បញ្ហាប្រឈមនីមួយៗ។ សម្រាប់ព័ត៌មានបន្ថែមសូមទស្សនា",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha គឺជាសេវាកម្មដែលជួយកាត់បន្ថយរូបយន្តនិងសារឥតបានការដោយសួរសំណួរងាយៗ។ សូមអនុវត្តតាមការណែនាំនៅផ្នែកខាងលើនៃអេក្រង់សម្រាប់បញ្ហាប្រឈមនីមួយៗ។ សម្រាប់ព័ត៌មានបន្ថែមសូមទស្សនា {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "និមិត្តសញ្ញាសន្តិសុខ hCaptcha បានផុតកំណត់ហើយ។ សូមបំពេញការប្រឈមម្តងទៀត។",

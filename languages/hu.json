@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Adatvédelmi irányelvek",
     "hCaptcha Terms of Service": "hCaptcha Általános Szolgáltatási Feltételek",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha jelölőnégyzet. Válassza ki a captcha megoldásához, vagy annak megkerüléséhez, ha be van állítva az akadálymentesítő süti.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha jelölőnégyzet. Ön tényleg ember.",
+    "hCaptcha checkbox. You are verified": "hCaptcha jelölőnégyzet. Ellenőrizték",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "A hCaptcha olyan szolgáltatás, amely egyszerű kérdések feltevésével csökkenti a robotok és a spam számát. Kérjük, kövesse a képernyő tetején található utasításokat a captcha megoldásához. További információért látogasson el",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "A hCaptcha olyan szolgáltatás, amely egyszerű kérdések feltevésével csökkenti a robotok és a spam számát. Kérjük, kövesse a képernyő tetején található utasításokat a captcha megoldásához. További információért látogasson el a {{site-url}} oldalra",
     "hCaptcha security token has expired. Please complete the challenge again.": "A hCaptcha biztonsági token lejárt. Kérjük próbálja újra a captcha megoldását.",

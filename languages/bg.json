@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Политика за поверителност на hCaptcha",
     "hCaptcha Terms of Service": "hCaptcha Общи условия",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "отметка в hCaptcha. Изберете, за да задействате предизвикателството или да го заобиколите, ако имате бисквитка за достъпност.",
-    "hCaptcha checkbox. You are verified I am human.": "отметка в hCaptcha. Вие сте потвърдени, че съм човек.",
+    "hCaptcha checkbox. You are verified": "квадратче за отметка hCaptcha. Вие сте потвърдени",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha е услуга, която намалява ботове и спам, като задава прости въпроси. Моля, следвайте инструкциите в горната част на екрана за всяко предизвикателство. За повече информация посетете",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha е услуга, която намалява ботовете и спама, като задава прости въпроси. Моля, следвайте инструкциите в горната част на екрана за всяко предизвикателство. За повече информация посетете {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Токенът за защита на hCaptcha изтече. Моля, завършете отново предизвикателството.",

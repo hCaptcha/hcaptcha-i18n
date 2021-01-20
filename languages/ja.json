@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptchaプライバシーポリシー",
     "hCaptcha Terms of Service": "hCaptcha利用規約",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptchaチェックボックス。チャレンジをトリガーするか、ユーザー補助Cookieがある場合はそれをバイパスするために選択します。",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptchaチェックボックス。あなたは私が人間であることを確認されています。",
+    "hCaptcha checkbox. You are verified": "hCaptchaチェックボックス。確認済み",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptchaは、簡単な質問をすることでボットとスパムを減らすサービスです。各チャレンジについて、画面上部の指示に従ってください。詳しくはこちらをご覧ください",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptchaは、簡単な質問をすることでボットやスパムを減らすサービスです。各チャレンジについて、画面上部の指示に従ってください。詳細については、{{site-url}}をご覧ください。",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptchaセキュリティトークンの有効期限が切れています。もう一度チャレンジを完了してください。",

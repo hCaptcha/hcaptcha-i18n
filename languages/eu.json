@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Pribatutasun Politika",
     "hCaptcha Terms of Service": "hCaptcha Zerbitzuaren baldintzak",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha kontrol-laukia. Hautatu erronka pizteko edo saihesteko erabilerraztasun cookie bat baduzu.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha kontrol-laukia. Egia da gizakia naizela egiaztatuta.",
+    "hCaptcha checkbox. You are verified": "hCaptcha kontrol laukia. Egiaztatuta zaude",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha galdera errazak eginez bot eta spam murrizten dituen zerbitzua da. Jarraitu pantailaren goiko aldean argibideak erronka bakoitzerako. Informazio gehiago nahi izanez gero, bisitatu",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha galdera errazak eginez bot-ak eta spam-ak murrizten dituen zerbitzua da. Jarraitu erronka bakoitzaren pantailaren goialdeko argibideak. Informazio gehiagorako bisitatu {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha segurtasun token iraungita dago. Mesedez, bete erronka berriro.",

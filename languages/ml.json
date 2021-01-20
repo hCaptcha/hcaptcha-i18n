@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha സ്വകാര്യതാ നയം",
     "hCaptcha Terms of Service": "hCaptcha സേവന നിബന്ധനകൾ",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha ചെക്ക്ബോക്സ്. വെല്ലുവിളി പ്രവർത്തനക്ഷമമാക്കുന്നതിന് തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ നിങ്ങൾക്ക് പ്രവേശനക്ഷമത കുക്കി ഉണ്ടെങ്കിൽ അത് മറികടക്കുക.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha ചെക്ക്ബോക്സ്. ഞാൻ മനുഷ്യനാണെന്ന് നിങ്ങൾ സ്ഥിരീകരിച്ചു.",
+    "hCaptcha checkbox. You are verified": "hCaptcha ചെക്ക്ബോക്സ്. നിങ്ങൾ പരിശോധിച്ചുറപ്പിച്ചു",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും ദയവായി സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് സന്ദർശിക്കുക",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "ലളിതമായ ചോദ്യങ്ങൾ ചോദിച്ച് ബോട്ടുകളും സ്പാമും കുറയ്ക്കുന്ന ഒരു സേവനമാണ് hCaptcha. ഓരോ വെല്ലുവിളിക്കും സ്ക്രീനിന്റെ മുകളിലുള്ള നിർദ്ദേശങ്ങൾ പാലിക്കുക. കൂടുതൽ വിവരങ്ങൾക്ക് {{site-url}} visit visit സന്ദർശിക്കുക",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha സുരക്ഷാ ടോക്കൺ കാലഹരണപ്പെട്ടു. വെല്ലുവിളി വീണ്ടും പൂർത്തിയാക്കുക.",

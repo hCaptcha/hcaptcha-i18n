@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha 개인 정보 보호 정책",
     "hCaptcha Terms of Service": "hCaptcha 서비스 약관",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha 확인란. 챌린지를 실행하거나 접근성 쿠키가있는 경우이를 무시하려면 선택하십시오.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha 확인란. 당신은 내가 인간임을 확인했습니다.",
+    "hCaptcha checkbox. You are verified": "hCaptcha 확인란. 당신은 확인되었습니다",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha는 간단한 질문을 통해 봇과 스팸을 줄이는 서비스입니다. 각 챌린지마다 화면 상단의 지침을 따르십시오. 더 많은 정보를 원하시면",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha는 간단한 질문으로 봇과 스팸을 줄이는 서비스입니다. 각 도전에 대해 화면 상단의 지침을 따르십시오. 자세한 내용은 {{site-url}}을 참조하세요.",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha 보안 토큰이 만료되었습니다. 다시 도전 해주세요.",

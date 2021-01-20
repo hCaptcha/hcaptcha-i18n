@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Kawijakan Privasi hCaptcha",
     "hCaptcha Terms of Service": "Syarat Layanan hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "kotak hCaptcha. Pilih kanggo memicu tangtangan, atanapi ngiringan upami anjeun gaduh cookie aksésibilitas.",
-    "hCaptcha checkbox. You are verified I am human.": "kotak hCaptcha. Anjeun diverifikasi kuring ogé manusa.",
+    "hCaptcha checkbox. You are verified": "kotak centang hCaptcha. Anjeun parantos diverifikasi",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha nyaéta layanan anu ngirangan bot sareng spam ku nanyakeun patarosan anu sederhana. Punten tuturkeun petunjuk di luhur layar pikeun tiap tantangan. Kanggo inpo langkung lengkep",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha nyaéta layanan anu ngirangan bot sareng spam ku naroskeun patarosan anu saderhana. Punten turutan pitunjuk di luhur layar pikeun tiap tangtangan. Kanggo langkung seueur inpormasi kunjungi {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "token kaamanan hCaptcha parantos kadaluwarsa. Punten lengkepan tangtangan deui.",

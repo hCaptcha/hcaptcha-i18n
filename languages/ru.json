@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Политика конфиденциальности hCaptcha",
     "hCaptcha Terms of Service": "Условия использования hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "Флажок hCaptcha. Выберите, чтобы пройти задание или обойти его, если у вас есть файл cookie доступности.",
-    "hCaptcha checkbox. You are verified I am human.": "Флажок hCaptcha. Вы провереный Ячеловек.",
+    "hCaptcha checkbox. You are verified": "Флажок hCaptcha. Вы проверены",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha - это сервис, который уменьшает количество ботов и спама, задавая простые вопросы. Пожалуйста, следуйте инструкциям в верхней части экрана для каждого испытания. Для получения дополнительной информации посетите",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - это сервис, который уменьшает количество ботов и спама, задавая простые вопросы. Следуйте инструкциям в верхней части экрана. Для получения дополнительной информации посетите {{site-url}}.",
     "hCaptcha security token has expired. Please complete the challenge again.": "Срок действия токена безопасности hCaptcha истек. Пожалуйста, выполните задание еще раз.",

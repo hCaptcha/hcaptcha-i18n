@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha privaatsuseeskirjad",
     "hCaptcha Terms of Service": "hCaptcha teenusetingimused",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha ruut. Valige väljakutse esilekutsumiseks või sellest pääsemiseks, kui teil on juurdepääsetavuse küpsis.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha ruut. Teile on kinnitatud, et ma olen inimene.",
+    "hCaptcha checkbox. You are verified": "hCaptcha märkeruut. Teid kontrollitakse",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha on teenus, mis vähendab robotite ja rämpsposti arvu, esitades lihtsaid küsimusi. Järgige iga väljakutse jaoks ekraani ülaosas olevaid juhiseid. Lisateabe saamiseks külastage",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha on teenus, mis vähendab roboteid ja rämpsposti, esitades lihtsaid küsimusi. Järgige iga väljakutse jaoks ekraani ülaosas olevaid juhiseid. Lisateabe saamiseks külastage aadressi {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha turbetunnus on aegunud. Palun täitke väljakutse uuesti.",

@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Informativa sulla privacy di hCaptcha",
     "hCaptcha Terms of Service": "Termini di servizio di hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "casella di controllo hCaptcha. Selezionare per attivare la sfida o ignorarla se si dispone di un cookie di accessibilità.",
-    "hCaptcha checkbox. You are verified I am human.": "casella di controllo hCaptcha. Hai verificato che sono umano.",
+    "hCaptcha checkbox. You are verified": "Casella di controllo hCaptcha. Sei verificato",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha è un servizio che riduce i bot e lo spam ponendo semplici domande. Seguire le istruzioni nella parte superiore dello schermo per ogni sfida. Per maggiori informazioni visita",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha è un servizio che riduce i bot e lo spam facendo semplici domande. Segui le istruzioni nella parte superiore dello schermo per ogni sfida. Per ulteriori informazioni, visita {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Il token di sicurezza hCaptcha è scaduto. Completa di nuovo la sfida.",

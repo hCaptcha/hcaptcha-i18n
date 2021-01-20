@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Politica de confidențialitate hCaptcha",
     "hCaptcha Terms of Service": "hCaptcha Termeni și servicii",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "caseta de selectare hCaptcha. Selectați pentru a declanșa provocarea sau pentru a o ocoli dacă aveți un cookie de accesibilitate.",
-    "hCaptcha checkbox. You are verified I am human.": "caseta de selectare hCaptcha. Ai verificat că sunt om.",
+    "hCaptcha checkbox. You are verified": "caseta de selectare hCaptcha. Sunteți verificat",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha este un serviciu care reduce bot-urile și spam-ul punând întrebări simple. Vă rugăm să urmați instrucțiunile din partea de sus a ecranului pentru fiecare provocare. Pentru mai multe informații, vizitați",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha este un serviciu care reduce roboții și spamul prin adresarea de întrebări simple. Vă rugăm să urmați instrucțiunile din partea de sus a ecranului pentru fiecare provocare. Pentru mai multe informații, accesați {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Jetonul de securitate hCaptcha a expirat. Vă rugăm să finalizați din nou provocarea.",

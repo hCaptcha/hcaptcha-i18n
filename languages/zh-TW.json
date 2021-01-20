@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha隱私政策",
     "hCaptcha Terms of Service": "hCaptcha服務條款",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha複選框。選擇以觸發挑戰，或者如果您具有可訪問性cookie，則繞過它。",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha複選框。您已確認我是人類。",
+    "hCaptcha checkbox. You are verified": "hCaptcha複選框。您已通過驗證",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha是一項通過詢問簡單問題來減少机器人程序和垃圾郵件的服務。對於每個挑戰，請按照屏幕上方的說明進行操作。欲了解更多信息，請参考",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha是一項通過詢問簡單問題來減少殭屍程序和垃圾郵件的服務。對於每個挑戰，請按照屏幕頂部的說明進行操作。有關更多信息，請訪問{{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha安全令牌已過期。請再次完成挑戰。",

@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Πολιτική απορρήτου hCaptcha",
     "hCaptcha Terms of Service": "Όροι Παροχής Υπηρεσιών hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "πλαίσιο ελέγχου hCaptcha. Επιλέξτε για να ενεργοποιήσετε την πρόκληση ή για να την παρακάμψετε εάν έχετε cookie προσβασιμότητας.",
-    "hCaptcha checkbox. You are verified I am human.": "πλαίσιο ελέγχου hCaptcha. Είστε επαληθευμένοι ότι είμαι άνθρωπος.",
+    "hCaptcha checkbox. You are verified": "πλαίσιο ελέγχου hCaptcha. Είστε επαληθευμένοι",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Το hCaptcha είναι μια υπηρεσία που μειώνει τα bots και τα spam, κάνοντας απλές ερωτήσεις. Ακολουθήστε τις οδηγίες στο επάνω μέρος της οθόνης για κάθε πρόκληση. Για περισσότερες πληροφορίες επισκεφθείτε",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Το hCaptcha είναι μια υπηρεσία που μειώνει τα bots και τα spam, κάνοντας απλές ερωτήσεις. Ακολουθήστε τις οδηγίες στο επάνω μέρος της οθόνης για κάθε πρόκληση. Για περισσότερες πληροφορίες επισκεφτείτε τη διεύθυνση {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Το διακριτικό ασφαλείας hCaptcha έχει λήξει. Ολοκληρώστε ξανά την πρόκληση.",

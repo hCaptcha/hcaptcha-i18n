@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "umgaqo-nkqubo wabucala we-hCaptcha",
     "hCaptcha Terms of Service": "Imigaqo yenkonzo ye-hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "ibhokisi yokujonga ye-hCaptcha. Khetha ukuze uqale ucelomngeni, okanye ugqithise kulo ukuba unokufumana ikuki.",
-    "hCaptcha checkbox. You are verified I am human.": "ibhokisi yokujonga ye-hCaptcha. Uqinisekisiwe ndingumntu.",
+    "hCaptcha checkbox. You are verified": "ibhokisi yokujonga ye-hCaptcha. Uqinisekisiwe",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "I-hCaptcha yinkonzo enciphisa i-bots kunye ne-spam ngokubuza imibuzo elula. Nceda ulandele imiyalelo ephezulu kwesikrini kumngeni ngamnye. Ngolunye ulwazi undwendwela",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "I-hCaptcha yinkonzo enciphisa i-bots kunye nogaxekile ngokubuza imibuzo elula. Nceda ulandele imiyalelo ephezulu kwesikrini kumceli mngeni ngamnye. Ngolwazi oluthe kratya ndwendwela {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Ithokheni yokhuseleko ye-hCaptcha iphelelwe lixesha. Nceda ugcwalise umceli mngeni kwakhona.",

@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha গোপনীয়তা নীতি",
     "hCaptcha Terms of Service": "hCaptcha পরিষেবার শর্তাদি",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha চেকবক্স। চ্যালেঞ্জটি ট্রিগার করতে বা আপনার অ্যাক্সেসিবিলিটি কুকি থাকলে তা বাইপাস করতে নির্বাচন করুন।",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha চেকবক্স। আপনি যাচাই করেছেন আমি মানুষ।",
+    "hCaptcha checkbox. You are verified": "hCaptcha চেকবক্স। আপনি যাচাই করেছেন",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha একটি পরিষেবা যা সহজ প্রশ্ন জিজ্ঞাসা করে বট এবং স্প্যাম হ্রাস করে। প্রতিটি চ্যালেঞ্জের জন্য দয়া করে পর্দার শীর্ষে থাকা নির্দেশাবলী অনুসরণ করুন। আরও তথ্যের জন্য দেখুন",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha একটি পরিষেবা যা সহজ প্রশ্ন জিজ্ঞাসা করে বট এবং স্প্যাম হ্রাস করে। প্রতিটি চ্যালেঞ্জের জন্য দয়া করে পর্দার শীর্ষে থাকা নির্দেশাবলী অনুসরণ করুন। আরও তথ্যের জন্য {{site-url}} দেখুন",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha সুরক্ষা টোকেনের মেয়াদ শেষ হয়ে গেছে। আবার চ্যালেঞ্জ সম্পূর্ণ করুন।",

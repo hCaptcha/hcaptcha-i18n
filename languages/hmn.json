@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Txoj Cai Tswjfwm Ntiag Tug",
     "hCaptcha Terms of Service": "hCaptcha Cov Lus Qhia Kev Pabcuam",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha checkbox. Xaiv nyob rau hauv kev txiav txim siab mus rau tawm kev sib tw, los yog yuav hla nws yog hais tias koj muaj ib tug cuag khoom qab zib.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha checkbox. Koj muaj tseeb koj yog neeg.",
+    "hCaptcha checkbox. You are verified": "hCaptcha checkbox. Koj mus nrhiav tau lawm tiag",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha yog qhov kev pabcuam uas txo bots thiab spam los ntawm kev nug cov lus nug yooj yim. Thov ua raws li cov lus qhia nyob rau sab saum toj ntawm kev tshuaj ntsuam rau txhua qhov kev sib tw. Rau cov ntaub ntawv txuas ntxiv mus ntsib",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha yog qhov kev pabcuam uas txo bots thiab spam los ntawm kev nug cov lus nug yooj yim. Thov ua raws li cov lus qhia nyob rau sab saum toj ntawm kev tshuaj ntsuam rau txhua qhov kev sib tw. Yog xav paub ntxiv mus xyuas {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha kev ruaj ntseg token tau tas sijhawm lawm. Thov ua kom tiav qhov kev sib tw ntxiv.",

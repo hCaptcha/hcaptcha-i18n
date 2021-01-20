@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha persónuverndarstefna",
     "hCaptcha Terms of Service": "Þjónustuskilmálar hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha gátreitinn. Veldu til að kalla fram áskorunina eða komast framhjá henni ef þú ert með aðgengiskökur.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha gátreitinn. Þú ert staðfest að ég er mannlegur.",
+    "hCaptcha checkbox. You are verified": "hCaptcha gátreitur. Þú ert staðfest",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha er þjónusta sem dregur úr vélum og ruslpósti með því að spyrja einfaldra spurninga. Vinsamlegast fylgdu leiðbeiningunum efst á skjánum fyrir hverja áskorun. Fyrir frekari upplýsingar heimsækja",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha er þjónusta sem dregur úr bots og ruslpósti með því að spyrja einfaldra spurninga. Vinsamlegast fylgdu leiðbeiningunum efst á skjánum fyrir hverja áskorun. Nánari upplýsingar er að finna á {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "öryggismerki hCaptcha er útrunnið. Vinsamlegast klárið áskorunina aftur.",

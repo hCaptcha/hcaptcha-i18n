@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha Zásady ochrany osobných údajov",
     "hCaptcha Terms of Service": "hCaptcha Podmienky služby",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "Začiarknite políčko hCaptcha. Vyberte, ak chcete výzvu spustiť, alebo ju vynechajte, ak máte súbor cookie prístupu.",
-    "hCaptcha checkbox. You are verified I am human.": "Začiarknite políčko hCaptcha. Máte overené, že som človek.",
+    "hCaptcha checkbox. You are verified": "začiarkavacie políčko hCaptcha. Ste overení",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha je služba, ktorá obmedzuje roboty a spam kladením jednoduchých otázok. Pri každej výzve postupujte podľa pokynov v hornej časti obrazovky. Pre viac informácií navštívte",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha je služba, ktorá kladením jednoduchých otázok obmedzuje výskyt robotov a spamu. Pri každej výzve postupujte podľa pokynov v hornej časti obrazovky. Viac informácií nájdete na {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Platnosť bezpečnostného tokenu hCaptcha uplynula. Dokončite výzvu znova.",

@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Chính sách bảo mật của hCaptcha",
     "hCaptcha Terms of Service": "Điều khoản dịch vụ của hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hộp kiểm hCaptcha. Chọn để kích hoạt thử thách hoặc bỏ qua nếu bạn có cookie trợ năng.",
-    "hCaptcha checkbox. You are verified I am human.": "hộp kiểm hCaptcha. Bạn được xác minh tôi là con người.",
+    "hCaptcha checkbox. You are verified": "hộp kiểm hCaptcha. Bạn đã được xác minh",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha là một dịch vụ giúp giảm bot và spam bằng cách hỏi những câu hỏi đơn giản. Vui lòng làm theo các hướng dẫn ở trên cùng của màn hình cho mỗi thử thách. Để biết thêm thông tin truy cập",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha là một dịch vụ giúp giảm thiểu chương trình và thư rác bằng cách đặt những câu hỏi đơn giản. Vui lòng làm theo hướng dẫn ở đầu màn hình cho mỗi thử thách. Để biết thêm thông tin, hãy truy cập {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Mã thông báo bảo mật hCaptcha đã hết hạn. Vui lòng hoàn thành thử thách một lần nữa.",

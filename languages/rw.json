@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Politiki Yibanga",
     "hCaptcha Terms of Service": "hCaptcha Amasezerano ya serivisi",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "agasanduku k&#39;isanduku. Hitamo kugirango utere ikibazo, cyangwa kurenga niba ufite kuki ishobora kugerwaho.",
-    "hCaptcha checkbox. You are verified I am human.": "agasanduku k&#39;isanduku. Uremejwe ko ndi umuntu.",
+    "hCaptcha checkbox. You are verified": "agasanduku k&#39;isanduku. Urasuzumwe",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ni serivisi igabanya bots na spam mubaza ibibazo byoroshye. Nyamuneka kurikiza amabwiriza hejuru ya ecran kuri buri kibazo. Kubindi bisobanuro sura {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Ikimenyetso cyumutekano wa Captapt cyararangiye. Nyamuneka ongera urangize ikibazo.",

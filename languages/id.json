@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Kebijakan Privasi hCaptcha",
     "hCaptcha Terms of Service": "Ketentuan Layanan hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "kotak centang hCaptcha. Pilih untuk memicu tantangan, atau untuk memotongnya jika Anda memiliki cookie aksesibilitas.",
-    "hCaptcha checkbox. You are verified I am human.": "kotak centang hCaptcha. Anda diverifikasi saya manusia.",
+    "hCaptcha checkbox. You are verified": "kotak centang hCaptcha. Anda terverifikasi",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha adalah layanan yang mengurangi bot dan spam dengan mengajukan pertanyaan sederhana. Silakan ikuti instruksi di bagian atas layar untuk setiap tantangan. Untuk info lebih lanjut, kunjungi",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha adalah layanan yang mengurangi bot dan spam dengan mengajukan pertanyaan sederhana. Ikuti petunjuk di bagian atas layar untuk setiap tantangan. Untuk informasi lebih lanjut kunjungi {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Token keamanan hCaptcha telah kedaluwarsa. Harap selesaikan tantangannya lagi.",

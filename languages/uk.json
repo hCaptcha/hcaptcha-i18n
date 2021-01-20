@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Політика конфіденційності hCaptcha",
     "hCaptcha Terms of Service": "Загальні положення та умови hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "прапорець hCaptcha. Виберіть, щоб викликати виклик, або обійти його, якщо у вас є cookie-доступ.",
-    "hCaptcha checkbox. You are verified I am human.": "прапорець hCaptcha. Ви впевнені, що я людина.",
+    "hCaptcha checkbox. You are verified": "прапорець hCaptcha. Вас підтвердили",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha - це служба, яка зменшує боти та спам, задаючи прості запитання. Дотримуйтесь інструкцій у верхній частині екрана для кожного виклику. Для отримання додаткової інформації відвідайте",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - це послуга, яка зменшує кількість ботів та спаму, задаючи прості запитання. Будь ласка, дотримуйтесь інструкцій у верхній частині екрана для кожного завдання. Для отримання додаткової інформації відвідайте {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Термін дії маркера безпеки hCaptcha закінчився. Будь ласка, виконайте завдання ще раз.",

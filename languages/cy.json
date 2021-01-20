@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Polisi Preifatrwydd hCaptcha",
     "hCaptcha Terms of Service": "Telerau Gwasanaeth hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "blwch gwirio hCaptcha. Dewiswch er mwyn sbarduno&#39;r her, neu ei osgoi os oes gennych gwci hygyrchedd.",
-    "hCaptcha checkbox. You are verified I am human.": "blwch gwirio hCaptcha. Rydych chi&#39;n cael fy gwirio fy mod i&#39;n ddynol.",
+    "hCaptcha checkbox. You are verified": "blwch gwirio hCaptcha. Rydych chi&#39;n cael eich gwirio",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Mae hCaptcha yn wasanaeth sy&#39;n lleihau bots a sbam trwy ofyn cwestiynau syml. Dilynwch y cyfarwyddiadau ar frig y sgrin ar gyfer pob her. Am fwy o wybodaeth, ewch i",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Mae hCaptcha yn wasanaeth sy&#39;n lleihau bots a sbam trwy ofyn cwestiynau syml. Dilynwch y cyfarwyddiadau ar frig y sgrin ar gyfer pob her. Am fwy o wybodaeth, ewch i {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Mae tocyn diogelwch hCaptcha wedi dod i ben. Cwblhewch yr her eto.",

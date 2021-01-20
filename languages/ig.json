@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Iwu nzuzo nke hCaptcha",
     "hCaptcha Terms of Service": "usoro ọrụ hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "igbe hCaptcha. Họrọ iji kpalite ihe ịma aka, ma ọ bụ bufee ya ma ọ bụrụ na ị nwere kuki nnweta.",
-    "hCaptcha checkbox. You are verified I am human.": "igbe hCaptcha. Kwuputara na abum mmadu.",
+    "hCaptcha checkbox. You are verified": "hCaptcha igbe. Ikwenyela",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha bụ ọrụ na-ebelata bots na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka dị n’elu ihuenyo maka aka mgba ọ bụla. Maka ozi ndị ọzọ nleta",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha bụ ọrụ na-ebelata bọọlụ na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka ndị ahụ n’elu ihuenyo maka nsogbu ọ bụla. Maka ozi ndị ọzọ gaa na {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha akara ngosi ejirila kubie ume. Biko mezue nsogbu a.",

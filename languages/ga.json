@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Polasaí Príobháideachta hCaptcha",
     "hCaptcha Terms of Service": "Téarmaí Seirbhíse hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "ticbhosca hCaptcha. Roghnaigh d’fhonn an dúshlán a spreagadh, nó chun é a sheachbhóthar má tá fianán inrochtaineachta agat.",
-    "hCaptcha checkbox. You are verified I am human.": "ticbhosca hCaptcha. Fíoraítear gur duine mé.",
+    "hCaptcha checkbox. You are verified": "ticbhosca hCaptcha. Tá tú fíoraithe",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "Is seirbhís í hCaptcha a laghdaíonn bots agus spam trí cheisteanna simplí a chur. Lean na treoracha ag barr an scáileáin le haghaidh gach dúshláin. Le haghaidh tuilleadh faisnéise tabhair cuairt ar",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "Is seirbhís í hCaptcha a laghdaíonn bots agus spam trí cheisteanna simplí a chur. Lean na treoracha ag barr an scáileáin le haghaidh gach dúshláin. Le haghaidh tuilleadh faisnéise tabhair cuairt ar {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "Tá comhartha slándála hCaptcha imithe in éag. Comhlánaigh an dúshlán arís le do thoil.",

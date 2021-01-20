@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "سياسة خصوصية hCaptcha",
     "hCaptcha Terms of Service": "شروط خدمة hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "خانة الاختيار hCaptcha. اختر من أجل إثارة التحدي ، أو لتجاوزه إذا كان لديك ملف تعريف ارتباط لإمكانية الوصول.",
-    "hCaptcha checkbox. You are verified I am human.": "خانة الاختيار hCaptcha. تم التحقق من أنني بشر.",
+    "hCaptcha checkbox. You are verified": "مربع الاختيار hCaptcha. تم التحقق منك",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha هي خدمة تقلل من برامج الروبوت والبريد العشوائي من خلال طرح أسئلة بسيطة. يرجى اتباع التعليمات في الجزء العلوي من الشاشة لكل تحد. لمزيد من المعلومات زيارة",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha هي خدمة تقلل من الروبوتات والبريد العشوائي عن طريق طرح أسئلة بسيطة. يرجى اتباع التعليمات الموجودة أعلى الشاشة لكل تحد. لمزيد من المعلومات ، تفضل بزيارة {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "انتهت صلاحية رمز أمان hCaptcha. الرجاء إكمال التحدي مرة أخرى.",

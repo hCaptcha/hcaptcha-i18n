@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Política de privadesa de hCaptcha",
     "hCaptcha Terms of Service": "Condicions del servei de hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "Casella de selecció hCaptcha Seleccioneu aquesta opció per activar el desafiament o bé per ometre-la si teniu una cookie d’accessibilitat.",
-    "hCaptcha checkbox. You are verified I am human.": "Casella de selecció hCaptcha Heu verificat que sóc humà.",
+    "hCaptcha checkbox. You are verified": "Casella de selecció hCaptcha. Esteu verificat",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha és un servei que redueix els robots i el correu brossa fent preguntes senzilles. Seguiu les instruccions de la part superior de la pantalla per a cada repte. Per obtenir més informació, visiteu",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha és un servei que redueix els robots i el correu brossa fent preguntes senzilles. Seguiu les instruccions de la part superior de la pantalla per a cada repte. Per obtenir més informació, visiteu {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "El testimoni de seguretat hCaptcha ha caducat. Torneu a completar el repte.",

@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "מדיניות הפרטיות של hCaptcha",
     "hCaptcha Terms of Service": "תנאי השירות של hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "תיבת הסימון hCaptcha. בחר כדי לעורר את האתגר או לעקוף אותו אם יש לך עוגיית נגישות.",
-    "hCaptcha checkbox. You are verified I am human.": "תיבת הסימון hCaptcha. אתה מאומת שאני אנושי.",
+    "hCaptcha checkbox. You are verified": "תיבת הסימון hCaptcha. אתה מאומת",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha הוא שירות שמפחית בוטים וספאם על ידי שאילת שאלות פשוטות. אנא עקוב אחר ההוראות בראש המסך עבור כל אתגר. למידע נוסף בקרו באתר",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha הוא שירות המפחית בוטים וספאם על ידי שאלת שאלות פשוטות. אנא עקוב אחר ההוראות בחלק העליון של המסך עבור כל אתגר. למידע נוסף בקר בכתובת {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "תוקף אסימון האבטחה של hCaptcha פג. אנא השלם את האתגר שוב.",

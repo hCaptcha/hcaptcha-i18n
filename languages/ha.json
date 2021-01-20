@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "Dokar Sirri ta hCaptcha",
     "hCaptcha Terms of Service": "hCaptcha Terms of Service",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "akwatin hCaptcha. Zaɓi don haifar da ƙalubalen, ko ƙetare shi idan kuna da damar samun kuki.",
-    "hCaptcha checkbox. You are verified I am human.": "akwatin hCaptcha. Ka tabbatar Ni mutum ne.",
+    "hCaptcha checkbox. You are verified": "hCaptcha akwati. An tabbatar da ku",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha sabis ne wanda ke rage bots da spam ta hanyar yin tambayoyi masu sauƙi. Da fatan za a bi umarni a saman allon don kowane kalubale. Don ƙarin bayani ziyarci",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha sabis ne wanda ke rage bots da spam ta hanyar yin tambayoyi masu sauƙi. Da fatan za a bi umarnin a saman allo don kowane ƙalubale. Don karin bayani ziyarci {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha alamar tsaro ta ƙare. Da fatan za a sake kammala ƙalubalen.",

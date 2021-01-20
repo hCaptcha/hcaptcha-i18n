@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha የግላዊነት ፖሊሲ",
     "hCaptcha Terms of Service": "hCaptcha የአገልግሎት ውል",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha አመልካች ሳጥን። ተግዳሮቱን ለመቀስቀስ ወይም የተደራሽነት ኩኪ ካለዎት እሱን ለማለፍ ይምረጡ።",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha አመልካች ሳጥን። እርስዎ ተረጋግጠዋል እርስዎ ሰው ነኝ ፡፡",
+    "hCaptcha checkbox. You are verified": "hCaptcha አመልካች ሳጥን። ተረጋግጠዋል",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha ቀላል ጥያቄዎችን በመጠየቅ ቡት እና አይፈለጌ መልእክት የሚቀንስ አገልግሎት ነው ፡፡ እባክዎ ለእያንዳንዱ ፈተና በማያ ገጹ አናት ላይ ያሉትን መመሪያዎች ይከተሉ። ለተጨማሪ መረጃ ጎብኝ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha ቀላል ጥያቄዎችን በመጠየቅ ቦቶችን እና አይፈለጌ መልዕክቶችን የሚቀንስ አገልግሎት ነው ፡፡ ለእያንዳንዱ ተግዳሮት በማያ ገጹ አናት ላይ ያሉትን መመሪያዎች ይከተሉ ፡፡ ለተጨማሪ መረጃ {{site-url}} ን ይጎብኙ",
     "hCaptcha security token has expired. Please complete the challenge again.": "የ hCaptcha ደህንነት ማስመሰያ ጊዜው አብቅቷል። እባክዎ ፈተናውን እንደገና ያጠናቅቁ።",

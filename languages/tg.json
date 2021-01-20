@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "сиёсати махфияти hCaptcha",
     "hCaptcha Terms of Service": "Шартҳои хидмат hCaptcha",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "қуттии қуттии hCaptcha. Барои оғоз кардани мушкилот ё интиқол додани он, агар шумо куки дастрасӣ дошта бошад, интихоб кунед.",
-    "hCaptcha checkbox. You are verified I am human.": "қуттии қуттии hCaptcha. Шумо исбот кардед, ки ман инсон ҳастам.",
+    "hCaptcha checkbox. You are verified": "қуттии қайдкунии hCaptcha. Шумо тасдиқ кардаед",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha хидматест, ки бо гузоштани саволҳои оддӣ ботҳо ва спамро коҳиш медиҳад. Лутфан дастурҳои дар қисми болоии экран барои ҳар як мушкилотро иҷро кунед. Барои гирифтани маълумоти иловагӣ",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha хидматест, ки бо саволҳои оддӣ ботҳо ва спамро коҳиш медиҳад. Лутфан дастурҳои болои экранро барои ҳар як мушкилот иҷро кунед. Барои маълумоти иловагӣ аз {{site-url}} боздид кунед",
     "hCaptcha security token has expired. Please complete the challenge again.": "Нишони амниятии hCaptcha гузаштааст. Лутфан мушкилотро дубора анҷом диҳед.",

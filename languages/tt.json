@@ -91,7 +91,7 @@
     "hCaptcha Privacy Policy": "hCaptcha хосусыйлык политикасы",
     "hCaptcha Terms of Service": "hCaptcha хезмәт шартлары",
     "hCaptcha checkbox. Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie.": "hCaptcha пункты. Авырлыкны башлап җибәрү өчен, яисә сезнең кукигыз булса, аны читләтеп узу өчен сайлагыз.",
-    "hCaptcha checkbox. You are verified I am human.": "hCaptcha пункты. Сез минем кеше икәнегезне расладыгыз.",
+    "hCaptcha checkbox. You are verified": "hCaptcha пункты. Сез раслангансыз",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен керегез",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha - гади сораулар биреп ботларны һәм спамны киметүче хезмәт. Зинһар, һәр проблема өчен экран өстендәге күрсәтмәләрне үтәгез. Күбрәк мәгълүмат өчен {{site-url}} сайтына керегез",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha куркынычсызлык билгесе бетте. Зинһар, проблеманы кабат тәмамлагыз.",
