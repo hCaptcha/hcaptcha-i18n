@@ -97,7 +97,7 @@
                 "text": "Please select an image to report."
             },
             "language_selector": {
-                "aria_label": "Select a language:" 
+                "aria_label": "Select a language" 
             }
         },
         "modal": {
