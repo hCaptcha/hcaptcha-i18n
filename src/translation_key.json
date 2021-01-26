@@ -15,7 +15,7 @@
         },
         "interface": {
             "logo": {
-                "aria_label": "The hCaptcha user information page. Learn more about the service and accessibility options."
+                "aria_label": "Visit hcaptcha.com to learn more about the service and its accessibility options."
             },
             "links": {
                 "privacy": {
