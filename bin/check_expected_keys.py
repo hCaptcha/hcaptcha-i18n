@@ -34,8 +34,11 @@ found = set(list(NestedDictKeys(data2)))
 
 diff = wanted.difference(found)
 
+wanted_len = len(wanted)
+found_len = len(found)
+
 if diff:
-    print(f"{to_check}: wanted {len(wanted)} found {len(found)}")
+    print(f"{to_check}: wanted {wanted_len} found {found_len}")
     print(diff)
     sys.exit(1)
 
