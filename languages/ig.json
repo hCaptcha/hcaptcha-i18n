@@ -85,7 +85,7 @@
     "View our accessibility option.": "Lelee nhọrọ nnweta anyị.",
     "Violent": "Ime ihe ike",
     "Visit hcaptcha.com to learn more about the service and its accessibility options.": "Gaa na hcaptcha.com iji mụtakwuo banyere ọrụ ahụ na nhọrọ nnweta ya.",
-    "We will look into the issue immediately.": "Anyị ga-eleba anya n&#39;okwu a ozugbo.",
+    "We will look into the issue immediately.": "Anyị ga-eleba anya n'okwu a ozugbo.",
     "We'll resolve your issue as quickly as we can.": "Anyị ga-edozi okwu gị ozugbo anyị nwere ike.",
     "Your computer or network has sent too many requests.": "Kọmputa ma ọ bụ netwọkụ gị ezigala ọtụtụ arịrịọ.",
     "hCaptcha Privacy Policy": "Iwu nzuzo nke hCaptcha",
@@ -95,7 +95,7 @@
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more info visit": "hCaptcha bụ ọrụ na-ebelata bots na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka dị n’elu ihuenyo maka aka mgba ọ bụla. Maka ozi ndị ọzọ nleta",
     "hCaptcha is a service that reduces bots and spam by asking simple questions. Please follow the instructions at the top of the screen for each challenge. For more information visit {{site-url}}": "hCaptcha bụ ọrụ na-ebelata bọọlụ na spam site na ịjụ ajụjụ dị mfe. Biko soro ntuziaka ndị ahụ n’elu ihuenyo maka nsogbu ọ bụla. Maka ozi ndị ọzọ gaa na {{site-url}}",
     "hCaptcha security token has expired. Please complete the challenge again.": "hCaptcha akara ngosi ejirila kubie ume. Biko mezue nsogbu a.",
-    "hCaptcha window closed due to timeout.": "Emechie windoCCaptcha n&#39;ihi oge.",
+    "hCaptcha window closed due to timeout.": "Emechie windoCCaptcha n'ihi oge.",
     "widget error message text": "ederede njehie ihe ederede",
     "widget warning message text": "ederede ozi ịdọ aka ná ntị wijetị"
 }
