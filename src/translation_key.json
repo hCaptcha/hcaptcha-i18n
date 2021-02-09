@@ -97,7 +97,16 @@
                 "text": "Please select an image to report."
             },
             "language_selector": {
-                "aria_label": "Select a language" 
+                "aria_label": "Select a language"
+            },
+            "zoom_in": {
+                "aria_label": "Zoom in"
+            },
+            "zoom_out": {
+                "aria_label": "Zoom out"
+            },
+            "zoom_reset": {
+                "aria_label": "Reset zoom"
             }
         },
         "modal": {
