@@ -1,6 +1,6 @@
 {
     "Accessibility": "Přístupnost",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Soubor cookie přístupnosti není nastaven. {{retrieve-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Soubor cookie pro přístup není nastaven. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Soubor cookie přístupnosti je nastaven. Pokud potřebujete pomoc, pošlete e-mail na adresu {{support}}",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Přístupnost. V této položce nabídky se dozvíte, jak povolit hCaptcha přístupnost, která vám umožní obejít výzvu prostřednictvím e-mailového odkazu.",
     "Back": "zadní",
@@ -11,7 +11,7 @@
     "Cannot contact hCaptcha. Check your connection and try again.": "Nelze kontaktovat hCaptcha. Zkontrolujte připojení a zkuste to znovu.",
     "Check": "Zkontrolovat",
     "Close": "Zavřít",
-    "Close Modal": "Přeskočit výzvu",
+    "Close Modal": "Zavřít okno",
     "Cookies are disabled or the accessibility cookie is not set. {{enable-cookies}}": "Soubory cookie jsou zakázány nebo není nastaven soubor cookie přístupnosti. {{enable-cookies}}",
     "Describe why you are reporting an image.": "Popište, proč hlásíte obrázek.",
     "Enable cross-site cookies.": "Povolte soubory cookie napříč weby.",
