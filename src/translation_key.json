@@ -251,6 +251,9 @@
             "examples_expand": {
                 "aria_label": "View more examples."
             },
+            "examples_collapsed": {
+                "aria_label": "Hide examples."
+            },
             "examples_image": {
                 "aria_label": "Example image"
             }
