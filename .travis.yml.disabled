@@ -1,6 +1,0 @@
-language: generic
-addons:
-    apt:
-        packages:
-            - jq
-script: "bash tests/validate.sh"
