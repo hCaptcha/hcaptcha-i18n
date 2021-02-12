@@ -1,6 +1,6 @@
 {
     "Accessibility": "Erişilebilirlik",
-    "Accessibility cookie is not set. {{retrieve-cookie}}": "Erişilebilirlik çerezi ayarlanmadı.Erişilebilirlik çerezini alın. {{retrieve-cookie}}",
+    "Accessibility cookie is not set. {{retrieve-cookie}}": "Erişilebilirlik çerezi ayarlanmadı. {{retrieve-cookie}}",
     "Accessibility cookie is set. For help, please email {{support}}": "Erişilebilirlik çerezi ayarlandı. Yardım için lütfen {{support}} adresine e-posta gönderin",
     "Accessibility. Visit this menu entry to learn how to enable hCaptcha accessibility, which allows you to bypass the challenge via an emailed link.": "Erişilebilirlik. E-postayla gönderilen bir bağlantı yoluyla meydan okumayı atlamanıza olanak tanıyan hCaptcha erişilebilirliğini nasıl etkinleştireceğinizi öğrenmek için bu menü girişini ziyaret edin.",
     "Back": "Geri",
@@ -19,7 +19,7 @@
     "Error fetching captcha.": "Captcha getirilirken hata oluştu.",
     "Error submitting captcha.": "Captcha gönderilirken hata oluştu.",
     "Example image": "Örnek resim",
-    "Feedback": "geri bildirim",
+    "Feedback": "Geribildirim",
     "Get information about hCaptcha and accessibility options.": "HCaptcha ve erişilebilirlik seçenekleri hakkında bilgi alın.",
     "Get information about hCaptcha.": "HCaptcha hakkında bilgi alın.",
     "Give a detailed report of a bug you've encountered.": "Karşılaştığınız bir hatanın ayrıntılı raporunu verin.",
