@@ -27,6 +27,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Test
-        run: |
-          sudo apt-get install --no-install-recommends -y jq
-          bash tests/validate.sh
+        run: bash tests/validate.sh
